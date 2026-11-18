@@ -4270,6 +4270,15 @@
 }
 ],
 "q:lorenzo l incredibile avventura di jovanotti": [],
+"q:lorenzo lincredibile avventura di jovanotti": [
+{
+"id": "tt6827066",
+"l": "Lorenzo Jovanotti: Pieno di Vita",
+"q": "musicVideo",
+"s": "Jovanotti, Gregory Lee Kenyon",
+"y": 2015
+}
+],
 "q:marco zuin": [
 {
 "id": "nm4707282",
@@ -8084,6 +8093,22 @@
 }
 ],
 "q:tosca d aquino": [
+{
+"id": "nm0195388",
+"l": "Tosca D'Aquino",
+"q": null,
+"s": "Actress, Il maresciallo Rocca (1996)",
+"y": null
+},
+{
+"id": "tt0053190",
+"l": "La primera fundación de Buenos Aires",
+"q": "short",
+"s": "Raúl De Lange",
+"y": 1959
+}
+],
+"q:tosca daquino": [
 {
 "id": "nm0195388",
 "l": "Tosca D'Aquino",
