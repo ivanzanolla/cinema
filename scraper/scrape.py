@@ -22,7 +22,7 @@ from urllib.parse import quote, urljoin
 from zoneinfo import ZoneInfo
 
 from bs4 import BeautifulSoup
-from curl_cffi import requests as http
+import requests
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "site" / "data.json"
@@ -33,8 +33,14 @@ TZ = ZoneInfo("Europe/Rome")
 TODAY = datetime.now(TZ).date()
 DAYS_AHEAD = 10
 
-session = http.Session(impersonate="chrome", timeout=30)
-session.headers.update({"Accept-Language": "it-IT,it;q=0.9,en;q=0.8"})
+TIMEOUT = 30
+session = requests.Session()
+session.headers.update({
+    "User-Agent": "InSala/1.0 (aggregatore personale programmazione cinema; +https://github.com/ivanzanolla/cinema)",
+    "Accept-Language": "it-IT,it;q=0.9,en;q=0.8",
+})
+_req = session.request
+session.request = lambda m, u, **kw: _req(m, u, **{"timeout": TIMEOUT, **kw})
 
 
 def log(*a):
@@ -48,8 +54,10 @@ def get(url, **kw):
             if r.status_code == 200:
                 return r
             log(f"  HTTP {r.status_code} {url}")
-            if r.status_code in (403, 404):
-                r.raise_for_status()
+            if r.status_code in (202, 403, 404, 429):
+                raise RuntimeError(f"HTTP {r.status_code}: il sito non accetta richieste automatiche da qui")
+        except RuntimeError:
+            raise
         except Exception as e:  # noqa: BLE001
             if attempt == 2:
                 raise
