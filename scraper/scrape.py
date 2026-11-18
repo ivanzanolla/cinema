@@ -12,13 +12,14 @@ from __future__ import annotations
 import json
 import re
 import sys
+import threading
 import time
 import traceback
 import unicodedata
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date, datetime, timedelta
 from pathlib import Path
-from urllib.parse import quote, urljoin
+from urllib.parse import quote, urljoin, urlparse
 from zoneinfo import ZoneInfo
 
 from bs4 import BeautifulSoup
@@ -47,23 +48,48 @@ def log(*a):
     print(*a, file=sys.stderr, flush=True)
 
 
-def get(url, **kw):
-    for attempt in range(3):
+# intervallo minimo tra richieste allo stesso host (cortesia + rate limit dei siti)
+MIN_INTERVAL = {"coneglianocinergia.18tickets.it": 2.5}
+_last_hit = {}
+_lock = threading.Lock()
+
+
+def _throttle(url):
+    host = urlparse(url).netloc
+    gap = MIN_INTERVAL.get(host, 0.3)
+    with _lock:
+        wait = _last_hit.get(host, 0) + gap - time.monotonic()
+        _last_hit[host] = max(time.monotonic(), _last_hit.get(host, 0) + gap)
+    if wait > 0:
+        time.sleep(wait)
+
+
+def request(method, url, **kw):
+    for attempt in range(4):
+        _throttle(url)
         try:
-            r = session.get(url, **kw)
-            if r.status_code == 200:
-                return r
-            log(f"  HTTP {r.status_code} {url}")
-            if r.status_code in (202, 403, 404, 429):
-                raise RuntimeError(f"HTTP {r.status_code}: il sito non accetta richieste automatiche da qui")
-        except RuntimeError:
-            raise
+            r = session.request(method, url, **kw)
         except Exception as e:  # noqa: BLE001
-            if attempt == 2:
+            if attempt == 3:
                 raise
             log(f"  retry {url}: {e}")
-        time.sleep(2 * (attempt + 1))
+            time.sleep(3 * (attempt + 1))
+            continue
+        if r.status_code == 200:
+            return r
+        log(f"  HTTP {r.status_code} {url}")
+        if r.status_code == 429 and attempt < 3:
+            ra = r.headers.get("Retry-After", "")
+            time.sleep(min(int(ra) if ra.isdigit() else 20 * (attempt + 1), 90))
+            continue
+        if r.status_code in (202, 403, 404, 429):
+            raise RuntimeError(f"HTTP {r.status_code}: il sito non accetta richieste automatiche da qui")
+        time.sleep(3 * (attempt + 1))
     raise RuntimeError(f"failed {url}")
+
+
+def get(url, **kw):
+    return request("GET", url, **kw)
 
 
 def soup(html):
@@ -258,8 +284,7 @@ def scrape_cinergia():
             "shows": shows,
         }
 
-    with ThreadPoolExecutor(4) as ex:
-        return [f for f in ex.map(one, sorted(ids)) if f["shows"]]
+    return [f for f in map(one, sorted(ids)) if f["shows"]]
 
 
 # ---------------------------------------------------------------- Lumiere (Webtic)
@@ -351,10 +376,9 @@ def scrape_verdi():
     films = {}
     for i in range(DAYS_AHEAD + 1):
         d = TODAY + timedelta(days=i)
-        r = session.post(f"{base}/wp-admin/admin-ajax.php",
-                         data={"action": "cs_ajax_projections_by_day", "date": d.strftime("%d/%m/%Y")},
-                         headers={"X-Requested-With": "XMLHttpRequest", "Referer": base + "/"})
-        r.raise_for_status()
+        r = request("POST", f"{base}/wp-admin/admin-ajax.php",
+                    data={"action": "cs_ajax_projections_by_day", "date": d.strftime("%d/%m/%Y")},
+                    headers={"X-Requested-With": "XMLHttpRequest", "Referer": base + "/"})
         html = r.json().get("data") or ""
         for row in soup(html).select(".projections-film-table-row"):
             a = row.select_one(".projections-film-table-title a")
