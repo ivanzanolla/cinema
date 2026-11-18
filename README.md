@@ -8,6 +8,16 @@ Cinema: The Space Silea, Cinergia Conegliano, Multisala Verdi Vittorio Veneto, L
 - `site/index.html` è la pagina (statica, legge `data.json`)
 - `.github/workflows/update.yml` gira ogni giorno (circa 05:15 e 12:45) e pubblica su GitHub Pages; si lancia a mano da *Actions → Aggiorna programmazione → Run workflow*
 
+## The Space dal Mac
+
+Il sito di The Space respinge le richieste dai server di GitHub. Il Mac scarica quindi la sua programmazione con `scraper/thespace.py` e pubblica `data/thespace.json`; il push fa ripartire il workflow.
+
+- installazione (una volta): `bash local/install.sh` (job launchd alle 07:40 e 13:10, o al risveglio)
+- prova a mano: `bash local/run.sh`; log in `~/Library/Logs/insala-thespace.log`
+- rimozione: `bash local/uninstall.sh`
+
+Se il Mac resta spento più di 36 ore, la pagina avvisa che gli orari di The Space possono essere vecchi.
+
 Se un sito cambia struttura o blocca la richiesta, quel cinema mostra i dati dell'ultimo aggiornamento riuscito e il problema compare nel footer della pagina.
 
 Per aggiungere un cinema: una funzione `scrape_xxx()` che restituisce film con `shows`, più una voce in `CINEMAS` e un colore `--xxx` nel CSS.

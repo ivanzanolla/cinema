@@ -171,58 +171,34 @@ def window(d):
 
 # ---------------------------------------------------------------- The Space
 
+SOURCE_META = {}
+
+
 def scrape_thespace():
-    cid = "space"
-    base = "https://www.thespacecinema.it"
-    cinema_id = "1009"
-    hdr = {"Accept": "application/json", "Referer": f"{base}/cinema/silea/al-cinema"}
-    dates = get(f"{base}/api/microservice/showings/showingDates?cinemaId={cinema_id}"
-                f"&minEmbargoLevel=2&forNextWeek=true", headers=hdr).json()["result"]
-    films = {}
-    for d in dates:
-        if not d.get("hasShowings"):
-            continue
-        day = d["showingDate"][:10]
-        if date.fromisoformat(day) > TODAY + timedelta(days=DAYS_AHEAD):
-            continue
-        data = get(f"{base}/api/microservice/showings/cinemas/{cinema_id}/films?showingDate={day}T00:00:00"
-                   f"&minEmbargoLevel=3&includesSession=true&includeSessionAttributes=true",
-                   headers=hdr).json()["result"]
-        for f in data:
-            fid = f["filmId"]
-            film = films.get(fid)
-            if not film:
-                film = films[fid] = {
-                    "title": f.get("filmTitle"),
-                    "originalTitle": f.get("originalTitle") or None,
-                    "director": split_people(f.get("director")),
-                    "cast": split_people(f.get("cast"), 8),
-                    "runtime": f.get("runningTime") or None,
-                    "genres": [g.capitalize() for g in f.get("genres") or []],
-                    "poster": f.get("posterImageSrc"),
-                    "plot": f.get("synopsisShort"),
-                    "year": None,
-                    "release": (f.get("releaseDate") or "")[:10] or None,
-                    "rating": (f.get("certificate") or {}).get("name"),
-                    "trailer": None,
-                    "page": f.get("filmUrl"),
-                    "shows": [],
-                }
-            for g in f.get("showingGroups") or []:
-                for s in g.get("sessions") or []:
-                    st = datetime.fromisoformat(s["startTime"])
-                    tags = []
-                    for a in s.get("attributes") or []:
-                        n = (a.get("name") or "").strip()
-                        if a.get("attributeType") == "Language":
-                            if n and n.upper() != "ITALIANO":
-                                tags.append("VOS" if "SOTT" in n.upper() or "ORIG" in n.upper() else n.title())
-                        elif n and n.upper() not in ("2D",) and "LASER" not in n.upper():
-                            tags.append(n)
-                    film["shows"].append(show(
-                        cid, st.date(), st.strftime("%H:%M"), urljoin(base, s.get("bookingUrl") or ""),
-                        s.get("screenName"), tags, s.get("isSoldOut")))
-    return list(films.values())
+    """API diretta se raggiungibile, altrimenti il file prodotto dal Mac (local/)."""
+    sys.path.insert(0, str(Path(__file__).parent))
+    import thespace
+    try:
+        films = thespace.scrape(TODAY)
+        SOURCE_META["space"] = {"via": "api"}
+        return films
+    except Exception as e:  # noqa: BLE001
+        log(f"  API diretta non disponibile ({e}); uso data/thespace.json dal Mac")
+    p = ROOT / "data" / "thespace.json"
+    if not p.exists():
+        raise RuntimeError("nessun dato dal Mac (data/thespace.json assente)")
+    d = json.loads(p.read_text())
+    gen = datetime.fromisoformat(d["generated"])
+    age_h = (datetime.now(TZ) - gen).total_seconds() / 3600
+    films = []
+    for f in d["films"]:
+        f["shows"] = [x for x in f["shows"] if x["date"] >= TODAY.isoformat()]
+        if f["shows"]:
+            films.append(f)
+    SOURCE_META["space"] = {"via": "mac", "fetched": d["generated"]}
+    if age_h > 36:
+        SOURCE_META["space"].update(stale=True, staleSince=d["generated"])
+    return films
 
 
 # ---------------------------------------------------------------- Cinergia (18tickets)
@@ -523,7 +499,7 @@ def main():
             if not n:
                 raise RuntimeError("nessuno spettacolo trovato")
             results[c["id"]] = films
-            status[c["id"]] = {"ok": True, "films": len(films), "shows": n}
+            status[c["id"]] = {"ok": True, "films": len(films), "shows": n, **SOURCE_META.get(c["id"], {})}
             log(f"  ok: {len(films)} film, {n} spettacoli ({time.time() - t0:.1f}s)")
         except Exception as e:  # noqa: BLE001
             traceback.print_exc()

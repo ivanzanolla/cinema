@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["site/**", "scraper/**", ".github/workflows/**"]
+    paths: ["site/**", "scraper/**", "data/thespace.json", ".github/workflows/**"]
 
 permissions:
   contents: write

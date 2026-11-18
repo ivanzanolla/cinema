@@ -199,7 +199,7 @@ function renderCinemas(){
 function renderFooter(){
   const st = DATA.cinemas.map(c => {
     const s = c.status || {};
-    if (s.ok) return `<span><span class="dot" style="display:inline-block;background:var(--${c.id})"></span> <a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.name)}</a>: ${s.films} film, ${s.shows} spettacoli</span>`;
+    if (s.ok && !s.stale) return `<span><span class="dot" style="display:inline-block;background:var(--${c.id})"></span> <a href="${esc(c.url)}" target="_blank" rel="noopener">${esc(c.name)}</a>: ${s.films} film, ${s.shows} spettacoli</span>`;
     return `<span class="warn">${esc(c.name)}: ${s.stale ? "dati dell'ultimo aggiornamento riuscito" : "non disponibile"} (${esc(s.error||"errore")})</span>`;
   }).join("");
   $("#footer").innerHTML = `<div class="st">${st}</div>Orari presi dai siti dei cinema, aggiornati ogni giorno. Il biglietto si compra sul sito del cinema: verifica sempre lì orario e sala. L'orario di fine è indicativo (durata del film, senza pubblicità).`;
@@ -289,7 +289,7 @@ function render(){
   else if (state.sort === "new") items.sort((a,b) => (b.f.year||0)-(a.f.year||0) || a.f.title.localeCompare(b.f.title,"it"));
   else items.sort((a,b) => allPast(a)-allPast(b) || (firstUpcoming(a).date+firstUpcoming(a).time).localeCompare(firstUpcoming(b).date+firstUpcoming(b).time));
 
-  const down = DATA.cinemas.filter(c => state.cinemas.has(c.id) && !(c.status||{}).ok);
+  const down = DATA.cinemas.filter(c => state.cinemas.has(c.id) && (!(c.status||{}).ok || (c.status||{}).stale));
   $("#notice").innerHTML = down.length ? `<div class="notice">${down.map(c => (c.status||{}).stale
       ? `${esc(c.name)}: orari dell'ultimo aggiornamento riuscito, possono essere cambiati. <a href="${esc(c.url)}" target="_blank" rel="noopener">Controlla sul sito</a>`
       : `${esc(c.name)}: programmazione non disponibile qui. <a href="${esc(c.url)}" target="_blank" rel="noopener">Apri il sito del cinema</a>`).join("<br>")}</div>` : "";
