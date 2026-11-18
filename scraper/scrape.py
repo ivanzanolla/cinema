@@ -133,7 +133,7 @@ def split_people(s, limit=None):
 
 VOS_RE = re.compile(r"\(?\s*v\.?\s*o\.?\s*s\.?\s*\)?|\[\s*sub[^\]]*\]|\bsub\s+eng\b|\bversione originale\b", re.I)
 NOISE_RE = re.compile(
-    r"\b(riediz(ione)?|anteprima|preview|ed\.?\s*rest\.?|restaurat[oa]|4k|3d|2d)\b\.?", re.I)
+    r"\b(riediz(ione)?|anteprima([\s:]*(del\s+)?\d{1,2}\s+[a-z]+)?|preview|ed\.?\s*rest\.?|restaurat[oa]|4k|3d|2d)\b\.?", re.I)
 
 
 def is_vos(title):
@@ -150,7 +150,8 @@ def clean_title(title):
 
 
 def norm(s):
-    s = unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode().lower()
+    s = re.sub(r"['’‘`]", "", s or "")
+    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
     return re.sub(r"[^a-z0-9]+", " ", s).strip()
 
 
@@ -474,11 +475,17 @@ class Imdb:
                 if not (i["id"] or "").startswith("tt") or i["q"] not in ("movie", "tvMovie", "video", None):
                     continue
                 same = norm(i["l"]) == norm(t)
-                y_ok = (year is None and (i["y"] or 0) >= TODAY.year - 2) or (
-                    year is not None and i["y"] and abs(i["y"] - year) <= 1)
+                y_ok = year is not None and i["y"] and abs(i["y"] - year) <= 1
                 dir_ok = director and any(norm(d) in norm(i.get("s") or "") for d in director)
                 if same and (y_ok or dir_ok):
                     return f"https://www.imdb.com/title/{i['id']}/"
+            if year is None:
+                # anno ignoto: accetto solo se c'è un unico film recente con quel titolo esatto
+                recent = [i for i in self.suggest(t) if (i["id"] or "").startswith("tt")
+                          and i["q"] in ("movie", None) and norm(i["l"]) == norm(t)
+                          and (i["y"] or 0) >= TODAY.year - 2]
+                if len(recent) == 1:
+                    return f"https://www.imdb.com/title/{recent[0]['id']}/"
         t = next((x for x in titles if x), "")
         return f"https://www.imdb.com/find/?q={quote(t)}&s=tt&ttype=ft"
 

@@ -54,8 +54,10 @@ main{padding:16px 0 60px}
 .summary{color:var(--muted);font-size:13px;margin:0 0 14px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(520px,1fr));gap:14px}
 @media (max-width:600px){.grid{grid-template-columns:1fr}}
-.film{display:grid;grid-template-columns:132px 1fr;gap:16px;background:var(--panel);border:1px solid var(--line);border-radius:var(--r);padding:14px;position:relative}
-@media (max-width:600px){.film{grid-template-columns:96px 1fr;gap:12px;padding:12px}}
+.film{display:grid;grid-template-columns:132px 1fr;grid-template-rows:auto 1fr;gap:0 16px;background:var(--panel);border:1px solid var(--line);border-radius:var(--r);padding:14px;position:relative}
+.film > .pcol{grid-row:1 / span 2}
+.film > .below{grid-column:2;min-width:0}
+@media (max-width:600px){.film{grid-template-columns:92px 1fr;gap:0 12px;padding:12px}.film > .pcol{grid-row:1}.film > .below{grid-column:1 / -1}.people.cast .more{display:none}}
 .poster{width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:9px;background:var(--panel2);display:block}
 .poster.ph{display:flex;align-items:center;justify-content:center;font:400 22px "Bebas Neue";color:var(--dim);text-align:center;padding:8px}
 .title{font:400 27px/1 "Bebas Neue",Impact,sans-serif;letter-spacing:.02em;margin:0 0 4px;text-transform:uppercase}
@@ -67,10 +69,11 @@ main{padding:16px 0 60px}
 .people b{color:var(--text);font-weight:600}
 .people a{color:var(--text);text-decoration:none;border-bottom:1px solid rgba(232,176,74,.45)}
 .people a:hover{color:var(--accent)}
-.people .cast a{color:var(--muted);border-bottom-color:var(--line)}
+.people.cast a{color:var(--muted);border-bottom-color:var(--line)}
 .shows{margin-top:10px;display:flex;flex-direction:column;gap:8px}
 .cgroup{display:flex;flex-wrap:wrap;align-items:center;gap:6px}
-.clabel{display:flex;align-items:center;gap:6px;font-size:12px;font-weight:600;color:var(--muted);width:100%;text-transform:uppercase;letter-spacing:.05em}
+.clabel{display:flex;align-items:center;gap:6px;font-size:12.5px;font-weight:600;color:var(--text);width:100%;letter-spacing:.01em}
+.clabel span.pl{color:var(--dim);font-weight:400}
 .dayl{font-size:12px;font-weight:700;color:var(--text);text-transform:capitalize;margin-top:4px}
 .time{display:inline-flex;flex-direction:column;align-items:center;text-decoration:none;background:var(--panel2);border:1px solid var(--line);border-radius:9px;padding:5px 10px 4px;min-width:62px;transition:border-color .15s,background .15s}
 .time:hover{border-color:var(--accent);background:#2a2520}
@@ -229,7 +232,7 @@ function showsHtml(f, shows){
       const days = [...new Set(cs.map(s => s.date))];
       inner = days.map(d => `<div class="dayl" style="width:100%">${dayLabel(d)}</div>` + cs.filter(s => s.date === d).map(s => timeBtn(s, f)).join("")).join("");
     } else inner = cs.map(s => timeBtn(s, f)).join("");
-    return `<div class="cgroup"><div class="clabel"><span class="dot" style="background:var(--${c})"></span>${esc(cin.name)} · ${esc(cin.place)}</div>${inner}</div>`;
+    return `<div class="cgroup"><div class="clabel"><span class="dot" style="background:var(--${c})"></span>${esc(cin.name)} <span class="pl">${esc(cin.place)}</span></div>${inner}</div>`;
   }).join("");
 }
 
@@ -241,19 +244,21 @@ function filmHtml(f, shows){
   ].filter(Boolean).map(esc).map(x => `<span>${x}</span>`).join("");
   const age = f.rating && !/^t$/i.test(f.rating) ? `<span class="age">${esc(f.rating)}</span>` : "";
   const dir = (f.director||[]).map(d => `<a href="${esc(d.imdb)}" target="_blank" rel="noopener">${esc(d.name)}</a>`).join(", ");
-  const cast = (f.cast||[]).map(a => `<a href="${esc(a.imdb)}" target="_blank" rel="noopener">${esc(a.name)}</a>`).join(", ");
+  const cast = (f.cast||[]).map((a,i) => `<span${i>=4?' class="more"':''}>${i?', ':''}<a href="${esc(a.imdb)}" target="_blank" rel="noopener">${esc(a.name)}</a></span>`).join("");
   const poster = f.poster
     ? `<img class="poster" loading="lazy" src="${esc(f.poster)}" alt="" referrerpolicy="no-referrer" onerror="this.outerHTML='<div class=\\'poster ph\\'>${esc(f.title).replace(/'/g,"")}</div>'">`
     : `<div class="poster ph">${esc(f.title)}</div>`;
   const pages = Object.entries(f.pages||{}).filter(([,u]) => u);
   return `<article class="film" id="${esc(f.id)}">
-    <div>${poster}</div>
+    <div class="pcol">${poster}</div>
     <div style="min-width:0">
       <h2 class="title">${esc(f.title)}</h2>
       ${f.originalTitle ? `<div class="orig">${esc(f.originalTitle)}</div>` : ""}
       <div class="meta">${meta}${age}</div>
       ${dir ? `<div class="people"><b>Regia</b> ${dir}</div>` : ""}
       ${cast ? `<div class="people cast"><b>Con</b> ${cast}</div>` : ""}
+    </div>
+    <div class="below">
       <div class="shows">${showsHtml(f, shows)}</div>
       <div class="links">
         ${f.plot ? `<button data-plot>Trama</button>` : ""}
