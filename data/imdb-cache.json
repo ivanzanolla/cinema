@@ -29,6 +29,15 @@
 "y": 2000
 }
 ],
+"q:agata christian delitto sulle nevi": [
+{
+"id": "tt36396485",
+"l": "Agata Christian - Delitto sulle nevi",
+"q": "movie",
+"s": "Christian De Sica, Pasquale Petrolo",
+"y": 2026
+}
+],
 "q:aju makita": [
 {
 "id": "nm5309381",
@@ -247,6 +256,36 @@
 "y": null
 }
 ],
+"q:alicia vikander": [
+{
+"id": "nm2539953",
+"l": "Alicia Vikander",
+"q": null,
+"s": "Actress, Ex Machina (2014)",
+"y": null
+},
+{
+"id": "tt6573046",
+"l": "Vanity Fair: Alicia Vikander Calls Random People in Sweden",
+"q": "short",
+"s": "Alicia Vikander",
+"y": 2016
+},
+{
+"id": "nm4990268",
+"l": "Alisha Vander Ahe",
+"q": null,
+"s": "Visual Effects, Black Panther (2018)",
+"y": null
+},
+{
+"id": "nm11097654",
+"l": "Alicia Eskander",
+"q": null,
+"s": "Actor, Sands of Fate: A Star Wars Story (2023)",
+"y": null
+}
+],
 "q:alma noce": [
 {
 "id": "nm5725935",
@@ -435,6 +474,122 @@
 "q": "short",
 "s": "Richard Travers, Nell Craig",
 "y": 1916
+}
+],
+"q:aoi yuki": [
+{
+"id": "nm2976492",
+"l": "Aoi Yûki",
+"q": null,
+"s": "Actress, Your Name. (2016)",
+"y": null
+},
+{
+"id": "nm11421269",
+"l": "Yuki Aoi",
+"q": null,
+"s": "Actress, Shinnin jokyôshi: Bijutsu-shitsu no jôji (1996)",
+"y": null
+},
+{
+"id": "nm6779248",
+"l": "Ai Fukada",
+"q": null,
+"s": "Additional Crew, Song of the Sea (2014)",
+"y": null
+},
+{
+"id": "tt1545757",
+"l": "Zoku aoi sanmyaku Yukiko no maki",
+"q": "movie",
+"s": "Ichirô Arishima, Keiko Awaji",
+"y": 1957
+},
+{
+"id": "nm17014083",
+"l": "Aoi Yûki",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "tt0105786",
+"l": "Kindan no sono: Za seifuku rezu",
+"q": "movie",
+"s": "Yumika Hayashi, Takeshi Itô",
+"y": 1992
+},
+{
+"id": "nm0001552",
+"l": "Pat Morita",
+"q": null,
+"s": "Actor, The Karate Kid (1984)",
+"y": null
+},
+{
+"id": "tt0092963",
+"l": "The Emperor's Naked Army Marches On",
+"q": "movie",
+"s": "Kenzo Okuzaki, Riichi Aikawa",
+"y": 1987
+}
+],
+"q:ari millen": [
+{
+"id": "nm2826395",
+"l": "Ari Millen",
+"q": null,
+"s": "Actor, The Oak Room (2020)",
+"y": null
+},
+{
+"id": "nm0587926",
+"l": "Arthur C. Miller",
+"q": null,
+"s": "Cinematographer, How Green Was My Valley (1941)",
+"y": null
+},
+{
+"id": "tt33085643",
+"l": "Iron Family",
+"q": "tvSeries",
+"s": "Kim Jung-hyun, Keum Sae-rok",
+"y": 2024
+},
+{
+"id": "nm0591115",
+"l": "Lani Minella",
+"q": null,
+"s": "Actress, World of Warcraft: Battle for Azeroth (2018)",
+"y": null
+},
+{
+"id": "nm1641917",
+"l": "Siri Miller",
+"q": null,
+"s": "Actress, Crazy Ex-Girlfriend (2018-2019)",
+"y": null
+},
+{
+"id": "nm0404649",
+"l": "Marion Hutton",
+"q": null,
+"s": "Actress, Love Happy (1949)",
+"y": null
+},
+{
+"id": "nm0587826",
+"l": "Arthur J. Miller Jr.",
+"q": null,
+"s": "Additional Crew, Women of the Movement (2022)",
+"y": null
+},
+{
+"id": "nm7047346",
+"l": "Sunlen Serfaty",
+"q": null,
+"s": "Actress, Early Start with Rahel Solomon (2025)",
+"y": null
 }
 ],
 "q:ariana grande": [
@@ -720,6 +875,22 @@
 "y": 2013
 }
 ],
+"q:benjamin byron davis": [
+{
+"id": "nm1177880",
+"l": "Benjamin Byron Davis",
+"q": null,
+"s": "Actor, The Terminal List (2026)",
+"y": null
+},
+{
+"id": "nm3296962",
+"l": "Ben d'Abo",
+"q": null,
+"s": "Production Department, Irresistible Impulse (1996)",
+"y": null
+}
+],
 "q:benjamin voisin": [
 {
 "id": "nm8308968",
@@ -778,6 +949,64 @@
 "y": null
 }
 ],
+"q:bill hader": [
+{
+"id": "nm0352778",
+"l": "Bill Hader",
+"q": null,
+"s": "Actor, The Skeleton Twins (2014)",
+"y": null
+},
+{
+"id": "tt13181492",
+"l": "Bill Hader on Salesman",
+"q": "video",
+"s": "Bill Hader",
+"y": 2020
+},
+{
+"id": "tt33499892",
+"l": "Untitled Bill Hader and Duffy Boudreau Project",
+"q": "tvSeries",
+"s": "",
+"y": null
+},
+{
+"id": "tt5919286",
+"l": "Bill Hader on Preston Sturges",
+"q": "short",
+"s": "Bill Hader",
+"y": 2014
+},
+{
+"id": "tt34739610",
+"l": "Scarface with Megan Abbott and Bill Hader",
+"q": "short",
+"s": "Megan Abbott, Bill Hader",
+"y": 2024
+},
+{
+"id": "nm0351744",
+"l": "William Haade",
+"q": null,
+"s": "Actor, Key Largo (1948)",
+"y": null
+},
+{
+"id": "nm1072263",
+"l": "Bill Haber",
+"q": null,
+"s": "Producer, Sky Captain and the World of Tomorrow (2004)",
+"y": null
+},
+{
+"id": "nm0376347",
+"l": "Bill Henderson",
+"q": null,
+"s": "Actor, Clue (1985)",
+"y": null
+}
+],
 "q:blythe danner": [
 {
 "id": "nm0001100",
@@ -826,6 +1055,347 @@
 "l": "Dan Bothe",
 "q": null,
 "s": "Art Department, The Next Three Days (2010)",
+"y": null
+}
+],
+"q:bowen yang": [
+{
+"id": "nm6299248",
+"l": "Bowen Yang",
+"q": null,
+"s": "Actor, High Maintenance (2018)",
+"y": null
+},
+{
+"id": "tt39112006",
+"l": "Untitled Bowen Yang/Matt Rogers Comedy Project",
+"q": "movie",
+"s": "",
+"y": null
+},
+{
+"id": "nm18218591",
+"l": "Bowen Yang",
+"q": null,
+"s": "Stunts, Furious Attack (2026)",
+"y": null
+},
+{
+"id": "tt16044988",
+"l": "Las Culturistas",
+"q": "podcastSeries",
+"s": "Matt Rogers, Bowen Yang",
+"y": 2016
+},
+{
+"id": "nm13293038",
+"l": "Yang Bowen",
+"q": null,
+"s": "Actor, Mosike lí datong bu yuan (2016)",
+"y": null
+},
+{
+"id": "nm8379218",
+"l": "Bowen Wang",
+"q": null,
+"s": "Actor, Weapon & Soul (2016)",
+"y": null
+},
+{
+"id": "nm7692322",
+"l": "Xuwen Yang",
+"q": null,
+"s": "Actor, Strange Tales of Tang Dynasty Ⅱ (2024)",
+"y": null
+},
+{
+"id": "nm10997557",
+"l": "Bowen Wang",
+"q": null,
+"s": "Actor, Jie zi gui cheng (2023)",
+"y": null
+}
+],
+"q:bts": [
+{
+"id": "nm7808003",
+"l": "BTS",
+"q": null,
+"s": "Soundtrack, Eternals (2021)",
+"y": null
+},
+{
+"id": "tt39578551",
+"l": "BTS: The Return",
+"q": "movie",
+"s": "BTS, Park Hyung-sik",
+"y": 2026
+},
+{
+"id": "tt40429056",
+"l": "BTS: SWIM",
+"q": "musicVideo",
+"s": "BTS, j-hope",
+"y": 2026
+},
+{
+"id": "tt7866314",
+"l": "BTS: Bon Voyage",
+"q": "tvSeries",
+"s": "BTS, V",
+"y": 2016
+},
+{
+"id": "tt36986220",
+"l": "BTS",
+"q": "short",
+"s": "Maya Maltseva, Heidi Schooler",
+"y": 2026
+},
+{
+"id": "tt13191804",
+"l": "In the SOOP BTS Ver.",
+"q": "tvSeries",
+"s": "RM, Jin",
+"y": 2020
+},
+{
+"id": "nm6229009",
+"l": "V",
+"q": null,
+"s": "Actor, Hwarang: The Poet Warrior Youth (2016-2017)",
+"y": null
+},
+{
+"id": "tt7865962",
+"l": "Run BTS!",
+"q": "tvSeries",
+"s": "RM, Jin",
+"y": 2015
+}
+],
+"q:bts world tour arirang in kaohsiung live viewing lingua originale": [
+{
+"id": "tt50486016",
+"l": "BTS World Tour 'Arirang' in Kaohsiung: Live Viewing",
+"q": "tvSpecial",
+"s": "j-hope, Jimin",
+"y": 2026
+},
+{
+"id": "tt45591708",
+"l": "BTS World Tour 'Arirang' in São Paulo: Live Viewing",
+"q": "movie",
+"s": "BTS",
+"y": 2026
+},
+{
+"id": "tt45591705",
+"l": "BTS World Tour 'Arirang' in Buenos Aires: Live Viewing",
+"q": "movie",
+"s": "BTS",
+"y": 2026
+},
+{
+"id": "tt42867738",
+"l": "BTS World Tour 'Arirang' in Busan: Live Viewing",
+"q": "movie",
+"s": "BTS, j-hope",
+"y": 2026
+},
+{
+"id": "tt39950539",
+"l": "BTS World Tour 'Arirang' in Goyang: Live Viewing",
+"q": "movie",
+"s": "BTS, j-hope",
+"y": 2026
+},
+{
+"id": "tt50488328",
+"l": "BTS World Tour 'Arirang' in Jakarta: Live Viewing",
+"q": "tvSpecial",
+"s": "j-hope, Jimin",
+"y": 2026
+},
+{
+"id": "tt39950835",
+"l": "BTS World Tour 'Arirang' in Japan: Live Viewing",
+"q": "movie",
+"s": "BTS, j-hope",
+"y": 2026
+}
+],
+"q:cal brunker": [
+{
+"id": "nm2117510",
+"l": "Cal Brunker",
+"q": null,
+"s": "Director, PAW Patrol: The Movie (2021)",
+"y": null
+},
+{
+"id": "nm0107447",
+"l": "Albert Brenner",
+"q": null,
+"s": "Production Designer, 2010: The Year We Make Contact (1984)",
+"y": null
+},
+{
+"id": "nm0699262",
+"l": "Karl Pruner",
+"q": null,
+"s": "Actor, The Recruit (2003)",
+"y": null
+},
+{
+"id": "nm0121582",
+"l": "Al Burke",
+"q": null,
+"s": "Actor, The Wedding Singer (1998)",
+"y": null
+},
+{
+"id": "tt0420261",
+"l": "Topsy and Bunker: The Cat Killers",
+"q": "movie",
+"s": "Quentin Crisp, Steve Gunderson",
+"y": 1992
+},
+{
+"id": "nm6239073",
+"l": "Carl Bruner",
+"q": null,
+"s": "Actor, Training Wheels (2012)",
+"y": null
+},
+{
+"id": "nm4069187",
+"l": "Carl-Friedrich Bringer",
+"q": null,
+"s": "Producer, Wildwest in Westjordanien - Die Siedlerbewegung Gush Emunim in Israel (1977)",
+"y": null
+},
+{
+"id": "nm0105921",
+"l": "Carl Braunger",
+"q": null,
+"s": "Art Director, Get Smart (1969-1970)",
+"y": null
+}
+],
+"q:cameron britton": [
+{
+"id": "nm5866359",
+"l": "Cameron Britton",
+"q": null,
+"s": "Actor, Mindhunter (2017-2019)",
+"y": null
+},
+{
+"id": "nm2471303",
+"l": "Cameron Britton",
+"q": null,
+"s": "Sound Department, Call of Duty: Black Ops 6 (2024)",
+"y": null
+},
+{
+"id": "nm6810647",
+"l": "Cameron Britton",
+"q": null,
+"s": "Production Department, Dissonance (2014)",
+"y": null
+},
+{
+"id": "nm5150130",
+"l": "Cameron Britton",
+"q": null,
+"s": "Visual Effects, Ella at Five (2006)",
+"y": null
+},
+{
+"id": "nm7388213",
+"l": "Brittany Hillard",
+"q": null,
+"s": "Self, Rude Tube (2013)",
+"y": null
+},
+{
+"id": "nm17775815",
+"l": "Cameron Britten",
+"q": null,
+"s": "Composer, Mourning Sunshine (2025)",
+"y": null
+},
+{
+"id": "nm7388214",
+"l": "Cameron Humfleet",
+"q": null,
+"s": "Additional Crew, Rude Tube (2013)",
+"y": null
+},
+{
+"id": "nm8626202",
+"l": "Cameron Britt",
+"q": null,
+"s": "Actor, Espionage (2017)",
+"y": null
+}
+],
+"q:carey mulligan": [
+{
+"id": "nm1659547",
+"l": "Carey Mulligan",
+"q": null,
+"s": "Actress, Never Let Me Go (2010)",
+"y": null
+},
+{
+"id": "nm4746196",
+"l": "Carly Roland",
+"q": null,
+"s": "Actress, Dark Winds (2025)",
+"y": null
+},
+{
+"id": "nm4533826",
+"l": "Finley Mulligan",
+"q": null,
+"s": "Director, Apes Together Strong (2023)",
+"y": null
+},
+{
+"id": "nm18755236",
+"l": "Courtney Mulligan",
+"q": null,
+"s": "Makeup Department, Other Mommy (2026)",
+"y": null
+},
+{
+"id": "nm7241943",
+"l": "Casey Sullivan",
+"q": null,
+"s": "Actor, Blue Bloods (2022)",
+"y": null
+},
+{
+"id": "nm6315046",
+"l": "Casey Mulligan",
+"q": null,
+"s": "Self, Eric Bolling: The Balance (2022)",
+"y": null
+},
+{
+"id": "nm1998773",
+"l": "Casey Joseph",
+"q": null,
+"s": "Production Department, Tom vs. Time (2018)",
+"y": null
+},
+{
+"id": "nm7850961",
+"l": "Liam Casey Sullivan",
+"q": null,
+"s": "Actor, Jack $hack",
 "y": null
 }
 ],
@@ -945,6 +1515,131 @@
 "y": null
 }
 ],
+"q:chime youdon gurung": [
+{
+"id": "nm19010090",
+"l": "Chime Youdon Gurung",
+"q": null,
+"s": "Self, Mustang (2026)",
+"y": null
+}
+],
+"q:chris eastman": [
+{
+"id": "nm0308110",
+"l": "Chris Eastman",
+"q": null,
+"s": "Actor, The NeverEnding Story (1984)",
+"y": null
+},
+{
+"id": "nm13231282",
+"l": "Chris Eastman",
+"q": null,
+"s": "Costume and Wardrobe Department, The Long Walk (2025)",
+"y": null
+},
+{
+"id": "nm8722335",
+"l": "Chris Eastman",
+"q": null,
+"s": "Production Department, Mister Forgettable (2013)",
+"y": null
+},
+{
+"id": "nm15403931",
+"l": "Chris Eastman",
+"q": null,
+"s": "Editor, Playoff Moments: A Cup Above the Rest (2023)",
+"y": null
+},
+{
+"id": "nm6629906",
+"l": "Chris Eastman",
+"q": null,
+"s": "Self, The Unique Art of Tattooing (2014)",
+"y": null
+},
+{
+"id": "nm5468175",
+"l": "Chris Eastman",
+"q": null,
+"s": "Producer, ¿Qué Será del Caribe? (2012)",
+"y": null
+},
+{
+"id": "tt21072238",
+"l": "A Christmas to Treasure",
+"q": "tvMovie",
+"s": "Taylor Frey, Kyle Dean Massey",
+"y": 2022
+},
+{
+"id": "tt29922811",
+"l": "A Christmas Castle Proposal: A Royal in Paradise 2",
+"q": "tvMovie",
+"s": "Rhiannon Fish, Mitchell Bourke",
+"y": 2024
+}
+],
+"q:christian de sica": [
+{
+"id": "nm0211565",
+"l": "Christian De Sica",
+"q": null,
+"s": "Actor, The Tourist (2010)",
+"y": null
+},
+{
+"id": "tt15096350",
+"l": "Christian De Sica, segni particolari: bravissimo",
+"q": "short",
+"s": "Christian De Sica",
+"y": 2013
+},
+{
+"id": "nm0209246",
+"l": "Cristián de la Fuente",
+"q": null,
+"s": "Actor, Basic (2003)",
+"y": null
+},
+{
+"id": "tt0044685",
+"l": "Hans Christian Andersen",
+"q": "movie",
+"s": "Danny Kaye, Farley Granger",
+"y": 1952
+},
+{
+"id": "nm0471601",
+"l": "Anders Baasmo",
+"q": null,
+"s": "Actor, Kon-Tiki (2012)",
+"y": null
+},
+{
+"id": "nm4706860",
+"l": "Christian Vorlander",
+"q": null,
+"s": "Music Department, Toxic (2026)",
+"y": null
+},
+{
+"id": "nm14465293",
+"l": "Christian de la Torre",
+"q": null,
+"s": "Actor, Here in the Shadows (2024)",
+"y": null
+},
+{
+"id": "tt36396485",
+"l": "Agata Christian - Delitto sulle nevi",
+"q": "movie",
+"s": "Christian De Sica, Pasquale Petrolo",
+"y": 2026
+}
+],
 "q:claudia pandolfi": [
 {
 "id": "nm0659274",
@@ -1052,6 +1747,87 @@
 "q": null,
 "s": "Actress, Lost Deal (2024)",
 "y": null
+}
+],
+"q:clayface": [
+{
+"id": "tt34890576",
+"l": "Clayface",
+"q": "movie",
+"s": "Tom Rhys Harries, Tim Faraday",
+"y": 2026
+},
+{
+"id": "nm13300599",
+"l": "Clayfacer",
+"q": null,
+"s": "Composer, The Sekimeiya: Spun Glass (2021)",
+"y": null
+},
+{
+"id": "tt30515789",
+"l": "Clawface",
+"q": "movie",
+"s": "Kelly Bohart, J.J. Carroll",
+"y": 2024
+},
+{
+"id": "tt10601552",
+"l": "Slapface",
+"q": "movie",
+"s": "August Maturo, Mike Manning",
+"y": 2021
+},
+{
+"id": "tt44934140",
+"l": "Czarface Meets Frankie Pulitzer: Mad Technology feat. Method Man",
+"q": "musicVideo",
+"s": "Czarface, Tom Hardy",
+"y": 2026
+},
+{
+"id": "tt42879385",
+"l": "Cryface",
+"q": "short",
+"s": "James Carter Montgomery, Lola Rivera",
+"y": null
+},
+{
+"id": "tt6290116",
+"l": "Slapface",
+"q": "short",
+"s": "Nick Gregory, Lukas Hassel",
+"y": 2018
+},
+{
+"id": "nm12120661",
+"l": "Czarface",
+"q": null,
+"s": "Composer, Bizarro (2020)",
+"y": null
+}
+],
+"q:come rapinare una banca": [
+{
+"id": "tt35866986",
+"l": "How to Rob a Bank",
+"q": "movie",
+"s": "Nicholas Hoult, Zoë Kravitz",
+"y": 2026
+},
+{
+"id": "tt32308418",
+"l": "How to Rob a Bank",
+"q": "movie",
+"s": "Scott Scurlock, Ellen Glasser",
+"y": 2024
+},
+{
+"id": "tt0051990",
+"l": "A Nice Little Bank That Should Be Robbed",
+"q": "movie",
+"s": "Tom Ewell, Mickey Rooney",
+"y": 1958
 }
 ],
 "q:cristian mungiu": [
@@ -1170,6 +1946,64 @@
 "y": 2017
 }
 ],
+"q:daniel richter": [
+{
+"id": "nm0725220",
+"l": "Daniel Richter",
+"q": null,
+"s": "Actor, 2001: A Space Odyssey (1968)",
+"y": null
+},
+{
+"id": "tt26009272",
+"l": "Daniel Richter",
+"q": "movie",
+"s": "Markus Eisenbeis, Harald Falckenberg",
+"y": 2023
+},
+{
+"id": "nm0725221",
+"l": "Daniel Richter",
+"q": null,
+"s": "Sound Department, The Fugitive (1993)",
+"y": null
+},
+{
+"id": "nm12166388",
+"l": "Daniel Richter",
+"q": null,
+"s": "Director, Handwerkskunst! (2021)",
+"y": null
+},
+{
+"id": "tt28593342",
+"l": "Daniel Hope & Max Richter - Live in Concert",
+"q": "tvMovie",
+"s": "Jane Berthe, Joy Denalane",
+"y": 2020
+},
+{
+"id": "nm14298923",
+"l": "Daniel Walter Richter",
+"q": null,
+"s": "Production Department, The Trap",
+"y": null
+},
+{
+"id": "nm2071888",
+"l": "Daniel Richter",
+"q": null,
+"s": "Actor, Daniel & Dubrovnik (2004)",
+"y": null
+},
+{
+"id": "nm10820923",
+"l": "Daniel Richter",
+"q": null,
+"s": "Camera and Electrical Department, Club City (2020)",
+"y": null
+}
+],
 "q:dario zonta": [
 {
 "id": "nm1400086",
@@ -1197,6 +2031,122 @@
 "l": "Mario Konta",
 "q": null,
 "s": null,
+"y": null
+}
+],
+"q:darrin baker": [
+{
+"id": "nm0048370",
+"l": "Darrin Baker",
+"q": null,
+"s": "Actor, The Man from Toronto (2022)",
+"y": null
+},
+{
+"id": "nm11097118",
+"l": "Darrin Baker",
+"q": null,
+"s": "Additional Crew, Castle in the Sky (2019)",
+"y": null
+},
+{
+"id": "nm11051307",
+"l": "Darrin Baker",
+"q": null,
+"s": "Editor, Finger Guns (2019)",
+"y": null
+},
+{
+"id": "nm12260474",
+"l": "Darrin Baker",
+"q": null,
+"s": "Editor, Parramatta (2021)",
+"y": null
+},
+{
+"id": "nm15988887",
+"l": "Darrin Baker",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "nm0358460",
+"l": "Daran Norris",
+"q": null,
+"s": "Actor, Team America: World Police (2004)",
+"y": null
+},
+{
+"id": "nm3572020",
+"l": "Larrin Baker",
+"q": null,
+"s": "Camera and Electrical Department, Better Together (2019)",
+"y": null
+},
+{
+"id": "nm0048318",
+"l": "Carrie Lee Baker",
+"q": null,
+"s": "Actress, Play for Today (1973)",
+"y": null
+}
+],
+"q:david leitch": [
+{
+"id": "nm0500610",
+"l": "David Leitch",
+"q": null,
+"s": "Director, Bullet Train (2022)",
+"y": null
+},
+{
+"id": "tt42028893",
+"l": "Untitled David Leitch/Aaron Taylor-Johnson Project",
+"q": "movie",
+"s": "",
+"y": null
+},
+{
+"id": "nm0232942",
+"l": "Donovan",
+"q": null,
+"s": "Actor, Sgt. Pepper's Lonely Hearts Club Band (1978)",
+"y": null
+},
+{
+"id": "tt8878356",
+"l": "David Leitch Not Lynch: Directing DP2",
+"q": "video",
+"s": "T.J. Miller, David Leitch",
+"y": 2018
+},
+{
+"id": "nm6717775",
+"l": "David Leitch",
+"q": null,
+"s": "Actor, Home and Away (1988)",
+"y": null
+},
+{
+"id": "nm17226051",
+"l": "Kevin David Leitch",
+"q": null,
+"s": "Director, Habitat for Humanity Guyana Inc. 20th Anniversary Fundraising Dinner & Auction (2012)",
+"y": null
+},
+{
+"id": "nm16277108",
+"l": "David Leitch",
+"q": null,
+"s": "Actor, The Curse of Mara",
+"y": null
+},
+{
+"id": "nm0202966",
+"l": "Keith David",
+"q": null,
+"s": "Actor, The Princess and the Frog (2009)",
 "y": null
 }
 ],
@@ -1506,6 +2456,64 @@
 "y": 2018
 }
 ],
+"q:eddie marsan": [
+{
+"id": "nm0550371",
+"l": "Eddie Marsan",
+"q": null,
+"s": "Actor, Happy-Go-Lucky (2008)",
+"y": null
+},
+{
+"id": "nm0551926",
+"l": "Anne-Marie Martin",
+"q": null,
+"s": "Writer, Twister (1996)",
+"y": null
+},
+{
+"id": "nm0800998",
+"l": "Freddie Simpson",
+"q": null,
+"s": "Actress, A League of Their Own (1992)",
+"y": null
+},
+{
+"id": "nm16868624",
+"l": "Eddie Marzan",
+"q": null,
+"s": "Art Department, Inday Garutay (1976)",
+"y": null
+},
+{
+"id": "nm1603145",
+"l": "Eddie Martinez",
+"q": null,
+"s": "Actor, The Sinner (2020)",
+"y": null
+},
+{
+"id": "nm0549979",
+"l": "Eddie Marr",
+"q": null,
+"s": "Actor, The Glass Key (1942)",
+"y": null
+},
+{
+"id": "nm1864696",
+"l": "Eddie Martin",
+"q": null,
+"s": "Director, We Were Once Kids (2021)",
+"y": null
+},
+{
+"id": "nm0550385",
+"l": "Virginie Marsan",
+"q": null,
+"s": "Actress, A spasso nel tempo (1996)",
+"y": null
+}
+],
 "q:edoardo bove": [
 {
 "id": "nm13512515",
@@ -1623,6 +2631,64 @@
 }
 ],
 "q:egidio de zaiacomo": [],
+"q:eli roth": [
+{
+"id": "nm0744834",
+"l": "Eli Roth",
+"q": null,
+"s": "Director, Ice Cream Man (2026)",
+"y": null
+},
+{
+"id": "tt27621450",
+"l": "Eli Roth Presents: The Legion of Exorcists",
+"q": "tvSeries",
+"s": "Eli Roth, Alan Maxson",
+"y": 2023
+},
+{
+"id": "tt15676696",
+"l": "Eli Roth Presents: A Ghost Ruined My Life",
+"q": "tvSeries",
+"s": "Charlie Storey, Natasha Belisle",
+"y": 2021
+},
+{
+"id": "tt7406320",
+"l": "Eli Roth's History of Horror",
+"q": "tvSeries",
+"s": "Eli Roth, Alan Maxson",
+"y": 2018
+},
+{
+"id": "tt22177742",
+"l": "Eli Roth Presents: My Possessed Pet",
+"q": "tvSeries",
+"s": "Phillip-Charlie Daniell, Susannah Spearin",
+"y": 2022
+},
+{
+"id": "tt22984770",
+"l": "Eli Roth's Haunted House: Trick VR Treat",
+"q": "short",
+"s": "Vanessa Hudgens, Eliana Jones",
+"y": 2022
+},
+{
+"id": "tt26669379",
+"l": "Eli Roth's Be Mine: A VR Valentine's Slasher",
+"q": "short",
+"s": "Peyton List, Marissa Orjalo",
+"y": 2023
+},
+{
+"id": "nm1559812",
+"l": "Sheldon Roth",
+"q": null,
+"s": "Self, Hostel Dissected (2006)",
+"y": null
+}
+],
 "q:elle fanning": [
 {
 "id": "nm1102577",
@@ -1828,6 +2894,15 @@
 "l": "Erik Hivju",
 "q": null,
 "s": "Actor, Max Manus: Man of War (2008)",
+"y": null
+}
+],
+"q:eros puglielli": [
+{
+"id": "nm0700090",
+"l": "Eros Puglielli",
+"q": null,
+"s": "Director, Gli idoli delle donne (2022)",
 "y": null
 }
 ],
@@ -2165,6 +3240,50 @@
 "q": null,
 "s": "Self, Morgenmagazin (2025)",
 "y": null
+}
+],
+"q:fortune feimster": [
+{
+"id": "nm3833084",
+"l": "Fortune Feimster",
+"q": null,
+"s": "Actress, The Mindy Project (2015-2017)",
+"y": null
+},
+{
+"id": "tt34253921",
+"l": "Fortune Feimster: Crushing It",
+"q": "movie",
+"s": "Fortune Feimster",
+"y": 2024
+},
+{
+"id": "tt22373568",
+"l": "Fortune Feimster: Good Fortune",
+"q": "tvSpecial",
+"s": "Fortune Feimster",
+"y": 2022
+},
+{
+"id": "tt11488724",
+"l": "Fortune Feimster: Sweet & Salty",
+"q": "tvSpecial",
+"s": "Fortune Feimster, Henry Gelinas",
+"y": 2020
+},
+{
+"id": "tt41601976",
+"l": "Just for Laughs 2025: The Gala Specials - Fortune Feimster",
+"q": "tvSpecial",
+"s": "Fortune Feimster, Wally Baram",
+"y": 2026
+},
+{
+"id": "tt17424698",
+"l": "Fortune Feimster: Wheel of Fortune's Jokes",
+"q": "video",
+"s": "Lance Bass, Justin Martindale",
+"y": 2020
 }
 ],
 "q:francesco gheghi": [
@@ -2512,6 +3631,101 @@
 "l": "Gemma Jones",
 "q": null,
 "s": "Production Department, Chuggington (2008)",
+"y": null
+}
+],
+"q:gerald mcraney": [
+{
+"id": "nm0574468",
+"l": "Gerald McRaney",
+"q": null,
+"s": "Actor, Focus (2015)",
+"y": null
+},
+{
+"id": "nm10734790",
+"l": "Gerard Moroney",
+"q": null,
+"s": "Actor, The Lure of Asbury Park (2024)",
+"y": null
+},
+{
+"id": "nm0575162",
+"l": "Kevin Meaney",
+"q": null,
+"s": "Actor, Big (1988)",
+"y": null
+},
+{
+"id": "nm0290767",
+"l": "Billy Franey",
+"q": null,
+"s": "Actor, When Damon Fell for Pythias (1917)",
+"y": null
+},
+{
+"id": "nm1826559",
+"l": "Gerald McCarney",
+"q": null,
+"s": "Transportation Department, Cherry 2000 (1987)",
+"y": null
+},
+{
+"id": "nm12671454",
+"l": "Gerard Cranney",
+"q": null,
+"s": "Art Department, The Home Team (2022)",
+"y": null
+},
+{
+"id": "nm0800910",
+"l": "Becky Simpson",
+"q": null,
+"s": "Writer, House of Anubis (2011)",
+"y": null
+},
+{
+"id": "nm10886405",
+"l": "Gerald McRath",
+"q": null,
+"s": "Self, The NFL on CBS (2009-2011)",
+"y": null
+}
+],
+"q:giorgio colangeli": [
+{
+"id": "nm0170168",
+"l": "Giorgio Colangeli",
+"q": null,
+"s": "Actor, Immaculate (2024)",
+"y": null
+},
+{
+"id": "nm9982004",
+"l": "Giorgio Colangeli",
+"q": null,
+"s": "Property Department, I racconti di Vittoria (1995)",
+"y": null
+},
+{
+"id": "nm13231243",
+"l": "Giorgio Colangeli",
+"q": null,
+"s": "Writer, Se di tutto resta un poco. Sulle tracce di Antonio Tabucchi (2018)",
+"y": null
+},
+{
+"id": "nm6190848",
+"l": "Chris Milewski",
+"q": null,
+"s": "Director, Destination Orion (2018)",
+"y": null
+},
+{
+"id": "nm0170171",
+"l": "Piergiorgio Colangeli",
+"q": null,
+"s": "Actor, Due come noi, non dei migliori (1999)",
 "y": null
 }
 ],
@@ -2904,6 +4118,64 @@
 "y": 2013
 }
 ],
+"q:hope": [
+{
+"id": "tt27369017",
+"l": "Hope",
+"q": "movie",
+"s": "Hwang Jung-min, Zo In-sung",
+"y": 2026
+},
+{
+"id": "nm0204706",
+"l": "Hope Davis",
+"q": null,
+"s": "Actress, American Splendor (2003)",
+"y": null
+},
+{
+"id": "nm4715046",
+"l": "Liza Soberano",
+"q": null,
+"s": "Actress, Forgotten Island (2026)",
+"y": null
+},
+{
+"id": "tt3153634",
+"l": "Hope",
+"q": "movie",
+"s": "Lee Re, Sul Kyung-gu",
+"y": 2013
+},
+{
+"id": "tt0076759",
+"l": "Star Wars: Episode IV - A New Hope",
+"q": "movie",
+"s": "Mark Hamill, Harrison Ford",
+"y": 1977
+},
+{
+"id": "nm0000414",
+"l": "Teri Garr",
+"q": null,
+"s": "Actress, Tootsie (1982)",
+"y": null
+},
+{
+"id": "nm0394012",
+"l": "Leslie Hope",
+"q": null,
+"s": "Director, Lost in Space (2019-2021)",
+"y": null
+},
+{
+"id": "nm0394054",
+"l": "William Hope",
+"q": null,
+"s": "Actor, Aliens (1986)",
+"y": null
+}
+],
 "q:hunger games l alba sulla mietitura": [
 {
 "id": "tt32558705",
@@ -3008,6 +4280,64 @@
 "y": 2025
 }
 ],
+"q:ice cream man": [
+{
+"id": "tt36893729",
+"l": "Ice Cream Man",
+"q": "movie",
+"s": "Kiori Mirza Waldman, Carina Battrick",
+"y": 2026
+},
+{
+"id": "tt0113376",
+"l": "Ice Cream Man",
+"q": "movie",
+"s": "Clint Howard, Justin Isfeld",
+"y": 1995
+},
+{
+"id": "tt48921826",
+"l": "Ice Cream Man",
+"q": "short",
+"s": "Brandon Joseph Burnette, Cali Kira",
+"y": 2026
+},
+{
+"id": "tt4800612",
+"l": "The Ice Cream Man",
+"q": "movie",
+"s": "Tori Campbell, Samuel Esquivel",
+"y": null
+},
+{
+"id": "tt12749928",
+"l": "Ice Cream Man",
+"q": "movie",
+"s": "Brett Benowitz, Bo Burnham",
+"y": 2020
+},
+{
+"id": "tt30493450",
+"l": "The Ice Cream Man",
+"q": "short",
+"s": "Noah Emmerich, Nik Pajic",
+"y": 2024
+},
+{
+"id": "tt11713514",
+"l": "The Ice Cream Man",
+"q": "short",
+"s": "Victoria Fradkin",
+"y": 2020
+},
+{
+"id": "tt0323307",
+"l": "Mr. Ice Cream Man",
+"q": "video",
+"s": "Henry Weckesser, Jim Mills",
+"y": 1996
+}
+],
 "q:il rumore delle cose nuove": [
 {
 "id": "tt38281377",
@@ -3050,6 +4380,64 @@
 "q": "movie",
 "s": "Masayuki Mori, Michiyo Aratama",
 "y": 1955
+}
+],
+"q:in sung jo": [
+{
+"id": "nm1251770",
+"l": "Zo In-sung",
+"q": null,
+"s": "Actor, Hope (2026)",
+"y": null
+},
+{
+"id": "tt28756872",
+"l": "Jo Bachay Hain Sang Samait Lo",
+"q": "tvSeries",
+"s": "Fawad Khan, Mahira Khan",
+"y": null
+},
+{
+"id": "tt9894162",
+"l": "Special Labor Inspector Jo",
+"q": "tvSeries",
+"s": "Park Se-young, Ryu Deok-hwan",
+"y": 2019
+},
+{
+"id": "nm4726705",
+"l": "Sung Jun",
+"q": null,
+"s": "Actor, I Need Romance (2014)",
+"y": null
+},
+{
+"id": "nm5856501",
+"l": "Cho Dong-in",
+"q": null,
+"s": "Actor, Night in Paradise (2020)",
+"y": null
+},
+{
+"id": "nm6007051",
+"l": "Mu Jin-sung",
+"q": null,
+"s": "Actor, Perhaps Love (2021)",
+"y": null
+},
+{
+"id": "nm13710830",
+"l": "Kuei-lu Lin Sung",
+"q": null,
+"s": "Visual Effects, Borderlands (2024)",
+"y": null
+},
+{
+"id": "nm16305894",
+"l": "Kyung Min-sun",
+"q": null,
+"s": "Writer, Elephant in the Room (2015)",
+"y": null
 }
 ],
 "q:in un battito": [
@@ -3119,6 +4507,64 @@
 "y": null
 }
 ],
+"q:jacob tremblay": [
+{
+"id": "nm5016878",
+"l": "Jacob Tremblay",
+"q": null,
+"s": "Actor, Room (2015)",
+"y": null
+},
+{
+"id": "nm17854212",
+"l": "Jacob Tremblay",
+"q": null,
+"s": "Actor, The White House Is Fake (2026)",
+"y": null
+},
+{
+"id": "nm9141178",
+"l": "Jacob Tremblay",
+"q": null,
+"s": "Production Department, Hollywood Today Live (2017)",
+"y": null
+},
+{
+"id": "nm2858820",
+"l": "Robert Tremblay",
+"q": null,
+"s": "Actor, Dual Suspects (2011)",
+"y": null
+},
+{
+"id": "tt30218792",
+"l": "Matt Tremblay feat. Jacobus: Fast & Slow",
+"q": "musicVideo",
+"s": "Matt Tremblay, Jacques Doucet",
+"y": 2023
+},
+{
+"id": "nm4086686",
+"l": "Bob Tremblay",
+"q": null,
+"s": "Location Management, Game of Death (2011)",
+"y": null
+},
+{
+"id": "nm8928462",
+"l": "Rob Tremblay",
+"q": null,
+"s": "Actor, Disasters at Sea (2018-2019)",
+"y": null
+},
+{
+"id": "nm12130755",
+"l": "Bob Tremblay",
+"q": null,
+"s": "Self, Heartprints in the Snow (2021)",
+"y": null
+}
+],
 "q:jake horowitz": [
 {
 "id": "nm4270477",
@@ -3175,6 +4621,122 @@
 "q": null,
 "s": "Actor, Jake and Amir (2007-2024)",
 "y": null
+}
+],
+"q:jameela jamil": [
+{
+"id": "nm3553139",
+"l": "Jameela Jamil",
+"q": null,
+"s": "Actress, Love at First Sight (2023)",
+"y": null
+},
+{
+"id": "tt24750994",
+"l": "Bad Dates with Jameela Jamil",
+"q": "podcastSeries",
+"s": "Jameela Jamil, Grace Campbell",
+"y": 2023
+},
+{
+"id": "tt14996618",
+"l": "I Weigh with Jameela Jamil",
+"q": "podcastSeries",
+"s": "Jameela Jamil, Grace Campbell",
+"y": 2020
+},
+{
+"id": "tt26997043",
+"l": "I Want to Get Better with Jameela Jamil",
+"q": "video",
+"s": "Jameela Jamil",
+"y": 2023
+},
+{
+"id": "nm0713607",
+"l": "Jamila Razzaq",
+"q": null,
+"s": "Actress, Gul Bakavli (1961)",
+"y": null
+},
+{
+"id": "nm0268026",
+"l": "Jamie Farr",
+"q": null,
+"s": "Actor, M*A*S*H (1972-1983)",
+"y": null
+},
+{
+"id": "nm0213354",
+"l": "Jamel Debbouze",
+"q": null,
+"s": "Actor, Amélie (2001)",
+"y": null
+},
+{
+"id": "nm2297989",
+"l": "Jameel Khoury",
+"q": null,
+"s": "Actor, Jack Ryan (2018)",
+"y": null
+}
+],
+"q:james watkins": [
+{
+"id": "nm1220140",
+"l": "James Watkins",
+"q": null,
+"s": "Director, Eden Lake (2008)",
+"y": null
+},
+{
+"id": "nm0160589",
+"l": "Julian Christopher",
+"q": null,
+"s": "Actor, X-Men: The Last Stand (2006)",
+"y": null
+},
+{
+"id": "nm11320838",
+"l": "James Watkins",
+"q": null,
+"s": "Actor, Dumpling (2020)",
+"y": null
+},
+{
+"id": "nm1193186",
+"l": "James Watkins",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "nm5200260",
+"l": "Robert J. Watkins",
+"q": null,
+"s": "Actor, Lethal Weapon (2016)",
+"y": null
+},
+{
+"id": "nm7006484",
+"l": "James Watkins",
+"q": null,
+"s": "Visual Effects, Crushed (2015)",
+"y": null
+},
+{
+"id": "nm11459942",
+"l": "Cristian James Watkins",
+"q": null,
+"s": "Actor, The Once and Future Smash (2022)",
+"y": null
+},
+{
+"id": "tt3827156",
+"l": "James Joyce's Love Letters with Michaela Watkins",
+"q": "short",
+"s": "Bette Bentley, Michaela Watkins",
+"y": 2014
 }
 ],
 "q:jamie ward": [
@@ -3351,6 +4913,64 @@
 "y": null
 }
 ],
+"q:john c reilly": [
+{
+"id": "nm0000604",
+"l": "John C. Reilly",
+"q": null,
+"s": "Actor, Walk Hard: The Dewey Cox Story (2007)",
+"y": null
+},
+{
+"id": "nm0717702",
+"l": "John Reilly",
+"q": null,
+"s": "Actor, General Hospital (1984-2021)",
+"y": null
+},
+{
+"id": "nm19022505",
+"l": "John C. Reilly",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "nm1162508",
+"l": "John C. Reilly",
+"q": null,
+"s": "Property Department, Human Traffic (1999)",
+"y": null
+},
+{
+"id": "nm8019747",
+"l": "John C. Reilly",
+"q": null,
+"s": "Additional Crew, Combat at Sea (1994)",
+"y": null
+},
+{
+"id": "tt14877202",
+"l": "A Prairie Home Companion: Cast Interviews",
+"q": "video",
+"s": "Garrison Keillor, Kevin Kline",
+"y": 2007
+},
+{
+"id": "nm1646179",
+"l": "Ron Sparks",
+"q": null,
+"s": "Writer, You Got Trumped: The First 100 Days (2016)",
+"y": null
+},
+{
+"id": "nm3691063",
+"l": "Brennan Reilly",
+"q": null,
+"s": "Camera and Electrical Department, I Am Number Four (2011)",
+"y": null
+}
+],
 "q:john hamburg": [
 {
 "id": "nm0357453",
@@ -3465,6 +5085,64 @@
 "q": "movie",
 "s": "John Malkovich",
 "y": 2014
+}
+],
+"q:john sparkes": [
+{
+"id": "nm0816950",
+"l": "John Sparkes",
+"q": null,
+"s": "Actor, Calendar Girls (2003)",
+"y": null
+},
+{
+"id": "nm3327473",
+"l": "John B. Sparkes",
+"q": null,
+"s": "Self, Geordie Scene (1975)",
+"y": null
+},
+{
+"id": "nm0816951",
+"l": "John Sparkes",
+"q": null,
+"s": "Production Management, Laser Mission (1989)",
+"y": null
+},
+{
+"id": "nm0005295",
+"l": "Trey Parker",
+"q": null,
+"s": "Music Department, South Park (1997-2026)",
+"y": null
+},
+{
+"id": "nm17959889",
+"l": "John Sparkes",
+"q": null,
+"s": "Actor, Jolly Roger (1999)",
+"y": null
+},
+{
+"id": "nm9202713",
+"l": "John Sparkes",
+"q": null,
+"s": "Additional Crew, The World of the Penguin (1964)",
+"y": null
+},
+{
+"id": "nm11664109",
+"l": "John Sparkes",
+"q": null,
+"s": "Producer, A Big Country (1978)",
+"y": null
+},
+{
+"id": "nm17279834",
+"l": "John Sparkes",
+"q": null,
+"s": null,
+"y": null
 }
 ],
 "q:johnny depp": [
@@ -3699,6 +5377,122 @@
 "y": null
 }
 ],
+"q:jungjae ha": [
+{
+"id": "nm18227751",
+"l": "Jungjae Ha",
+"q": null,
+"s": "Director, BTS World Tour 'Arirang' in Japan: Live Viewing (2026)",
+"y": null
+},
+{
+"id": "nm0497631",
+"l": "Lee Jung-jae",
+"q": null,
+"s": "Actor, Hunt (2022)",
+"y": null
+},
+{
+"id": "tt0061852",
+"l": "The Jungle Book",
+"q": "movie",
+"s": "Phil Harris, Sebastian Cabot",
+"y": 1967
+},
+{
+"id": "nm18905983",
+"l": "Chung Jae-hun",
+"q": null,
+"s": "Visual Effects, Hope (2026)",
+"y": null
+},
+{
+"id": "nm14945029",
+"l": "Jung Jae-Won",
+"q": null,
+"s": "Actor, Hope (2026)",
+"y": null
+},
+{
+"id": "nm11311702",
+"l": "Jung Jae-yoon",
+"q": null,
+"s": "Visual Effects, Hope (2026)",
+"y": null
+},
+{
+"id": "nm15590799",
+"l": "Jung Jae Myeong",
+"q": null,
+"s": "Visual Effects, Hope (2026)",
+"y": null
+},
+{
+"id": "nm8885840",
+"l": "Jung Jae-il",
+"q": null,
+"s": "Composer, Parasite (2019)",
+"y": null
+}
+],
+"q:justin fletcher": [
+{
+"id": "nm1017994",
+"l": "Justin Fletcher",
+"q": null,
+"s": "Actor, Shaun the Sheep Movie (2015)",
+"y": null
+},
+{
+"id": "tt26455082",
+"l": "Justin Fletcher: Hands Up",
+"q": "musicVideo",
+"s": "Justin Fletcher",
+"y": 2011
+},
+{
+"id": "nm3435070",
+"l": "Justin Fletcher",
+"q": null,
+"s": "Actor, The Big Date (2009)",
+"y": null
+},
+{
+"id": "tt37171211",
+"l": "Bee Bright first steps with Justin Fletcher (6-18 months)",
+"q": "tvSeries",
+"s": "Justin Fletcher",
+"y": 2008
+},
+{
+"id": "nm13802092",
+"l": "Justin Fletcher",
+"q": null,
+"s": "Cinematographer, Rednecks 4 Hire (2017-2020)",
+"y": null
+},
+{
+"id": "nm4916824",
+"l": "Jonathan Justin Fletcher",
+"q": null,
+"s": "Cinematographer, Burning Hands (2024)",
+"y": null
+},
+{
+"id": "nm2980689",
+"l": "Dustin Fletcher",
+"q": null,
+"s": "Costume and Wardrobe Department, The Darkest Minds (2018)",
+"y": null
+},
+{
+"id": "nm15186816",
+"l": "Justin Deshawn Fletcher",
+"q": null,
+"s": null,
+"y": null
+}
+],
 "q:kasia smutniak": [
 {
 "id": "nm0810738",
@@ -3706,6 +5500,64 @@
 "q": null,
 "s": "Actress, Perfect Strangers (2016)",
 "y": null
+}
+],
+"q:kate harbour": [
+{
+"id": "nm0361957",
+"l": "Kate Harbour",
+"q": null,
+"s": "Actress, Shaun the Sheep: The Beast of Mossy Bottom (2026)",
+"y": null
+},
+{
+"id": "tt20224612",
+"l": "Granite Harbour",
+"q": "tvSeries",
+"s": "Romario Simpson, Hannah Donaldson",
+"y": 2022
+},
+{
+"id": "nm0362001",
+"l": "Kate Harcourt",
+"q": null,
+"s": "Actress, Without a Paddle (2004)",
+"y": null
+},
+{
+"id": "tt6816530",
+"l": "Safe Harbour",
+"q": "tvMiniSeries",
+"s": "Ewen Leslie, Leeanna Walsman",
+"y": 2018
+},
+{
+"id": "tt0974629",
+"l": "Safe Harbour",
+"q": "video",
+"s": "Melissa Gilbert, Brad Johnson",
+"y": 2007
+},
+{
+"id": "tt6735448",
+"l": "Lore Harbour",
+"q": "movie",
+"s": "Heather Matarazzo, Catharine Daddario",
+"y": null
+},
+{
+"id": "nm0361962",
+"l": "Michael S. Harbour",
+"q": null,
+"s": "Visual Effects, The 5th Wave (2016)",
+"y": null
+},
+{
+"id": "tt5778060",
+"l": "Little Harbour",
+"q": "movie",
+"s": "Vanessa Szamuhelova, Matus Bacisin",
+"y": 2017
 }
 ],
 "q:katharina lunger": [
@@ -3764,6 +5616,64 @@
 "q": null,
 "s": "Writer, Arte Re (2018-2021)",
 "y": null
+}
+],
+"q:kayo noro": [
+{
+"id": "nm2687566",
+"l": "Kayo Noro",
+"q": null,
+"s": "Actress, Monster (2023)",
+"y": null
+},
+{
+"id": "tt0151804",
+"l": "Office Space",
+"q": "movie",
+"s": "Ron Livingston, Jennifer Aniston",
+"y": 1999
+},
+{
+"id": "nm0443366",
+"l": "Nora Kaye",
+"q": null,
+"s": "Producer, The Secret of My Success (1987)",
+"y": null
+},
+{
+"id": "nm9365718",
+"l": "Nora Kaye",
+"q": null,
+"s": "Writer, The Cosmos Sisters (2022)",
+"y": null
+},
+{
+"id": "tt12432936",
+"l": "The Misfit of Demon King Academy",
+"q": "tvSeries",
+"s": "Tomori Kusunoki, Yuko Natsuyoshi",
+"y": 2020
+},
+{
+"id": "tt0202945",
+"l": "Bakeneko: A Vengeful Spirit",
+"q": "movie",
+"s": "Ryōhei Uchida, Kōtarō Satomi",
+"y": 1968
+},
+{
+"id": "tt38819879",
+"l": "Tha kano oti boro",
+"q": "short",
+"s": "",
+"y": 2010
+},
+{
+"id": "tt27903585",
+"l": "Lefteris Vazaios: Ta nera tou Kavo Doro",
+"q": "musicVideo",
+"s": "Lefteris Vazaios, Vanessa Antoniou",
+"y": 2023
 }
 ],
 "q:keir dullea": [
@@ -3859,6 +5769,117 @@
 "q": "video",
 "s": "Ken Russell",
 "y": 2004
+}
+],
+"q:kieran culkin": [
+{
+"id": "nm0001085",
+"l": "Kieran Culkin",
+"q": null,
+"s": "Actor, Succession (2018-2023)",
+"y": null
+},
+{
+"id": "nm18287913",
+"l": "Kieran Cullen",
+"q": null,
+"s": "Writer, I Hope I Get This Job (2026)",
+"y": null
+},
+{
+"id": "nm0940303",
+"l": "Hugh Woodhouse",
+"q": null,
+"s": "Writer, Colonel Trumper's Private War (1961)",
+"y": null
+},
+{
+"id": "nm3401283",
+"l": "Calvin L. Bierman",
+"q": null,
+"s": "Actor, Exercist (2006)",
+"y": null
+},
+{
+"id": "nm10980624",
+"l": "Kieran Cullinan",
+"q": null,
+"s": "Additional Crew, Granada Reports (2019)",
+"y": null
+}
+],
+"q:koreeda hirokazu": [
+{
+"id": "nm0466153",
+"l": "Hirokazu Koreeda",
+"q": null,
+"s": "Director, Shoplifters (2018)",
+"y": null
+},
+{
+"id": "tt15793318",
+"l": "Arawashi yo (Ôfuku shokan Kawase Naomi × Koreeda Hirokazu)",
+"q": "movie",
+"s": "Naomi Kawase, Hirokazu Koreeda",
+"y": 1996
+},
+{
+"id": "tt7958222",
+"l": "The World According to Koreeda Hirokazu",
+"q": "video",
+"s": "",
+"y": 2013
+},
+{
+"id": "tt40008260",
+"l": "Untitled Hirokazu Kore-eda & Eddie Redmayne / Searchlight Pictures Project",
+"q": "movie",
+"s": "Eddie Redmayne",
+"y": null
+},
+{
+"id": "tt15964848",
+"l": "The Makanai: Cooking for the Maiko House",
+"q": "tvMiniSeries",
+"s": "Nana Mori, Natsuki Deguchi",
+"y": 2023
+},
+{
+"id": "tt13408966",
+"l": "On Transmission: Ang Lee in Conversation with Kore-eda Hirokazu",
+"q": "movie",
+"s": "Hirokazu Koreeda, Ang Lee",
+"y": 2020
+}
+],
+"q:kunzum thakuri": [
+{
+"id": "nm5018888",
+"l": "Kunzum Thakuri",
+"q": null,
+"s": "Self, The Walking Hospital: Road to Lomanthang (2011)",
+"y": null
+},
+{
+"id": "nm0856906",
+"l": "Oindrila Tagore",
+"q": null,
+"s": "Actress, Kabuliwala (1957)",
+"y": null
+},
+{
+"id": "nm1873929",
+"l": "Kusum Thakur",
+"q": null,
+"s": "Actress, Leader (1964)",
+"y": null
+},
+{
+"id": "nm2042040",
+"l": "Kusum Bhakhri",
+"q": null,
+"s": "Special Effects, Zakhmi Dil (1994)",
+"y": null
 }
 ],
 "q:kuranosuke sasaki": [
@@ -4021,6 +6042,64 @@
 "y": 1991
 }
 ],
+"q:leonard rossiter": [
+{
+"id": "nm0744436",
+"l": "Leonard Rossiter",
+"q": null,
+"s": "Actor, 2001: A Space Odyssey (1968)",
+"y": null
+},
+{
+"id": "tt23133126",
+"l": "Leonard Rossiter: Comedy Great",
+"q": "tvSpecial",
+"s": "Sarah Hadland, Leonard Rossiter",
+"y": 2022
+},
+{
+"id": "tt2186653",
+"l": "'Oh, Miss Jones!': The Very Best of Leonard Rossiter",
+"q": "video",
+"s": "Leonard Rossiter, Barry Took",
+"y": 1996
+},
+{
+"id": "tt0443677",
+"l": "The Unforgettable Leonard Rossiter",
+"q": "tvMovie",
+"s": "Daniel Abineri, Leonard Rossiter",
+"y": 2000
+},
+{
+"id": "nm0743611",
+"l": "Leonard Ross",
+"q": null,
+"s": "Actor, Lost at War (2007)",
+"y": null
+},
+{
+"id": "nm5027623",
+"l": "Bernard Nossiter",
+"q": null,
+"s": "Self, World in Action (1979)",
+"y": null
+},
+{
+"id": "nm4281436",
+"l": "Leonard Rousseau",
+"q": null,
+"s": "Visual Effects, Damsel (2024)",
+"y": null
+},
+{
+"id": "nm8397745",
+"l": "Leonard Ross",
+"q": null,
+"s": "Self, The Mike Wallace Interview (1957)",
+"y": null
+}
+],
 "q:leonardo pieraccioni": [
 {
 "id": "nm0682251",
@@ -4034,6 +6113,29 @@
 "l": "Leonardo Pierantoni",
 "q": null,
 "s": "Actor, Erase una vez en el Caribe (2023)",
+"y": null
+}
+],
+"q:lillo petrolo": [
+{
+"id": "nm1133014",
+"l": "Pasquale Petrolo",
+"q": null,
+"s": "Actor, The Great Beauty (2013)",
+"y": null
+},
+{
+"id": "nm4941794",
+"l": "Raffaele Petrone",
+"q": null,
+"s": "Casting Department, I'm Not Scared (2003)",
+"y": null
+},
+{
+"id": "nm15846898",
+"l": "Valentin Petrillo Lopez",
+"q": null,
+"s": "Director, Ojo de águila (2018)",
 "y": null
 }
 ],
@@ -4150,6 +6252,15 @@
 "l": "Lisa Carletta",
 "q": null,
 "s": "Director, Paradise Found (2018)",
+"y": null
+}
+],
+"q:lisa loven kongsli": [
+{
+"id": "nm2966840",
+"l": "Lisa Loven Kongsli",
+"q": null,
+"s": "Actress, Force Majeure (2014)",
 "y": null
 }
 ],
@@ -4277,6 +6388,80 @@
 "q": "musicVideo",
 "s": "Jovanotti, Gregory Lee Kenyon",
 "y": 2015
+}
+],
+"q:maccio capatonda": [
+{
+"id": "nm5614790",
+"l": "Maccio Capatonda",
+"q": null,
+"s": "Voice Actor - Dubbing, The Angry Birds Movie (2016)",
+"y": null
+},
+{
+"id": "nm13113784",
+"l": "Jamie Williams",
+"q": null,
+"s": "Self, The Oprah Winfrey Show (1997)",
+"y": null
+}
+],
+"q:makoto shinkai": [
+{
+"id": "nm1396121",
+"l": "Makoto Shinkai",
+"q": null,
+"s": "Writer, Suzume (2022)",
+"y": null
+},
+{
+"id": "tt1188463",
+"l": "Shinkai Makoto Interview",
+"q": "video",
+"s": "Makoto Shinkai",
+"y": 2007
+},
+{
+"id": "tt37015024",
+"l": "Young Ladies Don't Play Fighting Games",
+"q": "tvSeries",
+"s": "Ikumi Hasegawa, Kana Ichinose",
+"y": 2026
+},
+{
+"id": "tt28213466",
+"l": "Tai Ari Deshita: Ojô-sama wa Kakutô Game Nante Shinai",
+"q": "tvMiniSeries",
+"s": "Mizuki Kayashima, Ririka Tanabe",
+"y": 2023
+},
+{
+"id": "nm5023000",
+"l": "Makoto Shinkawa",
+"q": null,
+"s": "Camera and Electrical Department, The Visitor in the Eye (1977)",
+"y": null
+},
+{
+"id": "nm0794012",
+"l": "Makoto Shinozaki",
+"q": null,
+"s": "Director, Okaeri (1995)",
+"y": null
+},
+{
+"id": "nm18022927",
+"l": "Makoto Shintani",
+"q": null,
+"s": "Actor, Just a bit Espers (2025)",
+"y": null
+},
+{
+"id": "nm7396076",
+"l": "Makoto Shinada",
+"q": null,
+"s": "Actor, Psychoromantic (2016)",
+"y": null
 }
 ],
 "q:marco zuin": [
@@ -4671,6 +6856,64 @@
 "y": null
 }
 ],
+"q:matt berry": [
+{
+"id": "nm1546196",
+"l": "Matt Berry",
+"q": null,
+"s": "Actor, Toast of London (2012-2020)",
+"y": null
+},
+{
+"id": "nm0077626",
+"l": "Matthew Berry",
+"q": null,
+"s": "Actor, Avengers: Endgame (2019)",
+"y": null
+},
+{
+"id": "tt4586186",
+"l": "Matt Berry Does...",
+"q": "tvSeries",
+"s": "Matt Berry",
+"y": 2015
+},
+{
+"id": "nm18937630",
+"l": "Matthew Berry",
+"q": null,
+"s": "Director, Roommates. (2026)",
+"y": null
+},
+{
+"id": "nm0077625",
+"l": "Matt Berry",
+"q": null,
+"s": "Actor, Boxing Helena (1993)",
+"y": null
+},
+{
+"id": "nm17556816",
+"l": "Matt Berry",
+"q": null,
+"s": "Director, How Am I Feeling?",
+"y": null
+},
+{
+"id": "nm4000950",
+"l": "Matt Berry",
+"q": null,
+"s": "Additional Crew, Earth's Final Hours (2011)",
+"y": null
+},
+{
+"id": "tt7863490",
+"l": "Matt Berry: The Lone Wolf",
+"q": "short",
+"s": "Matt Berry",
+"y": 2014
+}
+],
 "q:matteo righetto": [
 {
 "id": "nm11474826",
@@ -4889,6 +7132,64 @@
 "y": null
 }
 ],
+"q:max minghella": [
+{
+"id": "nm1540404",
+"l": "Max Minghella",
+"q": null,
+"s": "Actor, The Handmaid's Tale (2017-2025)",
+"y": null
+},
+{
+"id": "nm0005237",
+"l": "Anthony Minghella",
+"q": null,
+"s": "Writer, The Talented Mr. Ripley (1999)",
+"y": null
+},
+{
+"id": "nm1098742",
+"l": "Hannah Minghella",
+"q": null,
+"s": "Producer, The End of Oak Street (2026)",
+"y": null
+},
+{
+"id": "nm6007576",
+"l": "Benedict Minghella",
+"q": null,
+"s": "Casting Department, The Fantastic Four: First Steps (2025)",
+"y": null
+},
+{
+"id": "nm0591286",
+"l": "Dominic Minghella",
+"q": null,
+"s": "Writer, Robin Hood (2006-2009)",
+"y": null
+},
+{
+"id": "nm2099870",
+"l": "Edana Minghella",
+"q": null,
+"s": "Writer, Doc Martin (2005-2006)",
+"y": null
+},
+{
+"id": "nm10408715",
+"l": "Dante Minghella",
+"q": null,
+"s": "Casting Department, Doctor Strange (2016)",
+"y": null
+},
+{
+"id": "nm12302588",
+"l": "Louisa Minghella",
+"q": null,
+"s": null,
+"y": null
+}
+],
 "q:max urlacher": [
 {
 "id": "nm0881992",
@@ -5005,6 +7306,108 @@
 "y": null
 }
 ],
+"q:michael fassbender": [
+{
+"id": "nm1055413",
+"l": "Michael Fassbender",
+"q": null,
+"s": "Actor, Shame (2011)",
+"y": null
+},
+{
+"id": "tt11177212",
+"l": "Michael Fassbender: Road to Le Mans",
+"q": "tvMiniSeries",
+"s": "Michael Fassbender, Sebastian Borowski",
+"y": 2019
+},
+{
+"id": "nm12050396",
+"l": "Michael Fassbender",
+"q": null,
+"s": "Self, Citizen USA: A 50 State Road Trip (2011)",
+"y": null
+},
+{
+"id": "tt29730636",
+"l": "Road to Le Mans",
+"q": "video",
+"s": "Michael Fassbender, Sebastian Borowski",
+"y": 2023
+},
+{
+"id": "tt2436672",
+"l": "Zero",
+"q": "short",
+"s": "Ryan Eggold, Felix Wolfe",
+"y": 2015
+},
+{
+"id": "nm0268661",
+"l": "Michel Fasbender",
+"q": null,
+"s": "Actor, Dokter Pulder zaait papavers (1975)",
+"y": null
+},
+{
+"id": "tt31502580",
+"l": "Man in the Shadow: Michael Fengler on Rainer Werner Fassbinder",
+"q": "short",
+"s": "Michael Fengler",
+"y": 2022
+},
+{
+"id": "nm12756089",
+"l": "Michael Lessbender",
+"q": null,
+"s": null,
+"y": null
+}
+],
+"q:michael gandolfini": [
+{
+"id": "nm6408859",
+"l": "Michael Gandolfini",
+"q": null,
+"s": "Actor, Daredevil: Born Again (2025-2026)",
+"y": null
+},
+{
+"id": "nm0027961",
+"l": "Michael Andolini",
+"q": null,
+"s": "Actor, The Fan (1996)",
+"y": null
+},
+{
+"id": "nm12011355",
+"l": "Michael Gandolfi",
+"q": null,
+"s": "Self, Calvin Klein: Spring/Summer 2018 at NYFW (2017)",
+"y": null
+},
+{
+"id": "nm6662098",
+"l": "Michael Andolini",
+"q": null,
+"s": "Actor, The Web (2013)",
+"y": null
+},
+{
+"id": "nm18811733",
+"l": "Michael Andolini",
+"q": null,
+"s": "Actor, Night of Destiny - EFW (2026)",
+"y": null
+},
+{
+"id": "nm4345703",
+"l": "Michael Andolini",
+"q": null,
+"s": null,
+"y": null
+}
+],
 "q:minami hamabe": [
 {
 "id": "nm4947538",
@@ -5040,6 +7443,64 @@
 "q": "movie",
 "s": "Sumino Konno, Fujiko Miura",
 "y": 2020
+}
+],
+"q:mone kamishiraishi": [
+{
+"id": "nm4759838",
+"l": "Mone Kamishiraishi",
+"q": null,
+"s": "Actress, Your Name. (2016)",
+"y": null
+},
+{
+"id": "tt42227106",
+"l": "Mone Kamishiraishi yattokosa Tour 2021",
+"q": "video",
+"s": "Mone Kamishiraishi",
+"y": 2026
+},
+{
+"id": "tt43338304",
+"l": "Mone Kamishiraishi 2023 at Budokan",
+"q": "video",
+"s": "Mone Kamishiraishi",
+"y": 2026
+},
+{
+"id": "tt43635218",
+"l": "Mone Kamishiraishi yattokosa Tour 2023",
+"q": "video",
+"s": "Mone Kamishiraishi",
+"y": 2026
+},
+{
+"id": "tt40529149",
+"l": "Mone Kamishiraishi yattokosa 26 texte",
+"q": "video",
+"s": "Mone Kamishiraishi",
+"y": 2026
+},
+{
+"id": "tt42227129",
+"l": "Mone Kamishiraishi yattokosa Tour 2022",
+"q": "video",
+"s": "Mone Kamishiraishi",
+"y": 2026
+},
+{
+"id": "tt41496107",
+"l": "Mone Kamishiraishi Online Live 2020 I Note",
+"q": "video",
+"s": "Mone Kamishiraishi",
+"y": 2026
+},
+{
+"id": "tt49205120",
+"l": "Mone Kamishiraishi 10th Live bouquet for HOME-ALL Special Program",
+"q": "video",
+"s": "Mone Kamishiraishi",
+"y": 2026
 }
 ],
 "q:munetaka aoki": [
@@ -5116,6 +7577,108 @@
 "y": 1992
 }
 ],
+"q:na hong jin": [
+{
+"id": "nm2947553",
+"l": "Na Hong-jin",
+"q": null,
+"s": "Writer, The Chaser (2008)",
+"y": null
+},
+{
+"id": "nm2416847",
+"l": "Ali Ahn",
+"q": null,
+"s": "Actress, Agatha All Along (2024)",
+"y": null
+},
+{
+"id": "nm7255828",
+"l": "Hong Jin-ho",
+"q": null,
+"s": "Actor, Apgujeong Midnight Sun (2014)",
+"y": null
+},
+{
+"id": "nm8662687",
+"l": "Hong Jin-kyeong",
+"q": null,
+"s": "Actress, My Love from Another Star (2014)",
+"y": null
+},
+{
+"id": "nm12523389",
+"l": "Hong Jin-gi",
+"q": null,
+"s": "Actor, Lovers of the Red Sky (2021)",
+"y": null
+},
+{
+"id": "tt7775794",
+"l": "Cong cong na nian: Hao jiu bu jian",
+"q": "tvSeries",
+"s": "Mengli Wang, Vin Zhang",
+"y": 2016
+},
+{
+"id": "nm3774018",
+"l": "Mo Hong-jin",
+"q": null,
+"s": "Writer, Missing You (2016)",
+"y": null
+},
+{
+"id": "tt7497978",
+"l": "Respected Comrade Kim Jong Il Is a Great Thinker and Theoretician",
+"q": "movie",
+"s": "Jong-Il Kim",
+"y": 2000
+}
+],
+"q:naomi ackie": [
+{
+"id": "nm7609875",
+"l": "Naomi Ackie",
+"q": null,
+"s": "Actress, Sorry, Baby (2025)",
+"y": null
+},
+{
+"id": "nm18284399",
+"l": "Jackie Naomi",
+"q": null,
+"s": "Actress, Forbidden Fruit (2026)",
+"y": null
+},
+{
+"id": "nm12807983",
+"l": "Naomi Torres-Mackie",
+"q": null,
+"s": "Self, Good Morning America Weekend Edition (2021)",
+"y": null
+},
+{
+"id": "nm16957139",
+"l": "Naomie Samiama Nowacki",
+"q": null,
+"s": "Visual Effects, Pinocchio (2022)",
+"y": null
+},
+{
+"id": "nm0010002",
+"l": "Naomi Ackerman",
+"q": null,
+"s": "Actress, Mindbender (1996)",
+"y": null
+},
+{
+"id": "nm6935735",
+"l": "Naomi Ackerman",
+"q": null,
+"s": "Actress, What Might Be Under the Bed (2010)",
+"y": null
+}
+],
 "q:natsuki deguchi": [
 {
 "id": "nm11935594",
@@ -5175,6 +7738,64 @@
 }
 ],
 "q:nessun dato disponibile": [],
+"q:nicholas hoult": [
+{
+"id": "nm0396558",
+"l": "Nicholas Hoult",
+"q": null,
+"s": "Actor, Warm Bodies (2013)",
+"y": null
+},
+{
+"id": "nm2560229",
+"l": "Nicholas Houltham",
+"q": null,
+"s": "Actor, The Devil Dared Me To (2007)",
+"y": null
+},
+{
+"id": "nm2803063",
+"l": "Nicholas Holt",
+"q": null,
+"s": "Production Department, Oobered (2016)",
+"y": null
+},
+{
+"id": "nm0099610",
+"l": "Nicholas Boulton",
+"q": null,
+"s": "Actor, Game of Thrones (2015)",
+"y": null
+},
+{
+"id": "nm0394034",
+"l": "Nicholas Hope",
+"q": null,
+"s": "Actor, Bad Boy Bubby (1993)",
+"y": null
+},
+{
+"id": "nm0392491",
+"l": "Nichola Holt",
+"q": null,
+"s": "Actress, RearEnders 2 (2004)",
+"y": null
+},
+{
+"id": "nm4927175",
+"l": "Nicholas Hoyt",
+"q": null,
+"s": "Visual Effects, Boss Level (2020)",
+"y": null
+},
+{
+"id": "nm0387614",
+"l": "Nick Hobbs",
+"q": null,
+"s": "Stunts, Wonder Woman (2017)",
+"y": null
+}
+],
 "q:nitesh tiwari": [
 {
 "id": "nm4318159",
@@ -5466,6 +8087,64 @@
 "y": null
 }
 ],
+"q:paolo calabresi": [
+{
+"id": "nm0129227",
+"l": "Paolo Calabresi",
+"q": null,
+"s": "Actor, The Talented Mr. Ripley (1999)",
+"y": null
+},
+{
+"id": "nm3834669",
+"l": "Paolo Calabresi Marconi",
+"q": null,
+"s": "Producer, Sul mare (2010)",
+"y": null
+},
+{
+"id": "nm1004106",
+"l": "Paola Calabrese",
+"q": null,
+"s": "Makeup Department, The Brave (2019)",
+"y": null
+},
+{
+"id": "nm18836500",
+"l": "Paolo Calabrese",
+"q": null,
+"s": "Voice Actor - Dubbing, 21 Thunder (2017)",
+"y": null
+},
+{
+"id": "tt1270673",
+"l": "Il popolo calabrese ha rialzato la testa",
+"q": "movie",
+"s": "",
+"y": 1969
+},
+{
+"id": "nm12316531",
+"l": "Pablo Calabresi",
+"q": null,
+"s": "Actor, Buscadores (2021)",
+"y": null
+},
+{
+"id": "nm10874812",
+"l": "Gianpaolo Calabrese",
+"q": null,
+"s": "Art Department, Ex-Otago - Siamo come Genova (2019)",
+"y": null
+},
+{
+"id": "nm17601972",
+"l": "Nicolò Calabrese",
+"q": null,
+"s": "Self, Coppa Italia 2025-2026 (2025)",
+"y": null
+}
+],
 "q:paolo genovese": [
 {
 "id": "nm0002645",
@@ -5698,6 +8377,15 @@
 "y": null
 }
 ],
+"q:paw patrol missione dinosauri": [
+{
+"id": "tt29356163",
+"l": "PAW Patrol: The Dino Movie",
+"q": "movie",
+"s": "Carter Young, Mckenna Grace",
+"y": 2026
+}
+],
 "q:per silenzio e vento": [
 {
 "id": "tt40471989",
@@ -5705,6 +8393,108 @@
 "q": "movie",
 "s": "Matteo Righetto, Reinhold Messner",
 "y": 2026
+}
+],
+"q:pete davidson": [
+{
+"id": "nm0203457",
+"l": "Pete Davidson",
+"q": null,
+"s": "Actor, The King of Staten Island (2020)",
+"y": null
+},
+{
+"id": "tt41553853",
+"l": "The Pete Davidson Show",
+"q": "tvSeries",
+"s": "Pete Davidson, Dave Sirus",
+"y": 2026
+},
+{
+"id": "tt6114246",
+"l": "Pete Davidson: SMD",
+"q": "tvSpecial",
+"s": "Pete Davidson",
+"y": 2016
+},
+{
+"id": "tt30458756",
+"l": "Pete Davidson: Turbo Fonzarelli",
+"q": "tvSpecial",
+"s": "Pete Davidson, Dakota Raine Mounts",
+"y": 2024
+},
+{
+"id": "tt11474156",
+"l": "Pete Davidson: Alive from New York",
+"q": "tvSpecial",
+"s": "Pete Davidson, Elliot Schiff",
+"y": 2020
+},
+{
+"id": "tt20723748",
+"l": "Pete Davidson Presents: The Best Friends",
+"q": "tvSpecial",
+"s": "Pete Davidson, Colson Baker",
+"y": 2022
+},
+{
+"id": "tt27344595",
+"l": "Untitled Machine Gun Kelly/Pete Davidson Project",
+"q": "tvSeries",
+"s": "Colson Baker, Theo Von",
+"y": null
+},
+{
+"id": "tt16280674",
+"l": "Miley's New Year's Eve Party",
+"q": "tvSpecial",
+"s": "Pete Davidson, Miley Cyrus",
+"y": 2021
+}
+],
+"q:peyton elizabeth lee": [
+{
+"id": "nm7213696",
+"l": "Peyton Elizabeth Lee",
+"q": null,
+"s": "Actress, Wildwood (2026)",
+"y": null
+},
+{
+"id": "nm2620964",
+"l": "Kathleen Elizabeth Monteleone",
+"q": null,
+"s": "Actress, American Reject (2020)",
+"y": null
+},
+{
+"id": "nm12883943",
+"l": "Peyton Elizabeth McManus",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "nm7896027",
+"l": "Elizabeth Peyton Jones",
+"q": null,
+"s": "Self, Good Morning America (2016)",
+"y": null
+},
+{
+"id": "nm14269708",
+"l": "Elizabeth Peyton-Jones",
+"q": null,
+"s": "Self, Slay Model Search 2022 (2022)",
+"y": null
+},
+{
+"id": "nm14924060",
+"l": "Kathleen Elizabeth Houston",
+"q": null,
+"s": "Director, Inner Compass Signals (2023)",
+"y": null
 }
 ],
 "q:pierfrancesco favino": [
@@ -5771,6 +8561,66 @@
 "l": "Pietro Sermonti",
 "q": null,
 "s": "Actor, Boris (2007-2022)",
+"y": null
+}
+],
+"q:pietro taricone": [
+{
+"id": "nm0850434",
+"l": "Pietro Taricone",
+"q": null,
+"s": "Actor, Baciati dall'amore (2011)",
+"y": null
+},
+{
+"id": "nm7751448",
+"l": "Pietro Zarcone",
+"q": null,
+"s": "Sound Department, Belluscone: Una storia siciliana (2014)",
+"y": null
+},
+{
+"id": "nm16711084",
+"l": "Pietro Zarcone",
+"q": null,
+"s": "Sound Department, Un giorno d'estate (2024)",
+"y": null
+}
+],
+"q:quinta brunson": [
+{
+"id": "nm6708435",
+"l": "Quinta Brunson",
+"q": null,
+"s": "Actress, Abbott Elementary (2021-2026)",
+"y": null
+},
+{
+"id": "tt11436402",
+"l": "Untitled Quinta Brunson Project",
+"q": "tvMovie",
+"s": "",
+"y": null
+},
+{
+"id": "tt13087666",
+"l": "Untitled Quinta Brunson project",
+"q": "tvMovie",
+"s": "",
+"y": null
+},
+{
+"id": "nm1050408",
+"l": "Brandon Quinton",
+"q": null,
+"s": "Actor, Late Show with David Letterman (2002)",
+"y": null
+},
+{
+"id": "nm1305057",
+"l": "B. Quincy Griffin",
+"q": null,
+"s": "Composer, Without a Net (2012)",
 "y": null
 }
 ],
@@ -5932,6 +8782,15 @@
 "q": "tvMovie",
 "s": "Stephanie Leonidas, Reece Ritchie",
 "y": 2011
+}
+],
+"q:ramayana la nascita di una leggenda hollywood cut": [
+{
+"id": "tt27988879",
+"l": "Ramayana",
+"q": "movie",
+"s": "Ranbir Kapoor, Yash",
+"y": 2026
 }
 ],
 "q:ramayana rise of a legend": [
@@ -6105,6 +8964,64 @@
 "l": "Ravi Dube",
 "q": null,
 "s": "Production Management, First They Killed My Father (2017)",
+"y": null
+}
+],
+"q:ravie dubey": [
+{
+"id": "nm7129302",
+"l": "Ravi Dubey",
+"q": null,
+"s": "Actor, Jamai Raja (2014-2018)",
+"y": null
+},
+{
+"id": "nm1767027",
+"l": "Ravi Dubey",
+"q": null,
+"s": "Actor, Silsila (1981)",
+"y": null
+},
+{
+"id": "nm0239271",
+"l": "Ravi Dube",
+"q": null,
+"s": "Production Management, First They Killed My Father (2017)",
+"y": null
+},
+{
+"id": "nm12938276",
+"l": "Ravi Dubey",
+"q": null,
+"s": "Actor, Akela (2006)",
+"y": null
+},
+{
+"id": "nm17792629",
+"l": "Ravi Dubey",
+"q": null,
+"s": "Writer, Tu Juliet Jatt Di (2025-2026)",
+"y": null
+},
+{
+"id": "tt12562028",
+"l": "Baat Ghar Ki with Ravi Dubey",
+"q": "tvMiniSeries",
+"s": "Ravi Dubey",
+"y": 2020
+},
+{
+"id": "nm13339803",
+"l": "Ravi Dubey",
+"q": null,
+"s": "Writer, The Daughter (2022)",
+"y": null
+},
+{
+"id": "nm9181768",
+"l": "Ravi Dubey",
+"q": null,
+"s": "Actor, The Visitor (2017)",
 "y": null
 }
 ],
@@ -6456,6 +9373,64 @@
 "y": null
 }
 ],
+"q:ryo narita": [
+{
+"id": "nm6954008",
+"l": "Ryō Narita",
+"q": null,
+"s": "Actor, Your Name. (2016)",
+"y": null
+},
+{
+"id": "nm16396922",
+"l": "Ryo Narita",
+"q": null,
+"s": "Stunts, Shin Kamen Rider (2023)",
+"y": null
+},
+{
+"id": "nm18544547",
+"l": "Ankita Roy",
+"q": null,
+"s": "Visual Effects, Ramayana (2026)",
+"y": null
+},
+{
+"id": "nm1182255",
+"l": "Amrita Rao",
+"q": null,
+"s": "Actress, Vivah (2006)",
+"y": null
+},
+{
+"id": "tt14115938",
+"l": "The Eminence in Shadow",
+"q": "tvSeries",
+"s": "Seiichiro Yamashita, Adam Gibbs",
+"y": 2022
+},
+{
+"id": "nm12121881",
+"l": "Ankita Roy",
+"q": null,
+"s": "Actress, Ghee (2025)",
+"y": null
+},
+{
+"id": "nm4302275",
+"l": "Ryôgo Narita",
+"q": null,
+"s": "Writer, Fate/Strange Fake (2024-2026)",
+"y": null
+},
+{
+"id": "nm0005812",
+"l": "Hiro Narita",
+"q": null,
+"s": "Cinematographer, Star Trek VI: The Undiscovered Country (1991)",
+"y": null
+}
+],
 "q:ryunosuke kamiki": [
 {
 "id": "nm1126340",
@@ -6804,6 +9779,64 @@
 "y": null
 }
 ],
+"q:sara croce": [
+{
+"id": "nm10632330",
+"l": "Sara Croce",
+"q": null,
+"s": "Self, Ciao Darwin (2019)",
+"y": null
+},
+{
+"id": "nm0189661",
+"l": "Sara Crowe",
+"q": null,
+"s": "Actress, Four Weddings and a Funeral (1994)",
+"y": null
+},
+{
+"id": "nm6857117",
+"l": "Sara Crow",
+"q": null,
+"s": "Director, Howl (2026)",
+"y": null
+},
+{
+"id": "tt43704874",
+"l": "Croc Wars Grumeti VS Mara",
+"q": "movie",
+"s": "",
+"y": 2026
+},
+{
+"id": "nm4756846",
+"l": "Sara Crowe",
+"q": null,
+"s": "Production Department, Killing Adam (2011)",
+"y": null
+},
+{
+"id": "nm19098236",
+"l": "Lara Crock",
+"q": null,
+"s": "Self, CBS News Sunday Morning with Jane Pauley (2026)",
+"y": null
+},
+{
+"id": "tt0942894",
+"l": "Tomb Raider: Anniversary",
+"q": "videoGame",
+"s": "Action, Adventure, Fantasy",
+"y": 2007
+},
+{
+"id": "nm1495537",
+"l": "Sarah Crook",
+"q": null,
+"s": "Actress, Broken Sword: The Sleeping Dragon (2003)",
+"y": null
+}
+],
 "q:se domani non torno": [
 {
 "id": "tt38984314",
@@ -6980,6 +10013,15 @@
 "y": null
 }
 ],
+"q:shaun vita da pecora operazione z u c c a": [
+{
+"id": "tt36841161",
+"l": "Shaun the Sheep: The Beast of Mossy Bottom",
+"q": "movie",
+"s": "Justin Fletcher, John Sparkes",
+"y": 2026
+}
+],
 "q:silvio orlando": [
 {
 "id": "nm0650024",
@@ -7103,6 +10145,22 @@
 "q": "movie",
 "s": "Nick Broomfield, Leonard Cohen",
 "y": 2019
+}
+],
+"q:sophie taricone": [
+{
+"id": "nm10417081",
+"l": "Sophie Taricone",
+"q": null,
+"s": "Actress, The Prophecy of the Armadillo (2018)",
+"y": null
+},
+{
+"id": "nm10577908",
+"l": "Sophia Manicone",
+"q": null,
+"s": "Actress, Angels on Earth New School Year (2020)",
+"y": null
 }
 ],
 "q:stanley kubrick": [
@@ -7374,6 +10432,122 @@
 "y": null
 }
 ],
+"q:steve cox": [
+{
+"id": "nm2233908",
+"l": "Steve Cox",
+"q": null,
+"s": "Animation Department, The Pirates! Band of Misfits (2012)",
+"y": null
+},
+{
+"id": "nm0185256",
+"l": "Steve Cox",
+"q": null,
+"s": "Actor, Muriel's Wedding (1994)",
+"y": null
+},
+{
+"id": "nm2171543",
+"l": "Steve Cox",
+"q": null,
+"s": "Actor, Watching (1987)",
+"y": null
+},
+{
+"id": "nm2121328",
+"l": "Steve Cox",
+"q": null,
+"s": "Actor, Wonderland (2003)",
+"y": null
+},
+{
+"id": "nm1008582",
+"l": "Stephen Cox",
+"q": null,
+"s": "Producer, E! True Hollywood Story (1999-2001)",
+"y": null
+},
+{
+"id": "nm1027205",
+"l": "Steve Cox",
+"q": null,
+"s": "Actor, AWA Superclash III (1988)",
+"y": null
+},
+{
+"id": "nm5346406",
+"l": "Steven Cox",
+"q": null,
+"s": "Art Department, Courageous (2011)",
+"y": null
+},
+{
+"id": "nm1504497",
+"l": "Steve Cox",
+"q": null,
+"s": "Sound Department, Assassin (1973)",
+"y": null
+}
+],
+"q:sunny deol": [
+{
+"id": "nm0219971",
+"l": "Sunny Deol",
+"q": null,
+"s": "Actor, Ghayal (1990)",
+"y": null
+},
+{
+"id": "tt29717749",
+"l": "Untitled Sunny Deol/Abbas/Mustan Project",
+"q": "movie",
+"s": "Sunny Deol",
+"y": null
+},
+{
+"id": "nm1584774",
+"l": "Sunny Deol",
+"q": null,
+"s": "Actor, Phoolan Hasina Ramkali (1993)",
+"y": null
+},
+{
+"id": "tt42065654",
+"l": "Untitled Sunny Deol/Excel Entertainment Project",
+"q": "movie",
+"s": "",
+"y": null
+},
+{
+"id": "nm4442307",
+"l": "Sunny Deol",
+"q": null,
+"s": "Makeup Department, Sisters & Brothers (2011)",
+"y": null
+},
+{
+"id": "nm8671507",
+"l": "Junior Sunny Deol",
+"q": null,
+"s": "Actor, Kora Badan (2003)",
+"y": null
+},
+{
+"id": "nm6679987",
+"l": "Duplicate Sunny Deol",
+"q": null,
+"s": "Actor, Return Of Gadar - Ek Desh Premi (2002)",
+"y": null
+},
+{
+"id": "nm0921961",
+"l": "Sonny West",
+"q": null,
+"s": "Actor, Stay Away, Joe (1968)",
+"y": null
+}
+],
 "q:swann arlaud": [
 {
 "id": "nm0035128",
@@ -7554,6 +10728,64 @@
 "l": "Al Jean",
 "q": null,
 "s": "Producer, The Simpsons (1989-2026)",
+"y": null
+}
+],
+"q:taylor russell": [
+{
+"id": "nm5347988",
+"l": "Taylor Russell",
+"q": null,
+"s": "Actress, Bones and All (2022)",
+"y": null
+},
+{
+"id": "nm0853122",
+"l": "Russi Taylor",
+"q": null,
+"s": "Actress, DuckTales: The Movie - Treasure of the Lost Lamp (1990)",
+"y": null
+},
+{
+"id": "nm2071373",
+"l": "Russel Taylor",
+"q": null,
+"s": "Production Department, Seabiscuit (2003)",
+"y": null
+},
+{
+"id": "nm2003092",
+"l": "Russ Taylor",
+"q": null,
+"s": "Actor, Velcro Love Triangle (2011)",
+"y": null
+},
+{
+"id": "nm6117543",
+"l": "Russell Taylor",
+"q": null,
+"s": "Producer, Soulversations (2022)",
+"y": null
+},
+{
+"id": "nm1557335",
+"l": "Taylor Russell",
+"q": null,
+"s": "Camera and Electrical Department, The Escapist (2002)",
+"y": null
+},
+{
+"id": "tt32491153",
+"l": "Taylor Russell for Galerie",
+"q": "tvMiniSeries",
+"s": "Taylor Russell",
+"y": 2023
+},
+{
+"id": "nm0853121",
+"l": "Russell Taylor",
+"q": null,
+"s": "Actor, The Return of Josey Wales (1980)",
 "y": null
 }
 ],
@@ -8133,6 +11365,64 @@
 "y": null
 }
 ],
+"q:travis knight": [
+{
+"id": "nm1325899",
+"l": "Travis Knight",
+"q": null,
+"s": "Director, Kubo and the Two Strings (2016)",
+"y": null
+},
+{
+"id": "nm6514207",
+"l": "Travis A. Knight",
+"q": null,
+"s": "Actor, Chicago P.D. (2015-2018)",
+"y": null
+},
+{
+"id": "nm4381744",
+"l": "Travis Knight",
+"q": null,
+"s": "Director, Romancing the Patio (2012)",
+"y": null
+},
+{
+"id": "nm0461108",
+"l": "Travis Knight",
+"q": null,
+"s": "Actor, UHF (1989)",
+"y": null
+},
+{
+"id": "tt8598322",
+"l": "Trippie Redd: Dark Knight Dummo feat. Travis Scott",
+"q": "musicVideo",
+"s": "Trippie Redd, Travis Scott",
+"y": 2018
+},
+{
+"id": "nm2026536",
+"l": "Aramis Knight",
+"q": null,
+"s": "Actor, Ender's Game (2013)",
+"y": null
+},
+{
+"id": "nm3065585",
+"l": "Travis Knight",
+"q": null,
+"s": "Self, The 2000 NBA Finals (2000)",
+"y": null
+},
+{
+"id": "nm6664364",
+"l": "Travis Clausen Knight",
+"q": null,
+"s": "Actor, Swan Lake (2012)",
+"y": null
+}
+],
 "q:un tranquillo funerale di famiglia": [
 {
 "id": "tt41973396",
@@ -8236,6 +11526,36 @@
 "l": "Vincent Dela Luna",
 "q": null,
 "s": "Production Department, I, Robot (2004)",
+"y": null
+}
+],
+"q:vittoria puccini": [
+{
+"id": "nm0699756",
+"l": "Vittoria Puccini",
+"q": null,
+"s": "Actress, Elisa di Rivombrosa (2003-2005)",
+"y": null
+},
+{
+"id": "nm6360819",
+"l": "Victoria Baccini",
+"q": null,
+"s": "Actress, Carver (2015)",
+"y": null
+},
+{
+"id": "nm6503967",
+"l": "Vittoria Luchini",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "nm18563187",
+"l": "Vittorio Porcini",
+"q": null,
+"s": "Actor, Nati pre-giudicati (2024)",
 "y": null
 }
 ],
@@ -8450,6 +11770,15 @@
 "y": null
 }
 ],
+"q:wildwood i segreti del bosco proibito": [
+{
+"id": "tt2056785",
+"l": "Wildwood",
+"q": "movie",
+"s": "Peyton Elizabeth Lee, Jacob Tremblay",
+"y": 2026
+}
+],
 "q:william sylvester": [
 {
 "id": "nm0843213",
@@ -8563,6 +11892,64 @@
 "l": "Wolf Morrison",
 "q": null,
 "s": "Director, The Sound of Alicia Edelweiss (2018)",
+"y": null
+}
+],
+"q:xochitl gomez": [
+{
+"id": "nm7961780",
+"l": "Xochitl Gomez",
+"q": null,
+"s": "Actress, The Cat in the Hat (2026)",
+"y": null
+},
+{
+"id": "nm11681784",
+"l": "Xochitl Gomez",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "nm11689307",
+"l": "Xochitl Gomez",
+"q": null,
+"s": "Makeup Department, Hysteria (2018)",
+"y": null
+},
+{
+"id": "nm7842935",
+"l": "Xochitl Gonzalez",
+"q": null,
+"s": "Writer, Olga Dies Dreaming",
+"y": null
+},
+{
+"id": "nm15504470",
+"l": "Xochitl Gonzalez",
+"q": null,
+"s": "Actress, Brain Tumor (2024)",
+"y": null
+},
+{
+"id": "nm4711372",
+"l": "Juana Xochitl Gonzalez Ortiz",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "nm1986910",
+"l": "Xochitl Gonzalez",
+"q": null,
+"s": "Actress, Umbrales (1989)",
+"y": null
+},
+{
+"id": "nm1285945",
+"l": "Xochitl Gonzalez",
+"q": null,
+"s": "Director, Stuck (2003)",
 "y": null
 }
 ],
@@ -8796,6 +12183,64 @@
 "q": null,
 "s": "Actress, Island Vibes (2019)",
 "y": null
+}
+],
+"q:zoe kravitz": [
+{
+"id": "nm2368789",
+"l": "Zoë Kravitz",
+"q": null,
+"s": "Actress, Mad Max: Fury Road (2015)",
+"y": null
+},
+{
+"id": "tt15067276",
+"l": "Janelle Monáe Feat. Zoë Kravitz: Screwed",
+"q": "musicVideo",
+"s": "Janelle Monáe, Zoë Kravitz",
+"y": 2019
+},
+{
+"id": "tt1865718",
+"l": "Gravity Falls",
+"q": "tvSeries",
+"s": "Jason Ritter, Alex Hirsch",
+"y": 2012
+},
+{
+"id": "nm0470430",
+"l": "Steven Kravitz",
+"q": null,
+"s": "Actor, Howard the Duck (1986)",
+"y": null
+},
+{
+"id": "nm11718522",
+"l": "Jamie Kravitz",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "nm0712425",
+"l": "Joe Ravetz",
+"q": null,
+"s": "Editor, Remington Steele (1983-1985)",
+"y": null
+},
+{
+"id": "nm2059125",
+"l": "Joe Kravitz",
+"q": null,
+"s": "Production Department, The Mangler Reborn (2005)",
+"y": null
+},
+{
+"id": "tt9548306",
+"l": "Richard Orlinski feat. Anna Zak & Fat Joe: Gravity",
+"q": "musicVideo",
+"s": "Etay Axelroad, Billy Barry",
+"y": 2018
 }
 ]
 }
