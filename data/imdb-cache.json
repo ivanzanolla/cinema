@@ -476,6 +476,64 @@
 "y": 1916
 }
 ],
+"q:anna madeley": [
+{
+"id": "nm0534777",
+"l": "Anna Madeley",
+"q": null,
+"s": "Actress, In Bruges (2008)",
+"y": null
+},
+{
+"id": "nm1856236",
+"l": "Annalaina Marks",
+"q": null,
+"s": "Actress, Made of Honor (2008)",
+"y": null
+},
+{
+"id": "nm3157137",
+"l": "Anna Madley",
+"q": null,
+"s": "Production Department, Peep Show (2005)",
+"y": null
+},
+{
+"id": "nm0012326",
+"l": "Anna Adolfsson",
+"q": null,
+"s": "Actress, Tro mig (2014)",
+"y": null
+},
+{
+"id": "tt30326421",
+"l": "Marianna Masadi: Adeste Fideles",
+"q": "musicVideo",
+"s": "Marianna Masadi",
+"y": 2023
+},
+{
+"id": "nm11300209",
+"l": "Adele Ann Oqueriza",
+"q": null,
+"s": "Production Department, Deleter (2022)",
+"y": null
+},
+{
+"id": "nm13421082",
+"l": "Anna Mader",
+"q": null,
+"s": "Producer, Arden",
+"y": null
+},
+{
+"id": "nm1421307",
+"l": "Chelsie Padley",
+"q": null,
+"s": "Actress, The Story of Tracy Beaker (2002-2004)",
+"y": null
+}
+],
 "q:aoi yuki": [
 {
 "id": "nm2976492",
@@ -698,6 +756,64 @@
 "l": "Arun Govindankutty",
 "q": null,
 "s": "Writer, Oru Soppetty Katha (2013)",
+"y": null
+}
+],
+"q:august diehl": [
+{
+"id": "nm0225944",
+"l": "August Diehl",
+"q": null,
+"s": "Actor, Inglourious Basterds (2009)",
+"y": null
+},
+{
+"id": "nm1005628",
+"l": "August Riehl",
+"q": null,
+"s": "Voice Actor - Dubbing, 8½ (1963)",
+"y": null
+},
+{
+"id": "nm1472533",
+"l": "Gus Dizon",
+"q": null,
+"s": "Visual Effects, Cloverfield (2008)",
+"y": null
+},
+{
+"id": "nm3528783",
+"l": "Ken Kaiser",
+"q": null,
+"s": "Animation Department, Spies in Disguise (2019)",
+"y": null
+},
+{
+"id": "nm7034031",
+"l": "August Dirks",
+"q": null,
+"s": "Actor, Soroa (2014)",
+"y": null
+},
+{
+"id": "nm11016573",
+"l": "August Dine",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "nm4593631",
+"l": "August Dannehl",
+"q": null,
+"s": "Producer, Sound the Bells (2020)",
+"y": null
+},
+{
+"id": "nm0452416",
+"l": "August Kiehl",
+"q": null,
+"s": "Actor, De Kribbebijter (1935)",
 "y": null
 }
 ],
@@ -2150,6 +2266,64 @@
 "y": null
 }
 ],
+"q:david menkin": [
+{
+"id": "nm0579696",
+"l": "David Menkin",
+"q": null,
+"s": "Actor, Fatherland (2026)",
+"y": null
+},
+{
+"id": "nm9758207",
+"l": "David Robert Menkin",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "nm0578903",
+"l": "David Mendenhall",
+"q": null,
+"s": "Actor, God Bless America (2011)",
+"y": null
+},
+{
+"id": "nm1485339",
+"l": "David Thomas Jenkins",
+"q": null,
+"s": "Actor, She (2019)",
+"y": null
+},
+{
+"id": "nm1161662",
+"l": "David B. Menkes",
+"q": null,
+"s": "Visual Effects, The Day After Tomorrow (2004)",
+"y": null
+},
+{
+"id": "nm0592400",
+"l": "David Mirkin",
+"q": null,
+"s": "Producer, The Simpsons (1993-2026)",
+"y": null
+},
+{
+"id": "nm0579914",
+"l": "Scott Menville",
+"q": null,
+"s": "Actor, Teen Titans (2003-2006)",
+"y": null
+},
+{
+"id": "nm2871023",
+"l": "David Menke",
+"q": null,
+"s": "Music Department, The Father (2020)",
+"y": null
+}
+],
 "q:denis villeneuve": [
 {
 "id": "nm0898288",
@@ -2205,6 +2379,15 @@
 "l": "Louis Villeneuve",
 "q": null,
 "s": "Actor, L'homme perché (1996)",
+"y": null
+}
+],
+"q:devid striesow": [
+{
+"id": "nm0834479",
+"l": "Devid Striesow",
+"q": null,
+"s": "Actor, All Quiet on the Western Front (2022)",
 "y": null
 }
 ],
@@ -2999,6 +3182,64 @@
 "q": null,
 "s": "Art Department, Gialloparma (1999)",
 "y": null
+}
+],
+"q:fatherland": [
+{
+"id": "tt37304295",
+"l": "Fatherland",
+"q": "movie",
+"s": "Sandra Hüller, Hanns Zischler",
+"y": 2026
+},
+{
+"id": "tt0109779",
+"l": "Fatherland",
+"q": "tvMovie",
+"s": "Rutger Hauer, Miranda Richardson",
+"y": 1994
+},
+{
+"id": "tt7254930",
+"l": "Fatherland",
+"q": "movie",
+"s": "",
+"y": null
+},
+{
+"id": "tt0091035",
+"l": "Singing the Blues in Red",
+"q": "movie",
+"s": "Gerulf Pannach, Fabienne Babe",
+"y": 1986
+},
+{
+"id": "tt36416268",
+"l": "Fatherland",
+"q": "movie",
+"s": "Allen Dizon, Iñigo Pascual",
+"y": 2025
+},
+{
+"id": "tt0338527",
+"l": "Vaterland",
+"q": "movie",
+"s": "Otto Natho",
+"y": 2002
+},
+{
+"id": "tt15158720",
+"l": "Fatherland",
+"q": "tvSeries",
+"s": "Evgeniy Koryakovskiy, Anna Zavtur",
+"y": 2021
+},
+{
+"id": "tt12717574",
+"l": "Fatherland",
+"q": "movie",
+"s": "Hayley Crosbie, John Crosbie",
+"y": 2022
 }
 ],
 "q:federico zampaglione": [
@@ -4044,6 +4285,64 @@
 "y": 2023
 }
 ],
+"q:hanns zischler": [
+{
+"id": "nm0957193",
+"l": "Hanns Zischler",
+"q": null,
+"s": "Actor, Munich (2005)",
+"y": null
+},
+{
+"id": "tt29899927",
+"l": "Traveling Roadshow",
+"q": "video",
+"s": "Rüdiger Vogler, Hanns Zischler",
+"y": 2016
+},
+{
+"id": "nm15060391",
+"l": "Hanna Pichler",
+"q": null,
+"s": "Music Department, Auf dem Roten Stuhl (2023)",
+"y": null
+},
+{
+"id": "nm0278932",
+"l": "Hans Fischer",
+"q": null,
+"s": "Actor, The Trio (1998)",
+"y": null
+},
+{
+"id": "nm4857693",
+"l": "Hanno Fischer",
+"q": null,
+"s": "Self, Angriff auf Amerika (2005)",
+"y": null
+},
+{
+"id": "nm6445817",
+"l": "Hans Fischer",
+"q": null,
+"s": "Camera and Electrical Department, The New End (2018)",
+"y": null
+},
+{
+"id": "nm0278931",
+"l": "Hans Fischer",
+"q": null,
+"s": "Cinematographer, Die Liebhaberin des Vulkans - Mit Susan Sonntag in New York (2003)",
+"y": null
+},
+{
+"id": "nm8482744",
+"l": "Hans Pischner",
+"q": null,
+"s": "Music Department, Johann Sebastian Bach (1985)",
+"y": null
+}
+],
 "q:herbert ballerina": [
 {
 "id": "nm4253709",
@@ -4336,6 +4635,64 @@
 "q": "video",
 "s": "Henry Weckesser, Jim Mills",
 "y": 1996
+}
+],
+"q:il canto della foresta": [
+{
+"id": "tt32368068",
+"l": "Whispers in the Woods",
+"q": "movie",
+"s": "Michel Munier, Simon Munier",
+"y": 2025
+},
+{
+"id": "tt1951265",
+"l": "The Hunger Games: Mockingjay - Part 1",
+"q": "movie",
+"s": "Jennifer Lawrence, Josh Hutcherson",
+"y": 2014
+},
+{
+"id": "tt1951266",
+"l": "The Hunger Games: Mockingjay - Part 2",
+"q": "movie",
+"s": "Jennifer Lawrence, Josh Hutcherson",
+"y": 2015
+},
+{
+"id": "tt0189229",
+"l": "Zambo, King of the Jungle",
+"q": "movie",
+"s": "Brad Harris, Gisela Hahn",
+"y": 1972
+},
+{
+"id": "tt7599146",
+"l": "Sound of Freedom",
+"q": "movie",
+"s": "Jim Caviezel, Mira Sorvino",
+"y": 2023
+},
+{
+"id": "tt0037573",
+"l": "Il canto della vita",
+"q": "movie",
+"s": "Alida Valli, Carlo Ninchi",
+"y": 1945
+},
+{
+"id": "tt7504726",
+"l": "The Call of the Wild",
+"q": "movie",
+"s": "Harrison Ford, Omar Sy",
+"y": 2020
+},
+{
+"id": "tt1482459",
+"l": "The Lorax",
+"q": "movie",
+"s": "Zac Efron, Taylor Swift",
+"y": 2012
 }
 ],
 "q:il rumore delle cose nuove": [
@@ -7408,6 +7765,64 @@
 "y": null
 }
 ],
+"q:michel munier": [
+{
+"id": "nm13918331",
+"l": "Michel Munier",
+"q": null,
+"s": "Self, Vincent Munier, éternel émerveillé (2019)",
+"y": null
+},
+{
+"id": "nm0001540",
+"l": "Rachel Miner",
+"q": null,
+"s": "Actress, Bully (2001)",
+"y": null
+},
+{
+"id": "nm0005168",
+"l": "Jamie Luner",
+"q": null,
+"s": "Actress, Murder in the First (2015-2016)",
+"y": null
+},
+{
+"id": "nm4776767",
+"l": "Michael Jones",
+"q": null,
+"s": "Actor, Lazer Team (2015)",
+"y": null
+},
+{
+"id": "nm6061567",
+"l": "Michael Meneer",
+"q": null,
+"s": "Actor, Fifty Shades Darker (2017)",
+"y": null
+},
+{
+"id": "nm0402853",
+"l": "J. Michael Hunter",
+"q": null,
+"s": "Actor, Blue Velvet (1986)",
+"y": null
+},
+{
+"id": "nm2912900",
+"l": "Michael Hunter",
+"q": null,
+"s": "Self, Autopsy: The Last Hours of (2015-2023)",
+"y": null
+},
+{
+"id": "nm3100444",
+"l": "Michael Bunker",
+"q": null,
+"s": "Actor, Get Some In! (1976-1977)",
+"y": null
+}
+],
 "q:minami hamabe": [
 {
 "id": "nm4947538",
@@ -8384,6 +8799,64 @@
 "q": "movie",
 "s": "Carter Young, Mckenna Grace",
 "y": 2026
+}
+],
+"q:pawe pawlikowski": [
+{
+"id": "nm0667734",
+"l": "Paweł Pawlikowski",
+"q": null,
+"s": "Director, Cold War (2018)",
+"y": null
+},
+{
+"id": "nm9807891",
+"l": "Cj Pawlikowski",
+"q": null,
+"s": "Voice Actor, The Woman in the Window (2021)",
+"y": null
+},
+{
+"id": "nm9717841",
+"l": "Pawel Pawlowski",
+"q": null,
+"s": "Camera and Electrical Department, The Teacher (2016)",
+"y": null
+},
+{
+"id": "nm17966485",
+"l": "Paweł Pawlikowski",
+"q": null,
+"s": "Sound Department, Shadowed",
+"y": null
+},
+{
+"id": "nm5497982",
+"l": "Maria Pawlikowska",
+"q": null,
+"s": "Writer, A Little Death (2021)",
+"y": null
+},
+{
+"id": "nm0668044",
+"l": "Adam Pawlikowski",
+"q": null,
+"s": "Actor, Ashes and Diamonds (1958)",
+"y": null
+},
+{
+"id": "nm0472028",
+"l": "Pawel Królikowski",
+"q": null,
+"s": "Soundtrack, Twoja twarz brzmi znajomo (2014-2019)",
+"y": null
+},
+{
+"id": "nm13065924",
+"l": "Pawel Galikowski",
+"q": null,
+"s": "Editorial Department, Prince Charming Polska (2021)",
+"y": null
 }
 ],
 "q:per silenzio e vento": [
@@ -9779,6 +10252,64 @@
 "y": null
 }
 ],
+"q:sandra huller": [
+{
+"id": "nm1197689",
+"l": "Sandra Hüller",
+"q": null,
+"s": "Actress, Anatomy of a Fall (2023)",
+"y": null
+},
+{
+"id": "tt36058491",
+"l": "Sandra Hüllers Geheimnis",
+"q": "tvMovie",
+"s": "",
+"y": 2025
+},
+{
+"id": "nm1396815",
+"l": "Sandra Müller",
+"q": null,
+"s": "Actress, Jede Menge Leben (1995-1996)",
+"y": null
+},
+{
+"id": "nm8530107",
+"l": "Sandra Müller",
+"q": null,
+"s": "Producer, Those Who Whistle After Dark (2025)",
+"y": null
+},
+{
+"id": "nm1822183",
+"l": "Andra Fuller",
+"q": null,
+"s": "Actor, Legacy (2023)",
+"y": null
+},
+{
+"id": "nm6557834",
+"l": "Sandra Fuller",
+"q": null,
+"s": "Actress, Faith (2014)",
+"y": null
+},
+{
+"id": "nm9396752",
+"l": "Sandra Fuller",
+"q": null,
+"s": "Actress, Finding Chambers (2016)",
+"y": null
+},
+{
+"id": "nm3759939",
+"l": "Sandra Müller",
+"q": null,
+"s": "Actress, Ausgestoßen (2008)",
+"y": null
+}
+],
 "q:sara croce": [
 {
 "id": "nm10632330",
@@ -10077,6 +10608,64 @@
 "l": "Silvia Orlandi",
 "q": null,
 "s": "Self, Modern Marvels (2001)",
+"y": null
+}
+],
+"q:simon munier": [
+{
+"id": "nm17659023",
+"l": "Simon Munier",
+"q": null,
+"s": "Self, Whispers in the Woods (2025)",
+"y": null
+},
+{
+"id": "nm0800167",
+"l": "Gunter Simon",
+"q": null,
+"s": "Stunts, Inception (2010)",
+"y": null
+},
+{
+"id": "nm0404515",
+"l": "Simeon Hutner",
+"q": null,
+"s": "Director, Martyrs and Saints (1996)",
+"y": null
+},
+{
+"id": "nm10599111",
+"l": "Simon Whistler",
+"q": null,
+"s": "Producer, Into the Shadows (2021-2025)",
+"y": null
+},
+{
+"id": "nm9409638",
+"l": "Taylore Simone",
+"q": null,
+"s": "Actress, Butcher's Mountain (2026)",
+"y": null
+},
+{
+"id": "nm1918974",
+"l": "Simon David Hunter",
+"q": null,
+"s": "Director, The Custodian (2012)",
+"y": null
+},
+{
+"id": "nm0613323",
+"l": "Simon Muntner",
+"q": null,
+"s": "Writer, T.J. Hooker (1982-1984)",
+"y": null
+},
+{
+"id": "nm1349880",
+"l": "Simon Bunker",
+"q": null,
+"s": "Visual Effects, The League of Extraordinary Gentlemen (2003)",
 "y": null
 }
 ],
@@ -11504,6 +12093,64 @@
 "q": "short",
 "s": "Vanessa Redgrave",
 "y": 2018
+}
+],
+"q:vincent munier": [
+{
+"id": "nm8107577",
+"l": "Vincent Munier",
+"q": null,
+"s": "Director, The Velvet Queen (2021)",
+"y": null
+},
+{
+"id": "tt21610424",
+"l": "Vincent Munier, éternel émerveillé",
+"q": "movie",
+"s": "Marie Amiguet, Michel Munier",
+"y": 2019
+},
+{
+"id": "tt3416068",
+"l": "Running Wild with Vincent Munier",
+"q": "tvSeries",
+"s": "",
+"y": 2012
+},
+{
+"id": "nm9600146",
+"l": "Vincent Munier",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "nm0612867",
+"l": "Vincent Munier",
+"q": null,
+"s": "Camera and Electrical Department, Sans un cri (1991)",
+"y": null
+},
+{
+"id": "nm10924139",
+"l": "Vincent Meunier",
+"q": null,
+"s": "Visual Effects, September 5 (2024)",
+"y": null
+},
+{
+"id": "nm0004840",
+"l": "Alice Cooper",
+"q": null,
+"s": "Actor, Wayne's World (1992)",
+"y": null
+},
+{
+"id": "nm2947573",
+"l": "Vincent Manierre",
+"q": null,
+"s": "Editor, Let's Have Kids! (2026)",
+"y": null
 }
 ],
 "q:vincenzo de michele": [
