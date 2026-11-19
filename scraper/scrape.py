@@ -49,7 +49,7 @@ def log(*a):
 
 
 # intervallo minimo tra richieste allo stesso host (cortesia + rate limit dei siti)
-MIN_INTERVAL = {"coneglianocinergia.18tickets.it": 2.5}
+MIN_INTERVAL = {"coneglianocinergia.18tickets.it": 2.5, "italiabelluno.18tickets.it": 2.5}
 _last_hit = {}
 _lock = threading.Lock()
 
@@ -345,6 +345,87 @@ def scrape_lumiere():
         return [f for f in ex.map(one, sorted(urls)) if f["shows"]]
 
 
+# ---------------------------------------------------------------- Cinema Italia Belluno (WordPress + 18tickets)
+
+DAY_LABEL_RE = re.compile(r"^(lunedì|martedì|mercoledì|giovedì|venerdì|sabato|domenica)\s+\d{1,2}\s+[a-z]+(\s+\d{4})?$", re.I)
+
+
+def scrape_italia():
+    cid = "italia"
+    base = "https://www.cinemaitaliabelluno.it"
+    urls = []
+    for page in ("/programmazione/", "/"):
+        for a in soup(get(base + page).text).select('a[href*="/film/"]'):
+            u = a["href"].split("#")[0]
+            if u.startswith(base + "/film/") and u not in urls:
+                urls.append(u)
+    log(f"  italia: {len(urls)} schede")
+
+    def one(url):
+        s = soup(get(url).text)
+        meta = {}
+        for sp in s.find_all("span"):
+            nxt = sp.find_next_sibling("span")
+            lab = text(sp).lower()
+            if nxt and lab in ("regista", "cast", "paese", "anno", "durata", "genere"):
+                meta[lab] = text(nxt)
+        title = text(s.find("h1"))
+        poster = s.find("img", src=re.compile(r"18tickets\.net/.*/playbill/"))
+        yt = s.find("iframe", src=re.compile("youtube"))
+        trailer = None
+        if yt and "/embed/" in yt["src"]:
+            trailer = "https://www.youtube.com/watch?v=" + yt["src"].split("/embed/")[1].split("?")[0]
+        paras = [text(p) for p in s.find_all("p")]
+        paras = [p for p in paras if len(p) > 80 and "whatsapp" not in p.lower()]
+        plot = max(paras, key=len) if paras else None
+        vos = is_vos(title)
+
+        shows, day = [], None
+        h2 = next((h for h in s.find_all("h2") if text(h).lower() == "orari"), None)
+        for el in (h2.find_all_next() if h2 else []):
+            if el.name == "div" and not el.find(["div", "a"]) and DAY_LABEL_RE.match(text(el)):
+                day = it_date(text(el))
+            elif el.name == "a" and "#sala" in el.get("href", "") and day:
+                m = re.search(r"(\d{1,2}):(\d{2})", text(el))
+                if not m:
+                    continue
+                tags = [text(x) for x in el.find_all("span") if not x.find("span")]
+                tags = ["VOS" if is_vos(t) else t for t in tags if t and t.lower() != "in sala"]
+                if vos:
+                    tags.append("VOS")
+                shows.append(show(cid, day, f"{int(m[1]):02d}:{m[2]}", el["href"], None, tags))
+
+        runtime, genres = parse_minutes(meta.get("durata")), []
+        tix = s.find("a", href=re.compile(r"18tickets\.it/film/\d+$"))
+        if shows and tix:
+            try:
+                t = soup(get(tix["href"]).text)
+                runtime = runtime or parse_minutes(text(t.select_one(".movie__time")))
+                for p in t.select("p.movie__option"):
+                    if text(p.find("strong")).lower().startswith("genere"):
+                        genres = [g.strip() for g in text(p).split(":", 1)[-1].split(",") if g.strip()]
+            except Exception as e:  # noqa: BLE001
+                log(f"  italia 18tickets {tix['href']}: {e}")
+        yr = re.search(r"\d{4}", meta.get("anno", ""))
+        return {
+            "title": title,
+            "originalTitle": None,
+            "director": split_people(meta.get("regista")),
+            "cast": split_people(meta.get("cast"), 8),
+            "runtime": runtime,
+            "genres": genres,
+            "poster": poster["src"] if poster else None,
+            "plot": plot,
+            "year": int(yr.group()) if yr else None,
+            "rating": None,
+            "trailer": trailer,
+            "page": url,
+            "shows": shows,
+        }
+
+    return [f for f in map(one, urls) if f["shows"]]
+
+
 # ---------------------------------------------------------------- Verdi (cineservice)
 
 def scrape_verdi():
@@ -473,9 +554,10 @@ CINEMAS = [
     {"id": "cinergia", "name": "Cinergia", "place": "Conegliano", "url": "https://coneglianocinergia.18tickets.it", "fn": scrape_cinergia},
     {"id": "verdi", "name": "Multisala Verdi", "place": "Vittorio Veneto", "url": "https://multisalaverdi.it", "fn": scrape_verdi},
     {"id": "lumiere", "name": "Lumière", "place": "Belluno", "url": "https://cinemalumiere.it", "fn": scrape_lumiere},
+    {"id": "italia", "name": "Cinema Italia", "place": "Belluno", "url": "https://www.cinemaitaliabelluno.it", "fn": scrape_italia},
 ]
 # priorità delle fonti per i metadati (la prima non vuota vince)
-PRIORITY = ["space", "cinergia", "lumiere", "verdi"]
+PRIORITY = ["space", "cinergia", "lumiere", "italia", "verdi"]
 
 
 def previous_data():

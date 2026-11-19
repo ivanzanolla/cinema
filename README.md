@@ -2,7 +2,7 @@
 
 Programmazione dei cinema che frequento, in un'unica pagina: **https://ivanzanolla.github.io/cinema/**
 
-Cinema: The Space Silea, Cinergia Conegliano, Multisala Verdi Vittorio Veneto, La petite Lumière Belluno.
+Cinema: The Space Silea, Cinergia Conegliano, Multisala Verdi Vittorio Veneto, La petite Lumière Belluno, Cinema Italia Belluno.
 
 - `scraper/scrape.py` scarica film, orari e link d'acquisto da ogni sito e genera `site/data.json`
 - `site/index.html` è la pagina (statica, legge `data.json`)
