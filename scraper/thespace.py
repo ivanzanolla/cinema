@@ -10,6 +10,7 @@ Uso: python3 scraper/thespace.py [percorso_output]
 import json
 import sys
 import time
+import urllib.error
 import urllib.request
 from datetime import date, datetime, timedelta
 from urllib.parse import urljoin
@@ -26,15 +27,25 @@ DAYS_AHEAD = 10
 UA = "InSala/1.0 (aggregatore personale programmazione cinema; +https://github.com/ivanzanolla/cinema)"
 
 
-def fetch_json(path):
+def fetch_json(path, retries=2):
     req = urllib.request.Request(BASE + path, headers={
         "User-Agent": UA,
         "Accept": "application/json",
         "Accept-Language": "it-IT,it;q=0.9",
         "Referer": f"{BASE}/cinema/silea/al-cinema",
     })
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.load(r)
+    for attempt in range(retries + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                return json.load(r)
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 500, 502, 503, 504) and attempt < retries:
+                ra = e.headers.get("Retry-After", "")
+                wait = min(int(ra) if ra.isdigit() else 15 * (attempt + 1), 90)
+                print(f"  HTTP {e.code} su {path}: riprovo tra {wait}s", file=sys.stderr)
+                time.sleep(wait)
+                continue
+            raise
 
 
 def split_people(s, limit=None):
@@ -52,15 +63,24 @@ def scrape(today=None):
     dates = fetch_json(f"/api/microservice/showings/showingDates?cinemaId={CINEMA_ID}"
                        f"&minEmbargoLevel=2&forNextWeek=true")["result"]
     films = {}
+    errors = []
     for d in dates:
         if not d.get("hasShowings"):
             continue
         day = d["showingDate"][:10]
         if date.fromisoformat(day) > today + timedelta(days=DAYS_AHEAD):
             continue
-        time.sleep(0.5)
-        data = fetch_json(f"/api/microservice/showings/cinemas/{CINEMA_ID}/films?showingDate={day}T00:00:00"
-                          f"&minEmbargoLevel=3&includesSession=true&includeSessionAttributes=true")["result"]
+        time.sleep(1.5)
+        try:
+            data = fetch_json(f"/api/microservice/showings/cinemas/{CINEMA_ID}/films?showingDate={day}T00:00:00"
+                              f"&minEmbargoLevel=3&includesSession=true&includeSessionAttributes=true")["result"]
+        except urllib.error.HTTPError as e:
+            tent = " (data provvisoria)" if d.get("isTentativeScheduleDate") else ""
+            print(f"  {day}{tent}: HTTP {e.code}, giorno saltato", file=sys.stderr)
+            errors.append(f"{day}: HTTP {e.code}")
+            if e.code == 403:
+                break  # bloccati: inutile insistere sugli altri giorni
+            continue
         for f in data:
             film = films.get(f["filmId"])
             if not film:
@@ -96,6 +116,8 @@ def scrape(today=None):
                         "url": urljoin(BASE, s.get("bookingUrl") or ""), "room": s.get("screenName") or None,
                         "tags": sorted(set(tags)), "soldOut": bool(s.get("isSoldOut")),
                     })
+    if errors:
+        print("  giorni non scaricati: " + ", ".join(errors), file=sys.stderr)
     return list(films.values())
 
 
