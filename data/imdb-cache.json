@@ -2872,6 +2872,64 @@
 "y": null
 }
 ],
+"q:elizabeth holmes": [
+{
+"id": "nm7266010",
+"l": "Elizabeth Holmes",
+"q": null,
+"s": "Self, You Can See Everything (2026)",
+"y": null
+},
+{
+"id": "nm1358608",
+"l": "Beth Holmes",
+"q": null,
+"s": "Casting Department, St. Vincent (2014)",
+"y": null
+},
+{
+"id": "nm2779909",
+"l": "Elizabeth Holmes",
+"q": null,
+"s": "Actress, Finale (2009)",
+"y": null
+},
+{
+"id": "tt10166622",
+"l": "The Dropout",
+"q": "tvMiniSeries",
+"s": "Amanda Seyfried, Naveen Andrews",
+"y": 2022
+},
+{
+"id": "tt15524192",
+"l": "Valley of Hype: The Culture that Built Elizabeth Holmes",
+"q": "movie",
+"s": "",
+"y": 2021
+},
+{
+"id": "nm8556330",
+"l": "Holmes",
+"q": null,
+"s": "Actress, Overcompensating (2025-2027)",
+"y": null
+},
+{
+"id": "tt10856000",
+"l": "Elizabeth Holmes: A Spider Couch Exclusive Interview",
+"q": "video",
+"s": "Rheagan Wallace, T.J. Beacom",
+"y": 2019
+},
+{
+"id": "nm0391816",
+"l": "Elizabeth Holmes",
+"q": null,
+"s": "Actress, Light Blast (1985)",
+"y": null
+}
+],
 "q:elle fanning": [
 {
 "id": "nm1102577",
@@ -6698,6 +6756,36 @@
 "y": 1991
 }
 ],
+"q:lance oppenheim": [
+{
+"id": "nm4565262",
+"l": "Lance Oppenheim",
+"q": null,
+"s": "Director, Primetime (2026)",
+"y": null
+},
+{
+"id": "nm4440827",
+"l": "Bruce Oppenheim",
+"q": null,
+"s": "Self, The 13th Annual People's Choice Awards (1987)",
+"y": null
+},
+{
+"id": "nm0649199",
+"l": "Melanie Oppenheimer",
+"q": null,
+"s": "Actress, Carson's Law (1983-1984)",
+"y": null
+},
+{
+"id": "nm7345748",
+"l": "Lawrence Oppenheimer",
+"q": null,
+"s": null,
+"y": null
+}
+],
 "q:leonard rossiter": [
 {
 "id": "nm0744436",
@@ -8409,6 +8497,64 @@
 "l": "Naomi Ackerman",
 "q": null,
 "s": "Actress, What Might Be Under the Bed (2010)",
+"y": null
+}
+],
+"q:nathan fielder": [
+{
+"id": "nm2358709",
+"l": "Nathan Fielder",
+"q": null,
+"s": "Director, You Can See Everything (2026)",
+"y": null
+},
+{
+"id": "tt10802170",
+"l": "The Rehearsal",
+"q": "tvSeries",
+"s": "Nathan Fielder, Journey Baker",
+"y": 2022
+},
+{
+"id": "tt46062384",
+"l": "Kyle Dunnigan: Leaked Nathan Fielder Elizabeth Holmes Movie Clip",
+"q": "tvSpecial",
+"s": "Kyle Dunnigan, John Thrall Bush",
+"y": 2026
+},
+{
+"id": "tt33143134",
+"l": "Finding Nathan Fielder (With Jen Zhao)",
+"q": "short",
+"s": "Paul Wagar, Jen Zhao",
+"y": 2024
+},
+{
+"id": "nm1170394",
+"l": "Jonathan Chase",
+"q": null,
+"s": "Actor, Gamer (2009)",
+"y": null
+},
+{
+"id": "nm1788612",
+"l": "Nathan Fields",
+"q": null,
+"s": "Production Department, Greenberg (2010)",
+"y": null
+},
+{
+"id": "nm0256831",
+"l": "Cy Endfield",
+"q": null,
+"s": "Director, Zulu (1964)",
+"y": null
+},
+{
+"id": "nm3654539",
+"l": "Frank Fieser",
+"q": null,
+"s": "Visual Effects, Edge of Tomorrow (2014)",
 "y": null
 }
 ],
@@ -13041,6 +13187,15 @@
 "q": null,
 "s": "Visual Effects, The End of Oak Street (2026)",
 "y": null
+}
+],
+"q:you can see everything lingua originale": [
+{
+"id": "tt45368240",
+"l": "You Can See Everything",
+"q": "movie",
+"s": "Amanda Seyfried, Christopher Abbott",
+"y": 2026
 }
 ],
 "q:your name": [
