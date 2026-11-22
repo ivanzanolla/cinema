@@ -4936,6 +4936,64 @@
 "y": 2012
 }
 ],
+"q:il gatto col cappello": [
+{
+"id": "tt2321555",
+"l": "The Cat in the Hat",
+"q": "movie",
+"s": "Bill Hader, Mayabella Sage Mccrillis",
+"y": 2026
+},
+{
+"id": "tt0312528",
+"l": "The Cat in the Hat",
+"q": "movie",
+"s": "Mike Myers, Spencer Breslin",
+"y": 2003
+},
+{
+"id": "tt0448694",
+"l": "Puss in Boots",
+"q": "movie",
+"s": "Antonio Banderas, Salma Hayek",
+"y": 2011
+},
+{
+"id": "tt3915174",
+"l": "Puss in Boots: The Last Wish",
+"q": "movie",
+"s": "Antonio Banderas, Salma Hayek",
+"y": 2022
+},
+{
+"id": "tt16354422",
+"l": "L'Ultimo Whisky con il Cappellaio Matto",
+"q": "short",
+"s": "Beniamino Brogi, Ciro Cascina",
+"y": 2020
+},
+{
+"id": "tt0263265",
+"l": "Shortcut to Happiness",
+"q": "movie",
+"s": "Anthony Hopkins, Jennifer Love Hewitt",
+"y": 2003
+},
+{
+"id": "tt0177606",
+"l": "Puss in Boots",
+"q": "movie",
+"s": "Christopher Walken, Jason Connery",
+"y": 1988
+},
+{
+"id": "tt0064714",
+"l": "Puss in Boots",
+"q": "movie",
+"s": "Susumu Ishikawa, Toshiko Fujita",
+"y": 1969
+}
+],
 "q:il rumore delle cose nuove": [
 {
 "id": "tt38281377",
