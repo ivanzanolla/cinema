@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T13:16+01:00",
+ "generated": "2026-11-23T07:41+01:00",
  "films": [
   {
    "title": "Hunger Games - L'alba sulla mietitura",
@@ -28,171 +28,6 @@
    "trailer": null,
    "page": "https://www.thespacecinema.it/film/hunger-games-l-alba-sulla-mietitura",
    "shows": [
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "13:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80776",
-     "room": "Sala 8",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "13:40",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80755",
-     "room": "EPIC",
-     "tags": [
-      "Dolby Atmos",
-      "EPIC",
-      "HDR by Barco",
-      "Schermo più grande"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "15:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80794",
-     "room": "Sala 12",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "16:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80922",
-     "room": "Sala 3",
-     "tags": [
-      "VOS"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "16:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80761",
-     "room": "Sala 4",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "17:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/79866",
-     "room": "EPIC",
-     "tags": [
-      "Dolby Atmos",
-      "EPIC",
-      "HDR by Barco",
-      "Schermo più grande"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "18:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80774",
-     "room": "Sala 7",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "18:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80795",
-     "room": "Sala 12",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "19:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/79881",
-     "room": "Sala 2",
-     "tags": [
-      "VOS"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "19:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80770",
-     "room": "Sala 6",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "19:35",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80923",
-     "room": "Sala 3",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "20:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80762",
-     "room": "Sala 4",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "21:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/79867",
-     "room": "EPIC",
-     "tags": [
-      "Dolby Atmos",
-      "EPIC",
-      "HDR by Barco",
-      "Schermo più grande"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "21:50",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80864",
-     "room": "Sala 9",
-     "tags": [
-      "VOS"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "22:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80271",
-     "room": "Sala 12",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "22:45",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80771",
-     "room": "Sala 6",
-     "tags": [],
-     "soldOut": false
-    },
     {
      "cinema": "space",
      "date": "2026-11-23",
@@ -494,82 +329,9 @@
     },
     {
      "cinema": "space",
-     "date": "2026-11-25",
-     "time": "14:05",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80885",
-     "room": "EPIC",
-     "tags": [
-      "Dolby Atmos",
-      "EPIC",
-      "HDR by Barco",
-      "Schermo più grande"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "15:10",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80892",
-     "room": "Sala 4",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "16:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80897",
-     "room": "Sala 6",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "16:45",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80910",
-     "room": "Sala 10",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "17:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/79860",
-     "room": "EPIC",
-     "tags": [
-      "Dolby Atmos",
-      "EPIC",
-      "HDR by Barco",
-      "Schermo più grande"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "18:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80916",
-     "room": "Sala 12",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "18:50",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80902",
-     "room": "Sala 7",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "19:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/79874",
+     "date": "2026-11-29",
+     "time": "11:10",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80932",
      "room": "Sala 5",
      "tags": [
       "VOS"
@@ -578,29 +340,9 @@
     },
     {
      "cinema": "space",
-     "date": "2026-11-25",
-     "time": "20:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80911",
-     "room": "Sala 10",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "20:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80891",
-     "room": "Sala 3",
-     "tags": [
-      "VOS"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "21:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/79861",
+     "date": "2026-11-29",
+     "time": "17:45",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80303",
      "room": "EPIC",
      "tags": [
       "Dolby Atmos",
@@ -612,33 +354,10 @@
     },
     {
      "cinema": "space",
-     "date": "2026-11-25",
-     "time": "21:45",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80268",
-     "room": "Sala 12",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "14:50",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80311",
-     "room": "EPIC",
-     "tags": [
-      "Dolby Atmos",
-      "EPIC",
-      "HDR by Barco",
-      "Schermo più grande"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
+     "date": "2026-11-29",
      "time": "19:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80929",
-     "room": "Sala 3",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80940",
+     "room": "Sala 10",
      "tags": [
       "VOS"
      ],
@@ -646,87 +365,9 @@
     },
     {
      "cinema": "space",
-     "date": "2026-11-26",
+     "date": "2026-11-29",
      "time": "21:20",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80313",
-     "room": "EPIC",
-     "tags": [
-      "Dolby Atmos",
-      "EPIC",
-      "HDR by Barco",
-      "Schermo più grande"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-27",
-     "time": "14:50",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80308",
-     "room": "EPIC",
-     "tags": [
-      "Dolby Atmos",
-      "EPIC",
-      "HDR by Barco",
-      "Schermo più grande"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-27",
-     "time": "19:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80942",
-     "room": "Sala 10",
-     "tags": [
-      "VOS"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-27",
-     "time": "21:20",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80310",
-     "room": "EPIC",
-     "tags": [
-      "Dolby Atmos",
-      "EPIC",
-      "HDR by Barco",
-      "Schermo più grande"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-28",
-     "time": "18:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80306",
-     "room": "EPIC",
-     "tags": [
-      "Dolby Atmos",
-      "EPIC",
-      "HDR by Barco",
-      "Schermo più grande"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-28",
-     "time": "19:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80941",
-     "room": "Sala 10",
-     "tags": [
-      "VOS"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-28",
-     "time": "21:50",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80307",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80304",
      "room": "EPIC",
      "tags": [
       "Dolby Atmos",
@@ -766,69 +407,6 @@
    "trailer": null,
    "page": "https://www.thespacecinema.it/film/scrooge-e-gli-spiriti-del-natale",
    "shows": [
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "12:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003866/80772",
-     "room": "Sala 7",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "13:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003866/80760",
-     "room": "Sala 4",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "16:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003866/80782",
-     "room": "Sala 9",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "17:40",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003866/80764",
-     "room": "Sala 5",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "20:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003866/80788",
-     "room": "Sala 10",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "22:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003866/80759",
-     "room": "Sala 2",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "23:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003866/80927",
-     "room": "Sala 3",
-     "tags": [],
-     "soldOut": false
-    },
     {
      "cinema": "space",
      "date": "2026-11-23",
@@ -891,42 +469,6 @@
      "room": "Sala 7",
      "tags": [],
      "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "15:25",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003866/80915",
-     "room": "Sala 12",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "18:40",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003866/80893",
-     "room": "Sala 4",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "21:20",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003866/80914",
-     "room": "Sala 11",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "22:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003866/80899",
-     "room": "Sala 6",
-     "tags": [],
-     "soldOut": false
     }
    ]
   },
@@ -953,33 +495,6 @@
    "trailer": null,
    "page": "https://www.thespacecinema.it/film/se-domani-non-torno",
    "shows": [
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "15:20",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003580/80773",
-     "room": "Sala 7",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "16:50",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003580/80777",
-     "room": "Sala 8",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "19:05",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003580/80783",
-     "room": "Sala 9",
-     "tags": [],
-     "soldOut": false
-    },
     {
      "cinema": "space",
      "date": "2026-11-23",
@@ -1051,51 +566,6 @@
      "room": "Sala 11",
      "tags": [],
      "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "14:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003580/80904",
-     "room": "Sala 8",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "16:50",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003580/80905",
-     "room": "Sala 8",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "17:50",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003580/80908",
-     "room": "Sala 9",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "19:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003580/80887",
-     "room": "Sala 2",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "22:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003580/80896",
-     "room": "Sala 5",
-     "tags": [],
-     "soldOut": false
     }
    ]
   },
@@ -1127,33 +597,6 @@
    "trailer": null,
    "page": "https://www.thespacecinema.it/film/un-weekend-artificiale",
    "shows": [
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "14:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003902/80757",
-     "room": "Sala 2",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "16:50",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003902/80769",
-     "room": "Sala 6",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "20:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003902/80765",
-     "room": "Sala 5",
-     "tags": [],
-     "soldOut": false
-    },
     {
      "cinema": "space",
      "date": "2026-11-23",
@@ -1198,33 +641,6 @@
      "room": "Sala 5",
      "tags": [],
      "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "14:10",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003902/80894",
-     "room": "Sala 5",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "16:35",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003902/80895",
-     "room": "Sala 5",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "22:10",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003902/80888",
-     "room": "Sala 2",
-     "tags": [],
-     "soldOut": false
     }
    ]
   },
@@ -1257,15 +673,6 @@
    "shows": [
     {
      "cinema": "space",
-     "date": "2026-11-22",
-     "time": "19:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003861/80778",
-     "room": "Sala 8",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
      "date": "2026-11-23",
      "time": "17:00",
      "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003861/80807",
@@ -1278,15 +685,6 @@
      "date": "2026-11-24",
      "time": "19:45",
      "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003861/80848",
-     "room": "Sala 11",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "15:10",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003861/80912",
      "room": "Sala 11",
      "tags": [],
      "soldOut": false
@@ -1322,33 +720,6 @@
    "shows": [
     {
      "cinema": "space",
-     "date": "2026-11-22",
-     "time": "14:10",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003165/80768",
-     "room": "Sala 6",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "16:20",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003165/80758",
-     "room": "Sala 2",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "17:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003165/80787",
-     "room": "Sala 10",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
      "date": "2026-11-23",
      "time": "14:10",
      "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003165/80797",
@@ -1382,134 +753,6 @@
      "room": "Sala 8",
      "tags": [],
      "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "14:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003165/80886",
-     "room": "Sala 2",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "16:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003165/80901",
-     "room": "Sala 7",
-     "tags": [],
-     "soldOut": false
-    }
-   ]
-  },
-  {
-   "title": "Ti Presento i Fotter",
-   "originalTitle": null,
-   "director": [
-    "John Hamburg"
-   ],
-   "cast": [
-    "Robert De Niro",
-    "Ben Stiller",
-    "Skyler Gisondo",
-    "Ariana Grande",
-    "Owen Wilson"
-   ],
-   "runtime": 106,
-   "genres": [
-    "Commedia"
-   ],
-   "poster": "https://www.thespacecinema.it/-/media/the-space-cinema/schede-film/2026/11/ti-presento-i-fotter/locandina_tipresentoifotter.jpg?rev=7872ce8b628a4f8f82491fae9b177983",
-   "plot": "Questo autunno, l’icona della commedia e vincitore di Emmy Ben Stiller e il due volte premio Oscar® Robert De Niro tornano a collaborare, affiancati dalla vincitrice di Grammy e candidata all’Oscar® Ariana Grande, in TI PRESENTO I FOTTER, un nuovo capitolo della fortunata saga Meet the Parents.",
-   "year": null,
-   "release": "2026-11-25",
-   "rating": "6",
-   "trailer": null,
-   "page": "https://www.thespacecinema.it/film/ti-presento-i-fotter",
-   "shows": [
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "21:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003596/80220",
-     "room": "Sala 7",
-     "tags": [
-      "ANTEPRIMA"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "15:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003596/80889",
-     "room": "Sala 3",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "17:45",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003596/80890",
-     "room": "Sala 3",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "19:35",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003596/80898",
-     "room": "Sala 6",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "21:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003596/80217",
-     "room": "Sala 4",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "22:20",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003596/80903",
-     "room": "Sala 7",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "21:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003596/80226",
-     "room": "Sala 4",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-27",
-     "time": "21:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003596/80225",
-     "room": "Sala 4",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-28",
-     "time": "21:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003596/80224",
-     "room": "Sala 4",
-     "tags": [],
-     "soldOut": false
     }
    ]
   },
@@ -1540,15 +783,6 @@
    "shows": [
     {
      "cinema": "space",
-     "date": "2026-11-22",
-     "time": "17:50",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004009/80791",
-     "room": "Sala 11",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
      "date": "2026-11-23",
      "time": "21:30",
      "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004009/80820",
@@ -1562,15 +796,6 @@
      "time": "21:55",
      "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004009/80826",
      "room": "Sala 2",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "18:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004009/80913",
-     "room": "Sala 11",
      "tags": [],
      "soldOut": false
     }
@@ -1601,15 +826,6 @@
    "shows": [
     {
      "cinema": "space",
-     "date": "2026-11-22",
-     "time": "21:10",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003953/80792",
-     "room": "Sala 11",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
      "date": "2026-11-23",
      "time": "22:10",
      "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003953/80800",
@@ -1631,15 +847,6 @@
      "date": "2026-11-24",
      "time": "22:10",
      "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003953/80839",
-     "room": "Sala 8",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "22:10",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003953/80906",
      "room": "Sala 8",
      "tags": [],
      "soldOut": false
@@ -1670,52 +877,9 @@
    "shows": [
     {
      "cinema": "space",
-     "date": "2026-11-22",
-     "time": "22:50",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003849/80861",
-     "room": "Sala 5",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
      "date": "2026-11-23",
      "time": "17:20",
      "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003849/80815",
-     "room": "Sala 9",
-     "tags": [],
-     "soldOut": false
-    }
-   ]
-  },
-  {
-   "title": "LOOK BACK",
-   "originalTitle": null,
-   "director": [
-    "Koreeda Hirokazu"
-   ],
-   "cast": [
-    "Natsuki Deguchi",
-    "Aju Makita",
-    "Kayo Noro"
-   ],
-   "runtime": 100,
-   "genres": [
-    "Dramma"
-   ],
-   "poster": "https://www.thespacecinema.it/-/media/the-space-cinema/schede-film/2026/11/look-back/locandina_lookback.jpg?rev=12bf254caaa549be8e94d0a8169dd90b",
-   "plot": "Koreeda Hirokazu torna in concorso alla Mostra Internazionale d’Arte Cinematografica di Venezia con Look back, tratto dal manga omonimo di Fujimoto Tatsuki. Giappone. Fujino e Kyomoto hanno una comune passione per il disegno e creano strisce di fumetti manga per il giornalino scolastico delle elementari, ma ancora non si conoscono, perché Fujino va a scuola tutti i giorni insieme agli altri bambini di quarta, mentre Kyomoto è un'alunna non frequentante. Quando, alla fine della quinta elementare, il maestro chiede a Fujino di portare il certificato di diploma a casa di Kyomoto e consegnarglielo personalmente, Fujino è contrariata: considera Kyomoto la sua più temibile rivale al titolo di migliore disegnatrice della scuola, e addirittura si è allontanata dal disegno per evitare quel confronto. ",
-   "year": null,
-   "release": "2026-11-12",
-   "rating": "t",
-   "trailer": null,
-   "page": "https://www.thespacecinema.it/film/look-back",
-   "shows": [
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "13:40",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003903/80781",
      "room": "Sala 9",
      "tags": [],
      "soldOut": false
@@ -1748,15 +912,6 @@
    "shows": [
     {
      "cinema": "space",
-     "date": "2026-11-22",
-     "time": "14:45",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003652/80763",
-     "room": "Sala 5",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
      "date": "2026-11-23",
      "time": "14:35",
      "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003652/80814",
@@ -1770,210 +925,6 @@
      "time": "14:05",
      "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003652/80824",
      "room": "Sala 2",
-     "tags": [],
-     "soldOut": false
-    }
-   ]
-  },
-  {
-   "title": "HOPE",
-   "originalTitle": null,
-   "director": [
-    "Na Hong-jin"
-   ],
-   "cast": [
-    "Alicia Vikander",
-    "Michael Fassbender",
-    "Taylor Russell",
-    "Cameron Britton",
-    "In-sung Jo"
-   ],
-   "runtime": 160,
-   "genres": [
-    "Azione"
-   ],
-   "poster": "https://www.thespacecinema.it/-/media/the-space-cinema/schede-film/2026/11/hope/locandina_hope.jpg?rev=ba5a5c36b8a54eb1b8d0b7eea47abcb0",
-   "plot": "Una comunità viene gettata nel caos quando il capo della polizia locale Bum-seok viene avvertito del possibile avvistamento di una tigre. Ciò che nasce come un’emergenza locale diventa presto un mistero più profondo e terrificante, che obbliga gli abitanti a confrontarsi con l’ignoto.",
-   "year": null,
-   "release": "2026-11-05",
-   "rating": "10",
-   "trailer": null,
-   "page": "https://www.thespacecinema.it/film/hope",
-   "shows": [
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "22:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003798/80779",
-     "room": "Sala 8",
-     "tags": [],
-     "soldOut": false
-    }
-   ]
-  },
-  {
-   "title": "COME RAPINARE UNA BANCA",
-   "originalTitle": null,
-   "director": [
-    "David Leitch"
-   ],
-   "cast": [
-    "Nicholas Hoult",
-    "Zoë Kravitz",
-    "John C. Reilly",
-    "Pete Davidson",
-    "Michael Gandolfini"
-   ],
-   "runtime": 121,
-   "genres": [
-    "Azione"
-   ],
-   "poster": "https://www.thespacecinema.it/-/media/the-space-cinema/schede-film/2026/09/come-rapinare-una-banca/locandina_comerapinareunabanca.jpg?rev=c031e1fdeb694cf6895c8649fe2a99e4",
-   "plot": "In Come rapinare una banca, una banda di ladri, esperti di social media, trasmette le proprie spettacolari rapine, ignara che la crescente fama virale li ha messi nel mirino di un agente veterano dell'FBI e di una brillante ingegnera informatica. ",
-   "year": null,
-   "release": "2026-11-12",
-   "rating": "10",
-   "trailer": null,
-   "page": "https://www.thespacecinema.it/film/come-rapinare-una-banca",
-   "shows": [
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "23:05",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003758/80789",
-     "room": "Sala 10",
-     "tags": [],
-     "soldOut": false
-    }
-   ]
-  },
-  {
-   "title": "SHAUN, VITA DA PECORA - OPERAZIONE Z.U.C.C.A.",
-   "originalTitle": null,
-   "director": [
-    "Steve Cox"
-   ],
-   "cast": [
-    "Justin Fletcher",
-    "John Sparkes",
-    "Kate Harbour"
-   ],
-   "runtime": 91,
-   "genres": [
-    "Animazione"
-   ],
-   "poster": "https://www.thespacecinema.it/-/media/the-space-cinema/schede-film/2026/10/shaun-vita-da-pecora/locandina_shaunvitadapecora.jpg?rev=fe799ba1518b4abc9234395506006b98",
-   "plot": "Halloween è alle porte e il gregge si prepara a celebrare coltivando un magnifico campo di zucche. I piani vengono però stravolti quando il contadino scompare misteriosamente nel nulla e un mostruoso essere peloso emerge dal bosco. Tra esperimenti impazziti e colpi di scena inaspettati, Shaun e i suoi amici dovranno unire le forze per sconfiggere la creatura e ritrovare il loro padrone in tempo per il party. ",
-   "year": null,
-   "release": "2026-10-28",
-   "rating": "t",
-   "trailer": null,
-   "page": "https://www.thespacecinema.it/film/shaun-vita-da-pecora-operazione-zucca",
-   "shows": [
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "15:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003724/80786",
-     "room": "Sala 10",
-     "tags": [
-      "Prezzo Family"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-23",
-     "time": "15:35",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003724/80809",
-     "room": "Sala 7",
-     "tags": [
-      "Prezzo Family"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-24",
-     "time": "15:05",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003724/80843",
-     "room": "Sala 10",
-     "tags": [
-      "Prezzo Family"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "14:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003724/80909",
-     "room": "Sala 10",
-     "tags": [
-      "Prezzo Family"
-     ],
-     "soldOut": false
-    }
-   ]
-  },
-  {
-   "title": "RAMAYANA: LA NASCITA DI UNA LEGGENDA - HOLLYWOOD CUT",
-   "originalTitle": null,
-   "director": [
-    "Nitesh Tiwari"
-   ],
-   "cast": [
-    "Ranbir Kapoor",
-    "Yash",
-    "Sai Pallavi",
-    "Ravie Dubey",
-    "Sunny Deol"
-   ],
-   "runtime": 167,
-   "genres": [
-    "Fantasy"
-   ],
-   "poster": "https://www.thespacecinema.it/-/media/the-space-cinema/schede-film/2026/11/ramayana/locandina_ramayana.jpg?rev=7c6609f25b5549c0a94786269e32894e",
-   "plot": "In un'epoca di dèi e re, il destino di interi mondi è in bilico. Rama, principe votato al dovere, al sacrificio e alla rettitudine, deve affrontare Ravana, sovrano immortale accecato dall'orgoglio e dalla sete di vendetta, tanto potente da poter frantumare il cosmo.",
-   "year": null,
-   "release": "2026-11-19",
-   "rating": "6",
-   "trailer": null,
-   "page": "https://www.thespacecinema.it/film/ramayana-la-nascita-di-una-leggenda-hollywood-cut",
-   "shows": [
-    {
-     "cinema": "space",
-     "date": "2026-11-22",
-     "time": "14:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004018/80790",
-     "room": "Sala 11",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-23",
-     "time": "15:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004018/80804",
-     "room": "Sala 5",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-24",
-     "time": "14:25",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004018/80840",
-     "room": "Sala 9",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "14:10",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004018/80907",
-     "room": "Sala 9",
      "tags": [],
      "soldOut": false
     }
@@ -2018,15 +969,6 @@
      "date": "2026-11-24",
      "time": "20:30",
      "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004016/80628",
-     "room": "Sala 9",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "20:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004016/80627",
      "room": "Sala 9",
      "tags": [],
      "soldOut": false
@@ -2104,30 +1046,6 @@
       "EXTRA"
      ],
      "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "16:50",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003932/79890",
-     "room": "Sala 2",
-     "tags": [
-      "BACK ON THE BIG SCREEN",
-      "EXTRA"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-25",
-     "time": "19:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003932/79893",
-     "room": "Sala 8",
-     "tags": [
-      "BACK ON THE BIG SCREEN",
-      "EXTRA"
-     ],
-     "soldOut": false
     }
    ]
   },
@@ -2171,6 +1089,220 @@
    ]
   },
   {
+   "title": "SHAUN, VITA DA PECORA - OPERAZIONE Z.U.C.C.A.",
+   "originalTitle": null,
+   "director": [
+    "Steve Cox"
+   ],
+   "cast": [
+    "Justin Fletcher",
+    "John Sparkes",
+    "Kate Harbour"
+   ],
+   "runtime": 91,
+   "genres": [
+    "Animazione"
+   ],
+   "poster": "https://www.thespacecinema.it/-/media/the-space-cinema/schede-film/2026/10/shaun-vita-da-pecora/locandina_shaunvitadapecora.jpg?rev=fe799ba1518b4abc9234395506006b98",
+   "plot": "Halloween è alle porte e il gregge si prepara a celebrare coltivando un magnifico campo di zucche. I piani vengono però stravolti quando il contadino scompare misteriosamente nel nulla e un mostruoso essere peloso emerge dal bosco. Tra esperimenti impazziti e colpi di scena inaspettati, Shaun e i suoi amici dovranno unire le forze per sconfiggere la creatura e ritrovare il loro padrone in tempo per il party. ",
+   "year": null,
+   "release": "2026-10-28",
+   "rating": "t",
+   "trailer": null,
+   "page": "https://www.thespacecinema.it/film/shaun-vita-da-pecora-operazione-zucca",
+   "shows": [
+    {
+     "cinema": "space",
+     "date": "2026-11-23",
+     "time": "15:35",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003724/80809",
+     "room": "Sala 7",
+     "tags": [
+      "Prezzo Family"
+     ],
+     "soldOut": false
+    },
+    {
+     "cinema": "space",
+     "date": "2026-11-24",
+     "time": "15:05",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003724/80843",
+     "room": "Sala 10",
+     "tags": [
+      "Prezzo Family"
+     ],
+     "soldOut": false
+    }
+   ]
+  },
+  {
+   "title": "RAMAYANA: LA NASCITA DI UNA LEGGENDA - HOLLYWOOD CUT",
+   "originalTitle": null,
+   "director": [
+    "Nitesh Tiwari"
+   ],
+   "cast": [
+    "Ranbir Kapoor",
+    "Yash",
+    "Sai Pallavi",
+    "Ravie Dubey",
+    "Sunny Deol"
+   ],
+   "runtime": 167,
+   "genres": [
+    "Fantasy"
+   ],
+   "poster": "https://www.thespacecinema.it/-/media/the-space-cinema/schede-film/2026/11/ramayana/locandina_ramayana.jpg?rev=7c6609f25b5549c0a94786269e32894e",
+   "plot": "In un'epoca di dèi e re, il destino di interi mondi è in bilico. Rama, principe votato al dovere, al sacrificio e alla rettitudine, deve affrontare Ravana, sovrano immortale accecato dall'orgoglio e dalla sete di vendetta, tanto potente da poter frantumare il cosmo.",
+   "year": null,
+   "release": "2026-11-19",
+   "rating": "6",
+   "trailer": null,
+   "page": "https://www.thespacecinema.it/film/ramayana-la-nascita-di-una-leggenda-hollywood-cut",
+   "shows": [
+    {
+     "cinema": "space",
+     "date": "2026-11-23",
+     "time": "15:15",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004018/80804",
+     "room": "Sala 5",
+     "tags": [],
+     "soldOut": false
+    },
+    {
+     "cinema": "space",
+     "date": "2026-11-24",
+     "time": "14:25",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004018/80840",
+     "room": "Sala 9",
+     "tags": [],
+     "soldOut": false
+    }
+   ]
+  },
+  {
+   "title": "Ti Presento i Fotter",
+   "originalTitle": null,
+   "director": [
+    "John Hamburg"
+   ],
+   "cast": [
+    "Robert De Niro",
+    "Ben Stiller",
+    "Skyler Gisondo",
+    "Ariana Grande",
+    "Owen Wilson"
+   ],
+   "runtime": 106,
+   "genres": [
+    "Commedia"
+   ],
+   "poster": "https://www.thespacecinema.it/-/media/the-space-cinema/schede-film/2026/11/ti-presento-i-fotter/locandina_tipresentoifotter.jpg?rev=7872ce8b628a4f8f82491fae9b177983",
+   "plot": "Questo autunno, l’icona della commedia e vincitore di Emmy Ben Stiller e il due volte premio Oscar® Robert De Niro tornano a collaborare, affiancati dalla vincitrice di Grammy e candidata all’Oscar® Ariana Grande, in TI PRESENTO I FOTTER, un nuovo capitolo della fortunata saga Meet the Parents.",
+   "year": null,
+   "release": "2026-11-25",
+   "rating": "6",
+   "trailer": null,
+   "page": "https://www.thespacecinema.it/film/ti-presento-i-fotter",
+   "shows": [
+    {
+     "cinema": "space",
+     "date": "2026-11-29",
+     "time": "21:30",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003596/80223",
+     "room": "Sala 4",
+     "tags": [],
+     "soldOut": false
+    }
+   ]
+  },
+  {
+   "title": "YOU CAN SEE EVERYTHING - Lingua originale",
+   "originalTitle": null,
+   "director": [
+    "Nathan Fielder",
+    "Lance Oppenheim"
+   ],
+   "cast": [
+    "Elizabeth Holmes"
+   ],
+   "runtime": 174,
+   "genres": [
+    "Documentario"
+   ],
+   "poster": "https://www.thespacecinema.it/-/media/the-space-cinema/schede-film/2026/11/extra/you-can-see-everything/locandina_youcanseeeverithing.jpg?rev=c16fa95cef304dce979d19ae6ffa6c80",
+   "plot": "Trentaquattro giorni prima di entrare in carcere per scontare una condanna per frode, Elizabeth Holmes, fondatrice della startup Theranos, invita una troupe a documentare ogni suo movimento. Quello che comincia come un ritratto intimo si trasforma in un viaggio di tre anni, nel quale la relazione tra chi filma e chi viene filmato rende sempre più incerto il confine tra osservazione e messa in scena.",
+   "year": null,
+   "release": "2026-11-27",
+   "rating": "10",
+   "trailer": null,
+   "page": "https://www.thespacecinema.it/film/you-can-see-everything-lingua-originale",
+   "shows": [
+    {
+     "cinema": "space",
+     "date": "2026-11-29",
+     "time": "18:30",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004011/80637",
+     "room": "Sala 3",
+     "tags": [
+      "ANTEPRIMA",
+      "EXTRA",
+      "VOS"
+     ],
+     "soldOut": false
+    },
+    {
+     "cinema": "space",
+     "date": "2026-11-29",
+     "time": "20:30",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004011/79604",
+     "room": "Sala 9",
+     "tags": [
+      "ANTEPRIMA",
+      "EXTRA",
+      "VOS"
+     ],
+     "soldOut": false
+    }
+   ]
+  },
+  {
+   "title": "PAW PATROL: MISSIONE DINOSAURI",
+   "originalTitle": null,
+   "director": [
+    "Cal Brunker"
+   ],
+   "cast": [
+    "Mckenna Grace",
+    "Jameela Jamil",
+    "Fortune Feimster"
+   ],
+   "runtime": null,
+   "genres": [
+    "Animazione"
+   ],
+   "poster": "https://www.thespacecinema.it/-/media/the-space-cinema/schede-film/2026/09/paw-patrol-missione-dinosauri/locandina_pawpatrolmissionedinosauri.jpg?rev=28e02b56930b452faa3f65bd5086df3c",
+   "plot": "In questa nuova ed emozionante avventura al cinema, i coraggiosi cuccioli della PAW Patrol vengono travolti da una misteriosa tempesta e si ritrovano catapultati su un’isola tropicale inesplorata, un mondo fuori dal tempo dominato dai dinosauri. Qui fanno amicizia con Rex, un cucciolo isolato da anni che è diventato il massimo esperto di quel luogo primordiale. L'azione si accende quando il perfido sindaco Humdinger arriva per sfruttare le risorse dell'isola, innescando però il risveglio di un gigantesco vulcano dormiente. Tra giungle selvagge e creature preistoriche, la squadra dovrà affrontare la sfida più ardua di sempre con spettacolari missioni di salvataggio “formato dinosauro”. ",
+   "year": null,
+   "release": "2026-11-22",
+   "rating": "t",
+   "trailer": null,
+   "page": "https://www.thespacecinema.it/film/paw-patrol-missione-dinosauri",
+   "shows": [
+    {
+     "cinema": "space",
+     "date": "2026-11-29",
+     "time": "11:00",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003582/80229",
+     "room": "Sala 11",
+     "tags": [
+      "CINEMAPARK"
+     ],
+     "soldOut": false
+    }
+   ]
+  },
+  {
    "title": "HEXE: il Regno delle Streghe",
    "originalTitle": null,
    "director": [
@@ -2197,27 +1329,9 @@
    "shows": [
     {
      "cinema": "space",
-     "date": "2026-11-26",
-     "time": "14:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80330",
-     "room": "Sala 6",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "17:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80331",
-     "room": "Sala 6",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "18:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80312",
+     "date": "2026-11-29",
+     "time": "15:00",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80302",
      "room": "EPIC",
      "tags": [
       "Dolby Atmos",
@@ -2229,82 +1343,18 @@
     },
     {
      "cinema": "space",
-     "date": "2026-11-26",
-     "time": "20:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80332",
-     "room": "Sala 6",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-27",
-     "time": "14:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80327",
-     "room": "Sala 6",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-27",
+     "date": "2026-11-29",
      "time": "17:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80328",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80323",
      "room": "Sala 6",
      "tags": [],
      "soldOut": false
     },
     {
      "cinema": "space",
-     "date": "2026-11-27",
-     "time": "18:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80309",
-     "room": "EPIC",
-     "tags": [
-      "Dolby Atmos",
-      "EPIC",
-      "HDR by Barco",
-      "Schermo più grande"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-27",
+     "date": "2026-11-29",
      "time": "20:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80329",
-     "room": "Sala 6",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-28",
-     "time": "15:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80305",
-     "room": "EPIC",
-     "tags": [
-      "Dolby Atmos",
-      "EPIC",
-      "HDR by Barco",
-      "Schermo più grande"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-28",
-     "time": "17:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80325",
-     "room": "Sala 6",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-28",
-     "time": "20:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80326",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80324",
      "room": "Sala 6",
      "tags": [],
      "soldOut": false
@@ -2335,132 +1385,20 @@
    "shows": [
     {
      "cinema": "space",
-     "date": "2026-11-26",
+     "date": "2026-11-29",
      "time": "18:40",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003848/80937",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003848/80934",
      "room": "Sala 12",
      "tags": [],
      "soldOut": false
     },
     {
      "cinema": "space",
-     "date": "2026-11-26",
+     "date": "2026-11-29",
      "time": "21:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003848/79199",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003848/79196",
      "room": "Sala 12",
      "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-27",
-     "time": "18:40",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003848/80936",
-     "room": "Sala 12",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-27",
-     "time": "21:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003848/79198",
-     "room": "Sala 12",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-28",
-     "time": "18:40",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003848/80935",
-     "room": "Sala 12",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-28",
-     "time": "21:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003848/79197",
-     "room": "Sala 12",
-     "tags": [],
-     "soldOut": false
-    }
-   ]
-  },
-  {
-   "title": "YOU CAN SEE EVERYTHING - Lingua originale",
-   "originalTitle": null,
-   "director": [
-    "Nathan Fielder",
-    "Lance Oppenheim"
-   ],
-   "cast": [
-    "Elizabeth Holmes"
-   ],
-   "runtime": 174,
-   "genres": [
-    "Documentario"
-   ],
-   "poster": "https://www.thespacecinema.it/-/media/the-space-cinema/schede-film/2026/11/extra/you-can-see-everything/locandina_youcanseeeverithing.jpg?rev=c16fa95cef304dce979d19ae6ffa6c80",
-   "plot": "Trentaquattro giorni prima di entrare in carcere per scontare una condanna per frode, Elizabeth Holmes, fondatrice della startup Theranos, invita una troupe a documentare ogni suo movimento. Quello che comincia come un ritratto intimo si trasforma in un viaggio di tre anni, nel quale la relazione tra chi filma e chi viene filmato rende sempre più incerto il confine tra osservazione e messa in scena.",
-   "year": null,
-   "release": "2026-11-27",
-   "rating": "10",
-   "trailer": null,
-   "page": "https://www.thespacecinema.it/film/you-can-see-everything-lingua-originale",
-   "shows": [
-    {
-     "cinema": "space",
-     "date": "2026-11-27",
-     "time": "18:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004011/80639",
-     "room": "Sala 3",
-     "tags": [
-      "ANTEPRIMA",
-      "EXTRA",
-      "VOS"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-27",
-     "time": "20:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004011/79606",
-     "room": "Sala 9",
-     "tags": [
-      "ANTEPRIMA",
-      "EXTRA",
-      "VOS"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-28",
-     "time": "18:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004011/80638",
-     "room": "Sala 3",
-     "tags": [
-      "ANTEPRIMA",
-      "EXTRA",
-      "VOS"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-28",
-     "time": "20:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004011/79605",
-     "room": "Sala 9",
-     "tags": [
-      "ANTEPRIMA",
-      "EXTRA",
-      "VOS"
-     ],
      "soldOut": false
     }
    ]
