@@ -256,6 +256,64 @@
 "y": null
 }
 ],
+"q:alessandro genovesi": [
+{
+"id": "nm3500190",
+"l": "Alessandro Genovesi",
+"q": null,
+"s": "Director, My Big Gay Italian Wedding (2018)",
+"y": null
+},
+{
+"id": "nm11327938",
+"l": "Alessandro Genovese",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "nm11609794",
+"l": "Alessandra Genovese",
+"q": null,
+"s": "Actress, Tour Without End (2018)",
+"y": null
+},
+{
+"id": "nm14444590",
+"l": "Alessandro Genovese",
+"q": null,
+"s": "Actor, Le pupille (2022)",
+"y": null
+},
+{
+"id": "nm1014867",
+"l": "Alessando Genesi",
+"q": null,
+"s": "Actor, Cartoline italiane (1987)",
+"y": null
+},
+{
+"id": "nm1749545",
+"l": "Alessandro Genovese",
+"q": null,
+"s": "Editor, Alamandra (2004)",
+"y": null
+},
+{
+"id": "nm15092791",
+"l": "Alessandro Genovese",
+"q": null,
+"s": "Writer, L'età della pietra (2011)",
+"y": null
+},
+{
+"id": "nm7430616",
+"l": "Alessandro Genovese",
+"q": null,
+"s": "Art Department, Nothing Left to Laugh About (2015)",
+"y": null
+}
+],
 "q:alicia vikander": [
 {
 "id": "nm2539953",
@@ -476,6 +534,22 @@
 "y": 1916
 }
 ],
+"q:anna foglietta": [
+{
+"id": "nm2063290",
+"l": "Anna Foglietta",
+"q": null,
+"s": "Actress, Perfect Strangers (2016)",
+"y": null
+},
+{
+"id": "nm1907617",
+"l": "Anna Forletta",
+"q": null,
+"s": "Production Designer, Le ultime 56 ore (2010)",
+"y": null
+}
+],
 "q:anna madeley": [
 {
 "id": "nm0534777",
@@ -532,6 +606,64 @@
 "q": null,
 "s": "Actress, The Story of Tracy Beaker (2002-2004)",
 "y": null
+}
+],
+"q:anna magnani": [
+{
+"id": "nm0536167",
+"l": "Anna Magnani",
+"q": null,
+"s": "Actress, The Rose Tattoo (1955)",
+"y": null
+},
+{
+"id": "tt0257802",
+"l": "My Name Is Anna Magnani",
+"q": "movie",
+"s": "Anna Magnani, Jean-Paul Andret",
+"y": 1980
+},
+{
+"id": "tt10299138",
+"l": "La passione di Anna Magnani",
+"q": "movie",
+"s": "Luca Magnani, Goffredo Alessandrini",
+"y": 2019
+},
+{
+"id": "tt3088740",
+"l": "Donne nel mito: Anna Magnani a Hollywood",
+"q": "short",
+"s": "Joan Crawford, Caterina D'Amico",
+"y": 2013
+},
+{
+"id": "tt21815246",
+"l": "To Prepare for Discovery: An Anna Magnani Rhapsody",
+"q": "short",
+"s": "Anna Magnani, Rob Nilsson",
+"y": 2022
+},
+{
+"id": "tt36911433",
+"l": "Anna",
+"q": "movie",
+"s": "Monica Guerritore, Tommaso Ragno",
+"y": 2025
+},
+{
+"id": "tt3078650",
+"l": "Anna Magnani - Recitare la verità",
+"q": "tvMovie",
+"s": "Anna Magnani, Roberto Rossellini",
+"y": 2008
+},
+{
+"id": "tt38974514",
+"l": "Anna Magnani: Femmina Immortale",
+"q": "movie",
+"s": "",
+"y": 2008
 }
 ],
 "q:aoi yuki": [
@@ -708,6 +840,29 @@
 "y": 2025
 }
 ],
+"q:arturo bragaglia": [
+{
+"id": "nm0103854",
+"l": "Arturo Bragaglia",
+"q": null,
+"s": "Actor, The Loves of Hercules (1960)",
+"y": null
+},
+{
+"id": "nm17679870",
+"l": "Alessandro Bragaglia",
+"q": null,
+"s": "Transportation Department, Your Host (2025)",
+"y": null
+},
+{
+"id": "nm1271359",
+"l": "Roberto Bragaglia",
+"q": null,
+"s": "Actor, Cresceranno i carciofi a Mimongo (1996)",
+"y": null
+}
+],
 "q:arun govil": [
 {
 "id": "nm4468244",
@@ -756,6 +911,64 @@
 "l": "Arun Govindankutty",
 "q": null,
 "s": "Writer, Oru Soppetty Katha (2013)",
+"y": null
+}
+],
+"q:asghar farhadi": [
+{
+"id": "nm1410815",
+"l": "Asghar Farhadi",
+"q": null,
+"s": "Writer, About Elly (2009)",
+"y": null
+},
+{
+"id": "nm18858894",
+"l": "Asghar Farhadi",
+"q": null,
+"s": "Writer, Homeless (2004)",
+"y": null
+},
+{
+"id": "tt3924480",
+"l": "Asghar Farhadi sinema dersi canli yayini",
+"q": "video",
+"s": "Asghar Farhadi",
+"y": 2014
+},
+{
+"id": "tt7398966",
+"l": "A Separation: A Conversation with Asghar Farhadi and Babak Karimi",
+"q": "video",
+"s": "Asghar Farhadi, Babak Karimi",
+"y": 2011
+},
+{
+"id": "tt8245168",
+"l": "A Conversation with Writer-Director Asghar Farhadi",
+"q": "short",
+"s": "Asghar Farhadi",
+"y": 2017
+},
+{
+"id": "nm2561347",
+"l": "Farhan Ali Agha",
+"q": null,
+"s": "Actor, Sikander",
+"y": null
+},
+{
+"id": "nm15936728",
+"l": "Farhad Asgari",
+"q": null,
+"s": "Actor, Day Zero (2020)",
+"y": null
+},
+{
+"id": "nm3755672",
+"l": "Asghar Sarhadi",
+"q": null,
+"s": "Music Department, Jugnu (1947)",
 "y": null
 }
 ],
@@ -931,6 +1144,64 @@
 "q": null,
 "s": "Producer, Ceux d'en face (2000)",
 "y": null
+}
+],
+"q:bellissima": [
+{
+"id": "tt0043332",
+"l": "Bellissima",
+"q": "movie",
+"s": "Anna Magnani, Walter Chiari",
+"y": 1951
+},
+{
+"id": "nm0291881",
+"l": "Daniel Franzese",
+"q": null,
+"s": "Actor, Mean Girls (2004)",
+"y": null
+},
+{
+"id": "tt1159231",
+"l": "A Beautiful Wife",
+"q": "movie",
+"s": "Leonardo Pieraccioni, Laura Torrisi",
+"y": 2007
+},
+{
+"id": "tt0091998",
+"l": "La sposa era bellissima",
+"q": "movie",
+"s": "Ángela Molina, Massimo Ghini",
+"y": 1987
+},
+{
+"id": "tt0138321",
+"l": "La bellissima estate",
+"q": "movie",
+"s": "Senta Berger, John Richardson",
+"y": 1974
+},
+{
+"id": "tt32008036",
+"l": "Annalisa: Bellissima",
+"q": "musicVideo",
+"s": "William Boisbourdin, Annalisa Scarrone",
+"y": 2022
+},
+{
+"id": "tt0332576",
+"l": "Bellissima",
+"q": "tvMovie",
+"s": "Maria Góralczyk, Ewa Kasprzyk",
+"y": 2001
+},
+{
+"id": "tt5245114",
+"l": "Bellissima",
+"q": "short",
+"s": "Gennaro Cuomo, Genny Cuomo",
+"y": 2015
 }
 ],
 "q:ben stiller": [
@@ -2472,6 +2743,64 @@
 "y": null
 }
 ],
+"q:douglas rain": [
+{
+"id": "nm0706937",
+"l": "Douglas Rain",
+"q": null,
+"s": "Actor, 2001: A Space Odyssey (1968)",
+"y": null
+},
+{
+"id": "nm1909028",
+"l": "Jon Douglas Rainey",
+"q": null,
+"s": "Writer, A Turn in the Sun (2015)",
+"y": null
+},
+{
+"id": "nm0366890",
+"l": "Luce Rains",
+"q": null,
+"s": "Actor, Hostiles (2017)",
+"y": null
+},
+{
+"id": "nm0706973",
+"l": "Douglas A. Raine",
+"q": null,
+"s": "Producer, Lucky U Ranch (2016)",
+"y": null
+},
+{
+"id": "nm2107692",
+"l": "Douglas Raines",
+"q": null,
+"s": "Camera and Electrical Department, Open Range (2003)",
+"y": null
+},
+{
+"id": "nm4110629",
+"l": "Douglas Rainey",
+"q": null,
+"s": "Producer, The 51st Hunger Games (2026)",
+"y": null
+},
+{
+"id": "nm1990353",
+"l": "Doug Tompkins",
+"q": null,
+"s": "Self, Im Fluss des Lebens (2012)",
+"y": null
+},
+{
+"id": "nm0707159",
+"l": "Traver Rains",
+"q": null,
+"s": "Self, My Super Ex-Girlfriend (2006)",
+"y": null
+}
+],
 "q:dudley sutton": [
 {
 "id": "nm0840303",
@@ -3110,6 +3439,64 @@
 "l": "Enrico Cannio",
 "q": null,
 "s": "Music Department, The ginger and Fred (2006)",
+"y": null
+}
+],
+"q:enzo casertano": [
+{
+"id": "nm1184589",
+"l": "Enzo Casertano",
+"q": null,
+"s": "Actor, Dentro la città (2004)",
+"y": null
+},
+{
+"id": "nm6837002",
+"l": "Bernardo Casertano",
+"q": null,
+"s": "Actor, On My Skin: The Last Seven Days of Stefano Cucchi (2018)",
+"y": null
+},
+{
+"id": "nm6301223",
+"l": "Stefano Casertano",
+"q": null,
+"s": "Writer, The Last Days of Tacheles (2014)",
+"y": null
+},
+{
+"id": "nm1640686",
+"l": "Enzo Caserta",
+"q": null,
+"s": "Producer, Shattered Lies (2002)",
+"y": null
+},
+{
+"id": "nm9413186",
+"l": "Antimo Casertano",
+"q": null,
+"s": "Actor, Cassino in Ischia (2024)",
+"y": null
+},
+{
+"id": "nm17761085",
+"l": "Cayetano Benzo",
+"q": null,
+"s": "Actor, She Walks in Darkness (2025)",
+"y": null
+},
+{
+"id": "nm4426953",
+"l": "Enzo Caserta",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "nm1593406",
+"l": "Angelo Casertano",
+"q": null,
+"s": "Actor, Aida (1992)",
 "y": null
 }
 ],
@@ -3942,6 +4329,15 @@
 "y": null
 }
 ],
+"q:gastone renzelli": [
+{
+"id": "nm0719947",
+"l": "Gastone Renzelli",
+"q": null,
+"s": "Actor, The Roof (1956)",
+"y": null
+}
+],
 "q:gemma jones": [
 {
 "id": "nm0428121",
@@ -4299,6 +4695,64 @@
 "y": 2022
 }
 ],
+"q:giulia fiume": [
+{
+"id": "nm7684219",
+"l": "Giulia Fiume",
+"q": null,
+"s": "Actress, Suburra (2015)",
+"y": null
+},
+{
+"id": "tt0925242",
+"l": "Giulia, figlia di Claudio",
+"q": "movie",
+"s": "Goffredo D'Andrea, Emma Farnesi",
+"y": 1920
+},
+{
+"id": "tt36593414",
+"l": "Bíblia animada o filme",
+"q": "video",
+"s": "Felipe Campos, Emanuel Gomes",
+"y": 2025
+},
+{
+"id": "tt20116216",
+"l": "Giulia Be: Se Essa Vida Fosse Um Filme",
+"q": "musicVideo",
+"s": "Giulia Be, Kim Rocha",
+"y": 2020
+},
+{
+"id": "nm0280672",
+"l": "Giuliano Fiumani",
+"q": null,
+"s": "Special Effects, Waterworld (1995)",
+"y": null
+},
+{
+"id": "nm15377067",
+"l": "Giulia Fiore",
+"q": null,
+"s": "Producer, Némos andando per mare (2025)",
+"y": null
+},
+{
+"id": "nm5250409",
+"l": "Giuliani Fiumani",
+"q": null,
+"s": "Special Effects, The Westing Game (1997)",
+"y": null
+},
+{
+"id": "nm14739763",
+"l": "Giulia Filippini",
+"q": null,
+"s": "Visual Effects, PAW Patrol: The Mighty Movie (2023)",
+"y": null
+}
+],
 "q:giulia nahmany": [
 {
 "id": "nm6039617",
@@ -4612,6 +5066,64 @@
 "q": "short",
 "s": "",
 "y": 1963
+}
+],
+"q:hexed": [
+{
+"id": "tt38077943",
+"l": "Hexed",
+"q": "movie",
+"s": "Hailee Steinfeld, Rashida Jones",
+"y": 2026
+},
+{
+"id": "tt0107107",
+"l": "Hexed",
+"q": "movie",
+"s": "Arye Gross, Claudia Christian",
+"y": 1993
+},
+{
+"id": "tt9884054",
+"l": "Hexed",
+"q": "movie",
+"s": "",
+"y": null
+},
+{
+"id": "tt13090846",
+"l": "Hexed",
+"q": "short",
+"s": "Jessica McEvoy, Meganne Kocher",
+"y": 2020
+},
+{
+"id": "tt3638476",
+"l": "Hexed",
+"q": "tvMiniSeries",
+"s": "",
+"y": null
+},
+{
+"id": "tt38353396",
+"l": "Hexed",
+"q": "short",
+"s": "Gwen Lang, Gabriella Cruz",
+"y": 2025
+},
+{
+"id": "tt6039264",
+"l": "Hexed!",
+"q": "video",
+"s": "Rosamunde",
+"y": 2000
+},
+{
+"id": "tt6614852",
+"l": "Hexed",
+"q": "short",
+"s": "Cetine Dale, Alessandro Nori",
+"y": 2017
 }
 ],
 "q:hirokazu kore eda": [
@@ -5160,6 +5672,64 @@
 "l": "Isaach De Bankolé",
 "q": null,
 "s": "Actor, Casino Royale (2006)",
+"y": null
+}
+],
+"q:isabelle huppert": [
+{
+"id": "nm0001376",
+"l": "Isabelle Huppert",
+"q": null,
+"s": "Actress, Elle (2016)",
+"y": null
+},
+{
+"id": "tt12454558",
+"l": "Isabelle Huppert: Message personnel",
+"q": "tvMovie",
+"s": "Isabelle Huppert, Stéphane Audran",
+"y": 2020
+},
+{
+"id": "tt1772921",
+"l": "Isabelle Huppert, une vie pour jouer",
+"q": "tvMovie",
+"s": "Isabelle Huppert",
+"y": 2001
+},
+{
+"id": "tt37859276",
+"l": "Isabelle Huppert Video Portrait",
+"q": "video",
+"s": "",
+"y": 2005
+},
+{
+"id": "tt7633548",
+"l": "I love Isabelle Huppert",
+"q": "tvMovie",
+"s": "Marco Bellocchio, Kim Cattrall",
+"y": 2017
+},
+{
+"id": "tt0082230",
+"l": "Lady of the Camelias",
+"q": "movie",
+"s": "Isabelle Huppert, Gian Maria Volontè",
+"y": 1981
+},
+{
+"id": "nm14475841",
+"l": "Isabella Humbert",
+"q": null,
+"s": "Actress, Ted Gets Laid... Off (2022)",
+"y": null
+},
+{
+"id": "nm1913882",
+"l": "Isabelle Hubert",
+"q": null,
+"s": "Actress, La chute de la maison Usher (1992)",
 "y": null
 }
 ],
@@ -6756,6 +7326,64 @@
 "y": 1977
 }
 ],
+"q:la notte delle fragole": [
+{
+"id": "tt43339389",
+"l": "La notte delle fragole",
+"q": "movie",
+"s": "Vittoria Puccini, Anna Foglietta",
+"y": 2026
+},
+{
+"id": "tt0067384",
+"l": "Short Night of Glass Dolls",
+"q": "movie",
+"s": "Ingrid Thulin, Jean Sorel",
+"y": 1971
+},
+{
+"id": "tt12435316",
+"l": "La notte delle verità",
+"q": "movie",
+"s": "Laura Bitti, Adriano Cocci",
+"y": 2016
+},
+{
+"id": "tt0032852",
+"l": "La notte delle beffe",
+"q": "movie",
+"s": "Amedeo Nazzari, Dria Paola",
+"y": 1939
+},
+{
+"id": "tt0077651",
+"l": "Halloween",
+"q": "movie",
+"s": "Donald Pleasence, Jamie Lee Curtis",
+"y": 1978
+},
+{
+"id": "tt0056279",
+"l": "Night of the Eagle",
+"q": "movie",
+"s": "Peter Wyngarde, Janet Blair",
+"y": 1962
+},
+{
+"id": "tt0193355",
+"l": "The Night of the Pencils",
+"q": "movie",
+"s": "Alejo García Pintos, Vita Escardó",
+"y": 1986
+},
+{
+"id": "tt0055718",
+"l": "13 West Street",
+"q": "movie",
+"s": "Alan Ladd, Rod Steiger",
+"y": 1962
+}
+],
 "q:la storia infinita": [
 {
 "id": "tt0088323",
@@ -7199,6 +7827,64 @@
 "q": "musicVideo",
 "s": "Jovanotti, Gregory Lee Kenyon",
 "y": 2015
+}
+],
+"q:luchino visconti": [
+{
+"id": "nm0899581",
+"l": "Luchino Visconti",
+"q": null,
+"s": "Writer, Rocco and His Brothers (1960)",
+"y": null
+},
+{
+"id": "tt0210160",
+"l": "Luchino Visconti",
+"q": "movie",
+"s": "Björn Andrésen, Laura Antonelli",
+"y": 1999
+},
+{
+"id": "tt9853598",
+"l": "Luchino Visconti: Between Truth and Passion",
+"q": "tvMovie",
+"s": "Olivier Assayas, Helmut Berger",
+"y": 2016
+},
+{
+"id": "tt2215277",
+"l": "Le vie della Recherche - Luchino Visconti",
+"q": "movie",
+"s": "Michel Boudaud, Vianney Brintet",
+"y": 2006
+},
+{
+"id": "nm1168321",
+"l": "Luchino Visconti di Modrone",
+"q": null,
+"s": "Producer, Bang Bang Baby (2022)",
+"y": null
+},
+{
+"id": "tt6977056",
+"l": "Luchino Visconti: The Quest for the Impossible",
+"q": "video",
+"s": "Enrico Medioli, Caterina D'Amico",
+"y": 2013
+},
+{
+"id": "tt16162998",
+"l": "Man of Three Worlds: Luchino Visconti",
+"q": "tvSpecial",
+"s": "Riccardo Aragno, Leonard Bernstein",
+"y": 1966
+},
+{
+"id": "tt0064118",
+"l": "The Damned",
+"q": "movie",
+"s": "Dirk Bogarde, Ingrid Thulin",
+"y": 1969
 }
 ],
 "q:maccio capatonda": [
@@ -10716,6 +11402,57 @@
 "y": null
 }
 ],
+"q:salvatore ficarra": [
+{
+"id": "nm1220697",
+"l": "Salvatore Ficarra",
+"q": null,
+"s": "Actor, L'ora legale (2017)",
+"y": null
+},
+{
+"id": "nm1523552",
+"l": "Salvador Ibarra",
+"q": null,
+"s": "Actor, Mañana es para siempre (2008-2009)",
+"y": null
+},
+{
+"id": "nm0140003",
+"l": "Salvatore Carrara",
+"q": null,
+"s": "Producer, Mia zia... 077 (1986)",
+"y": null
+},
+{
+"id": "nm0649632",
+"l": "Sal Orefice",
+"q": null,
+"s": "Camera and Electrical Department, Terminator 2: Judgment Day (1991)",
+"y": null
+},
+{
+"id": "nm10015462",
+"l": "Salvador Vizcarra",
+"q": null,
+"s": "Producer, The Strange Case of Justin Chu and Mr. Volgun (2016)",
+"y": null
+},
+{
+"id": "nm17180576",
+"l": "Salvador Ibarra",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "nm7141711",
+"l": "Salvatore Firicano",
+"q": null,
+"s": "Actor, Il seme ed il mare (2014)",
+"y": null
+}
+],
 "q:sam claflin": [
 {
 "id": "nm3510471",
@@ -11659,6 +12396,64 @@
 "y": null
 }
 ],
+"q:storie parallele": [
+{
+"id": "tt36646880",
+"l": "Parallel Tales",
+"q": "movie",
+"s": "Isabelle Huppert, Virginie Efira",
+"y": 2026
+},
+{
+"id": "tt9850370",
+"l": "#Anne Frank Parallel Stories",
+"q": "movie",
+"s": "Helen Mirren, Martina Gatti",
+"y": 2019
+},
+{
+"id": "tt14916564",
+"l": "Une Vie Parallèle(s)",
+"q": "movie",
+"s": "",
+"y": 2021
+},
+{
+"id": "tt6804184",
+"l": "Histoire parallèle",
+"q": "tvSeries",
+"s": "Marc Ferro",
+"y": 1989
+},
+{
+"id": "tt27404658",
+"l": "The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far",
+"q": "tvMiniSeries",
+"s": "Trina Nishimura, Yoshino Nanjô",
+"y": 2023
+},
+{
+"id": "tt0074443",
+"l": "Duelle",
+"q": "movie",
+"s": "Juliet Berto, Bulle Ogier",
+"y": 1976
+},
+{
+"id": "tt20917392",
+"l": "Weird Darkness: Stories of the Paranormal, Supernatural, Legends, Lore, Mysterious, Macabre, Unsolved",
+"q": "podcastSeries",
+"s": "April Busset, Lori Lee Farmer",
+"y": 2018
+},
+{
+"id": "tt39052667",
+"l": "Uchronia",
+"q": "movie",
+"s": "Kristof Lamp, Flomaria Papadaki",
+"y": 2026
+}
+],
 "q:sunny deol": [
 {
 "id": "nm0219971",
@@ -11978,6 +12773,22 @@
 "l": "Eric Labossiere",
 "q": null,
 "s": "Writer, Gorgeous Girl (2023)",
+"y": null
+}
+],
+"q:tecla scarano": [
+{
+"id": "nm0769070",
+"l": "Tecla Scarano",
+"q": null,
+"s": "Actress, Marriage Italian Style (1964)",
+"y": null
+},
+{
+"id": "nm4727561",
+"l": "Angela Scarano",
+"q": null,
+"s": "Actress, Internet Bully (2010)",
 "y": null
 }
 ],
@@ -12412,6 +13223,64 @@
 "y": 2023
 }
 ],
+"q:tina apicella": [
+{
+"id": "nm0032035",
+"l": "Tina Apicella",
+"q": null,
+"s": "Actress, Bellissima (1951)",
+"y": null
+},
+{
+"id": "nm12860940",
+"l": "Lina Apicella",
+"q": null,
+"s": "Director, The Wreck of Echo 10-4 (2022)",
+"y": null
+},
+{
+"id": "nm7357739",
+"l": "Marialucia Apicella",
+"q": null,
+"s": "Location Management, Project Hail Mary (2026)",
+"y": null
+},
+{
+"id": "nm10934694",
+"l": "Virginia Apicella",
+"q": null,
+"s": "Actress, Nevia (2019)",
+"y": null
+},
+{
+"id": "nm11004943",
+"l": "Fortunata Apicella",
+"q": null,
+"s": "Writer, The Bad Guy (2024)",
+"y": null
+},
+{
+"id": "nm17487938",
+"l": "Lina Apicella",
+"q": null,
+"s": "Actress, Funkenbaggen Queenin (2024)",
+"y": null
+},
+{
+"id": "nm2281557",
+"l": "Lucia Flynn",
+"q": null,
+"s": "Writer, Burnt (2012)",
+"y": null
+},
+{
+"id": "nm1163093",
+"l": "Virginia Apicella",
+"q": null,
+"s": "Script and Continuity Department, Lift (2024)",
+"y": null
+}
+],
 "q:tom waits": [
 {
 "id": "nm0001823",
@@ -12668,6 +13537,64 @@
 "y": 2026
 }
 ],
+"q:valentino picone": [
+{
+"id": "nm1221522",
+"l": "Valentino Picone",
+"q": null,
+"s": "Actor, L'ora legale (2017)",
+"y": null
+},
+{
+"id": "nm5456159",
+"l": "Valentina Ciccone",
+"q": null,
+"s": "Actress, Tutto tutto niente niente (2012)",
+"y": null
+},
+{
+"id": "tt14376562",
+"l": "Valentino, Puedes ser tu propio héroe o villano",
+"q": "movie",
+"s": "David Chocarro, Dulce María",
+"y": 2022
+},
+{
+"id": "nm4940735",
+"l": "Nicole Tolentino",
+"q": null,
+"s": "Actress, A Peculiar Kind of Sickness (2011)",
+"y": null
+},
+{
+"id": "nm1778783",
+"l": "Valentino Pizzuto",
+"q": null,
+"s": "Actor, The Hunter (2018)",
+"y": null
+},
+{
+"id": "nm4312878",
+"l": "Valentino Transfiguracion",
+"q": null,
+"s": "Art Director, Lumayo ka nga sa akin (2016)",
+"y": null
+},
+{
+"id": "nm3657162",
+"l": "Nicole Valentine",
+"q": null,
+"s": "Makeup Department, Across the Line: The Exodus of Charlie Wright (2010)",
+"y": null
+},
+{
+"id": "nm5468436",
+"l": "Valentina Bidone",
+"q": null,
+"s": "Additional Crew, Restiamo umani: The Reading Movie (2012)",
+"y": null
+}
+],
 "q:vanessa redgrave": [
 {
 "id": "nm0000603",
@@ -12681,6 +13608,64 @@
 "l": "Vanessa Redgrave on 'Tom Jones'",
 "q": "short",
 "s": "Vanessa Redgrave",
+"y": 2018
+}
+],
+"q:vincent cassel": [
+{
+"id": "nm0001993",
+"l": "Vincent Cassel",
+"q": null,
+"s": "Actor, Black Swan (2010)",
+"y": null
+},
+{
+"id": "nm2312881",
+"l": "Vincent Caso",
+"q": null,
+"s": "Actor, The Guild (2007-2012)",
+"y": null
+},
+{
+"id": "nm0144753",
+"l": "Vincent Castellanos",
+"q": null,
+"s": "Actor, Mulholland Drive (2001)",
+"y": null
+},
+{
+"id": "nm5869748",
+"l": "Tom Caserto",
+"q": null,
+"s": "Stunts, Caddo Lake (2024)",
+"y": null
+},
+{
+"id": "nm0060366",
+"l": "Vincent Bassols",
+"q": null,
+"s": "Animation Department, Exosquad (1994)",
+"y": null
+},
+{
+"id": "nm8675716",
+"l": "Vincent Casell",
+"q": null,
+"s": "Actor, La vengeance (2011)",
+"y": null
+},
+{
+"id": "nm2096882",
+"l": "Vincent Casiro",
+"q": null,
+"s": "Director, Marek (2026)",
+"y": null
+},
+{
+"id": "tt4382792",
+"l": "Bloodlines: The Art and Life of Vincent Castiglia",
+"q": "movie",
+"s": "Martin Eric Ain, Michael Alago",
 "y": 2018
 }
 ],
@@ -12762,6 +13747,22 @@
 "l": "Vincent Dela Luna",
 "q": null,
 "s": "Production Department, I, Robot (2004)",
+"y": null
+}
+],
+"q:virginie efira": [
+{
+"id": "nm1812637",
+"l": "Virginie Efira",
+"q": null,
+"s": "Actress, Elle (2016)",
+"y": null
+},
+{
+"id": "nm16851659",
+"l": "Virginie Navie Firroloni",
+"q": null,
+"s": "Director, Garçons sensibles (2015)",
 "y": null
 }
 ],
@@ -12850,6 +13851,64 @@
 "l": "Wafa Ameli",
 "q": null,
 "s": "Writer, The Bad Son (2024)",
+"y": null
+}
+],
+"q:walter chiari": [
+{
+"id": "nm0157067",
+"l": "Walter Chiari",
+"q": null,
+"s": "Actor, Romance (1986)",
+"y": null
+},
+{
+"id": "tt2177349",
+"l": "Walter Chiari - Fino all'ultima risata",
+"q": "tvMovie",
+"s": "Alessio Boni, Bianca Guaccero",
+"y": 2012
+},
+{
+"id": "tt0044592",
+"l": "Era lei che lo voleva!",
+"q": "movie",
+"s": "Walter Chiari, Lucia Bosè",
+"y": 1953
+},
+{
+"id": "nm8460887",
+"l": "Walter Chiariello",
+"q": null,
+"s": "Script and Continuity Department, Il ballo di Marte (2014)",
+"y": null
+},
+{
+"id": "nm4114456",
+"l": "Lauren Caster",
+"q": null,
+"s": "Actress, Rhythm Is a Dancer (2025)",
+"y": null
+},
+{
+"id": "nm15226864",
+"l": "Chiara Walther",
+"q": null,
+"s": "Costume and Wardrobe Department, Dahoam is Dahoam (2025-2026)",
+"y": null
+},
+{
+"id": "tt14324296",
+"l": "A Chiara",
+"q": "movie",
+"s": "Pio Amato, Swamy Rotolo",
+"y": 2021
+},
+{
+"id": "nm15825556",
+"l": "Walter Chigui",
+"q": null,
+"s": "Actor, Love in Belfast",
 "y": null
 }
 ],
