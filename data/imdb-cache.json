@@ -7055,6 +7055,64 @@
 "y": null
 }
 ],
+"q:ken il guerriero il film": [
+{
+"id": "tt0142371",
+"l": "Fist of the North Star",
+"q": "movie",
+"s": "Akira Kamiya, Yuriko Yamamoto",
+"y": 1986
+},
+{
+"id": "tt0085737",
+"l": "Gunan, King of the Barbarians",
+"q": "movie",
+"s": "Pietro Torrisi, Malisa Longo",
+"y": 1982
+},
+{
+"id": "tt0086484",
+"l": "Tuareg: The Desert Warrior",
+"q": "movie",
+"s": "Mark Harmon, Luis Prendes",
+"y": 1984
+},
+{
+"id": "tt1680058",
+"l": "Boris - Il film",
+"q": "movie",
+"s": "Luca Amorosino, Valerio Aprea",
+"y": 2011
+},
+{
+"id": "tt0094931",
+"l": "Cy Warrior",
+"q": "movie",
+"s": "Frank Zagarino, Henry Silva",
+"y": 1989
+},
+{
+"id": "tt28650488",
+"l": "The Super Mario Galaxy Movie",
+"q": "movie",
+"s": "Brie Larson, Virginia Dare Jelenic",
+"y": 2026
+},
+{
+"id": "tt1267297",
+"l": "Hercules",
+"q": "movie",
+"s": "Dwayne Johnson, John Hurt",
+"y": 2014
+},
+{
+"id": "tt0120657",
+"l": "The 13th Warrior",
+"q": "movie",
+"s": "Antonio Banderas, Diane Venora",
+"y": 1999
+}
+],
 "q:ken russell": [
 {
 "id": "nm0001692",
@@ -13392,6 +13450,15 @@
 "q": "short",
 "s": "Raúl De Lange",
 "y": 1959
+}
+],
+"q:toyoo ashida": [
+{
+"id": "nm0038953",
+"l": "Toyoo Ashida",
+"q": null,
+"s": "Animation Department, Fantascience World Gulliver Boy (1995)",
+"y": null
 }
 ],
 "q:tramell tillman": [
