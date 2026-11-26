@@ -434,41 +434,45 @@ def scrape_verdi():
     films = {}
     for i in range(DAYS_AHEAD + 1):
         d = TODAY + timedelta(days=i)
-        r = request("POST", f"{base}/wp-admin/admin-ajax.php",
-                    data={"action": "cs_ajax_projections_by_day", "date": d.strftime("%d/%m/%Y")},
-                    headers={"X-Requested-With": "XMLHttpRequest", "Referer": base + "/"})
-        html = r.json().get("data") or ""
-        for row in soup(html).select(".projections-film-table-row"):
-            a = row.select_one(".projections-film-table-title a")
-            if not a:
+        # da nov 2026 gli orari sono nella pagina stessa (?cs_data=gg/mm/aaaa), non più via admin-ajax
+        page = soup(get(base + "/", params={"cs_data": d.strftime("%d/%m/%Y")}).text)
+        for b in page.select("a.btn-orario[data-ora]"):
+            # se il sito ignora la data richiesta (fuori calendario) mostra un altro giorno: scarta
+            day = re.search(r"\b(\d{1,2})\b", b.get("data-day") or "")
+            if day and int(day.group(1)) != d.day:
                 continue
-            url = a["href"]
-            f = films.setdefault(url, {"title": text(a), "page": url, "shows": [],
-                                       "director": split_people(re.sub(r"^di\s+", "", text(row.select_one(".director")))),
-                                       "runtime": parse_minutes(text(row.select_one(".duration"))),
-                                       "genres": [g.strip() for g in text(row.select_one(".genres")).split(",") if g.strip()],
+            col = b.find_parent(class_="projections-film-table-title-col")
+            a = col.select_one('a[href*="/film/"]') if col else None
+            title = (b.get("data-title") or (text(a) if a else "")).strip()
+            if not title:
+                continue
+            url = a["href"] if a else base + "/"
+            f = films.setdefault(url, {"title": title, "page": url, "shows": [],
+                                       "director": split_people(b.get("data-director") or ""),
+                                       "runtime": parse_minutes(b.get("data-duration")),
+                                       "genres": [g.strip() for g in (b.get("data-genre") or "").split(",") if g.strip()],
                                        "poster": None})
-            for b in row.select("button.projections-film-timetable-hour-button"):
-                f["poster"] = f["poster"] or (b.get("data-poster") or "").replace("http://", "https://") or None
-                tag = (b.get("data-tag") or "").strip()
-                tags = [tag] if tag else []
-                if is_vos(f["title"]) or "v.o" in tag.lower():
-                    tags.append("VOS")
-                shows_url = b.get("data-purchase-link") or url
-                f["shows"].append(show(cid, d, b.get("data-projection"), shows_url, None, tags))
+            f["poster"] = f["poster"] or (b.get("data-poster") or "").replace("http://", "https://") or None
+            tags = ["VOS"] if b.get("data-vo") == "1" or is_vos(title) else []
+            f["shows"].append(show(cid, d, b["data-ora"].strip(), b.get("data-link") or url, None, tags))
     log(f"  verdi: {len(films)} film")
 
     def details(f):
         try:
             s = soup(get(f["page"]).text)
-            c = s.select_one(".single-film-content-cast")
-            f["cast"] = split_people(re.sub(r"^Con\s+", "", text(c)), 8) if c else []
-            f["plot"] = text(s.select_one(".single-film-content-plot")) or None
-            tb = s.select_one("[data-trailer-code]")
-            f["trailer"] = ("https://www.youtube.com/" + tb["data-trailer-code"]) if tb else None
-            dr = s.select_one(".single-film-content-director")
-            if dr and not f["director"]:
-                f["director"] = split_people(re.sub(r"^Di\s+", "", text(dr)))
+            # scheda film (markup nov 2026): il primo .projections-film-table-info è il film stesso
+            info = s.select_one(".projections-film-table-info") or s
+            credits = next((text(p) for p in info.select("p") if p.find("strong")), "")
+            m = re.search(r"\bCon\s+(.+)$", credits)
+            f["cast"] = split_people(m.group(1), 8) if m else []
+            m = re.search(r"^Di\s+(.+?)(?:\s+Con\s+|$)", credits)
+            if m and not f["director"]:
+                f["director"] = split_people(m.group(1))
+            plots = [text(d) for d in info.select(".x-text") if not d.find("strong") and not d.find("a")]
+            plots = [t for t in plots if len(t) > 60]
+            f["plot"] = max(plots, key=len) if plots else None
+            tb = info.select_one('a[href*="youtu"]')
+            f["trailer"] = tb["href"] if tb else None
             img = s.select_one(".single-film-image, img.wp-post-image")
             if not f["poster"] and img:
                 f["poster"] = img.get("src")
