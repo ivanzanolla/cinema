@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T13:11+01:00",
+ "generated": "2026-11-27T07:40+01:00",
  "films": [
   {
    "title": "HEXE: il Regno delle Streghe",
@@ -26,74 +26,6 @@
    "trailer": null,
    "page": "https://www.thespacecinema.it/film/hexe-il-regno-delle-streghe",
    "shows": [
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "14:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80330",
-     "room": "Sala 6",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "15:20",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80999",
-     "room": "Sala 10",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "16:20",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80961",
-     "room": "Sala 3",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "17:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80331",
-     "room": "Sala 6",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "18:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80312",
-     "room": "EPIC",
-     "tags": [
-      "Dolby Atmos",
-      "EPIC",
-      "HDR by Barco",
-      "Schermo più grande"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "20:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80332",
-     "room": "Sala 6",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "21:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003604/80974",
-     "room": "Sala 5",
-     "tags": [],
-     "soldOut": false
-    },
     {
      "cinema": "space",
      "date": "2026-11-27",
@@ -350,42 +282,6 @@
    "shows": [
     {
      "cinema": "space",
-     "date": "2026-11-26",
-     "time": "14:55",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003833/80955",
-     "room": "Sala 2",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "17:20",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003833/80956",
-     "room": "Sala 2",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "19:25",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003833/81008",
-     "room": "Sala 11",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "22:45",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003833/80976",
-     "room": "Sala 6",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
      "date": "2026-11-27",
      "time": "14:20",
      "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003833/80996",
@@ -551,33 +447,6 @@
    "shows": [
     {
      "cinema": "space",
-     "date": "2026-11-26",
-     "time": "17:40",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003866/80994",
-     "room": "Sala 9",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "19:45",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003866/80957",
-     "room": "Sala 2",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "21:50",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003866/81009",
-     "room": "Sala 11",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
      "date": "2026-11-27",
      "time": "14:10",
      "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003866/80983",
@@ -711,60 +580,6 @@
    "trailer": null,
    "page": "https://www.thespacecinema.it/film/ti-presento-i-fotter",
    "shows": [
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "14:10",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003596/81006",
-     "room": "Sala 11",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "16:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003596/81013",
-     "room": "Sala 12",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "18:05",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003596/81000",
-     "room": "Sala 10",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "20:20",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003596/80989",
-     "room": "Sala 8",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "21:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003596/80226",
-     "room": "Sala 4",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "22:35",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003596/80958",
-     "room": "Sala 2",
-     "tags": [],
-     "soldOut": false
-    },
     {
      "cinema": "space",
      "date": "2026-11-27",
@@ -929,81 +744,6 @@
    "trailer": null,
    "page": "https://www.thespacecinema.it/film/hunger-games-l-alba-sulla-mietitura",
    "shows": [
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "14:50",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80311",
-     "room": "EPIC",
-     "tags": [
-      "Dolby Atmos",
-      "EPIC",
-      "HDR by Barco",
-      "Schermo più grande"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "16:20",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80981",
-     "room": "Sala 7",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "17:45",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80973",
-     "room": "Sala 5",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "19:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80929",
-     "room": "Sala 3",
-     "tags": [
-      "VOS"
-     ],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "19:50",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80982",
-     "room": "Sala 7",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "20:45",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/81001",
-     "room": "Sala 10",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "21:20",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003465/80313",
-     "room": "EPIC",
-     "tags": [
-      "Dolby Atmos",
-      "EPIC",
-      "HDR by Barco",
-      "Schermo più grande"
-     ],
-     "soldOut": false
-    },
     {
      "cinema": "space",
      "date": "2026-11-27",
@@ -1221,51 +961,6 @@
    "shows": [
     {
      "cinema": "space",
-     "date": "2026-11-26",
-     "time": "14:05",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003848/80980",
-     "room": "Sala 7",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "16:35",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003848/80966",
-     "room": "Sala 4",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "18:40",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003848/80937",
-     "room": "Sala 12",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "21:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003848/79199",
-     "room": "Sala 12",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "23:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003848/80990",
-     "room": "Sala 8",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
      "date": "2026-11-27",
      "time": "14:00",
      "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003848/81010",
@@ -1408,42 +1103,6 @@
    "shows": [
     {
      "cinema": "space",
-     "date": "2026-11-26",
-     "time": "15:05",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003580/80972",
-     "room": "Sala 5",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "16:45",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003580/81007",
-     "room": "Sala 11",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "18:50",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003580/80967",
-     "room": "Sala 4",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "22:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003580/80962",
-     "room": "Sala 3",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
      "date": "2026-11-27",
      "time": "16:10",
      "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003580/80963",
@@ -1536,15 +1195,6 @@
    "shows": [
     {
      "cinema": "space",
-     "date": "2026-11-26",
-     "time": "14:25",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003165/80987",
-     "room": "Sala 8",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
      "date": "2026-11-27",
      "time": "15:05",
      "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003165/80991",
@@ -1594,282 +1244,6 @@
      "time": "14:35",
      "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003165/81061",
      "room": "Sala 6",
-     "tags": [],
-     "soldOut": false
-    }
-   ]
-  },
-  {
-   "title": "FJORD",
-   "originalTitle": "Fjord",
-   "director": [
-    "Cristian Mungiu"
-   ],
-   "cast": [
-    "Sebastian Stan",
-    "Renate Reinsve",
-    "Lisa Carlehed",
-    "Ellen Dorrit Petersen",
-    "Lisa Loven Kongsli"
-   ],
-   "runtime": 146,
-   "genres": [
-    "Dramma"
-   ],
-   "poster": "https://www.thespacecinema.it/-/media/the-space-cinema/schede-film/dnp/fjord/locandina_fjord_dnp.jpg?rev=fae2a74fdaa34bfd8cfbfa6a577c9d8d",
-   "plot": "I Gheorghiu, una devota coppia rumeno-norvegese, si trasferiscono in un villaggio situato in un fiordo remoto, dove stringono amicizia con i vicini, gli Halberg. I loro figli si avvicinano nonostante le diverse educazioni ricevute. Quando l’adolescente Elia Gheorghiu si presenta a scuola con alcuni lividi sul corpo, la comunità si chiede se l’educazione tradizionale che i figli Gheorghiu ricevono dai genitori possa avere qualcosa a che fare con la cosa.",
-   "year": null,
-   "release": "2026-11-19",
-   "rating": "6",
-   "trailer": null,
-   "page": "https://www.thespacecinema.it/film/fjord",
-   "shows": [
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "17:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004009/80988",
-     "room": "Sala 8",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-27",
-     "time": "15:10",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004009/80959",
-     "room": "Sala 3",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-28",
-     "time": "14:40",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004009/81026",
-     "room": "Sala 7",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-29",
-     "time": "21:55",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004009/81072",
-     "room": "Sala 8",
-     "tags": [],
-     "soldOut": false
-    }
-   ]
-  },
-  {
-   "title": "MUSTANG",
-   "originalTitle": null,
-   "director": [
-    "Kasia Smutniak"
-   ],
-   "cast": [
-    "Kasia Smutniak",
-    "Pietro Taricone",
-    "Sophie Taricone",
-    "Chime Youdon Gurung",
-    "Kunzum Thakuri"
-   ],
-   "runtime": 105,
-   "genres": [
-    "Documentario"
-   ],
-   "poster": "https://www.thespacecinema.it/-/media/the-space-cinema/schede-film/2026/11/mustang/locandina_mustang.jpg?rev=1407821da9d041eca607f216938764bb",
-   "plot": "Presentato in Concorso alla 21ª edizione della Festa del Cinema di Roma, arriva al cinema a novembre Mustang, il nuovo film documentario diretto da Kasia Smutniak. Dopo il successo di Mur, la regista torna dietro la macchina da presa per regalare al pubblico un racconto intimo e inedito. L'opera nasce dal primo viaggio compiuto nel 2003 nella remota regione asiatica del Mustang insieme a Pietro Taricone, attraversando oltre vent'anni di vita. ",
-   "year": null,
-   "release": "2026-11-23",
-   "rating": "t",
-   "trailer": null,
-   "page": "https://www.thespacecinema.it/film/mustang",
-   "shows": [
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "20:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004016/80995",
-     "room": "Sala 9",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-27",
-     "time": "20:50",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004016/80953",
-     "room": "Sala 2",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-28",
-     "time": "20:50",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004016/81022",
-     "room": "Sala 5",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-29",
-     "time": "18:30",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004016/81082",
-     "room": "Sala 11",
-     "tags": [],
-     "soldOut": false
-    }
-   ]
-  },
-  {
-   "title": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
-   "originalTitle": null,
-   "director": [
-    "Massimiliano Bruno"
-   ],
-   "cast": [
-    "Claudia Pandolfi",
-    "Pietro Sermonti",
-    "Diego Abatantuono",
-    "Stefania Sandrelli",
-    "Stefano Fresi",
-    "Beatrice Arnera",
-    "Edoardo Ferrario",
-    "Alessandro Mauthe"
-   ],
-   "runtime": 98,
-   "genres": [
-    "Commedia"
-   ],
-   "poster": "https://www.thespacecinema.it/-/media/the-space-cinema/schede-film/2026/10/un-tranquillo-funerale-di-famiglia/locandina_untranquillofuneraledifamiglia.jpg?rev=ae5c9e27d2384e3583c4149bd6e33fb4",
-   "plot": "Nel giorno del funerale del patriarca della famiglia Mancuso, i due figli Daria e Riccardo, interpretati da Claudia Pandolfi e Pietro Sermonti, si ritrovano a fare i conti con rancori mai sopiti e segreti inconfessati. ",
-   "year": null,
-   "release": "2026-10-29",
-   "rating": "6",
-   "trailer": null,
-   "page": "https://www.thespacecinema.it/film/un-tranquillo-funerale-di-famiglia",
-   "shows": [
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "14:05",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003650/80965",
-     "room": "Sala 4",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-27",
-     "time": "14:00",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003650/80968",
-     "room": "Sala 5",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-29",
-     "time": "11:20",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003650/81068",
-     "room": "Sala 8",
-     "tags": [],
-     "soldOut": false
-    }
-   ]
-  },
-  {
-   "title": "UN WEEKEND ARTIFICIALE",
-   "originalTitle": null,
-   "director": [
-    "Leonardo Pieraccioni"
-   ],
-   "cast": [
-    "Leonardo Pieraccioni",
-    "Giulia Vecchio",
-    "Herbert Ballerina",
-    "Massimo Ceccherini",
-    "Tosca D'Aquino",
-    "Tim Daish",
-    "Giovanni Esposito",
-    "Paolo Hendel"
-   ],
-   "runtime": null,
-   "genres": [
-    "Commedia"
-   ],
-   "poster": "https://www.thespacecinema.it/-/media/the-space-cinema/schede-film/2026/11/un-weekend-artificiale/locandina_unweekendartificiale.jpg?rev=c6ea3e1832284d04bbef3c37ab6f8f6e",
-   "plot": "Diretto da Leonardo Pieraccioni, Un weekend artificiale sbarca al cinema con una nuova e irresistibile storia. Il protagonista, Leonardo, è un parrucchiere fiorentino che viene inaspettatamente invitato in una villa da sogno insieme ad altri sei sconosciuti. L'obiettivo? Partecipare a un esperimento senza precedenti e scoprire chi, all'interno del gruppo, è in realtà un umanoide creato con l'intelligenza artificiale. ",
-   "year": null,
-   "release": "2026-11-12",
-   "rating": "t",
-   "trailer": null,
-   "page": "https://www.thespacecinema.it/film/un-weekend-artificiale",
-   "shows": [
-    {
-     "cinema": "space",
-     "date": "2026-11-26",
-     "time": "15:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003902/80993",
-     "room": "Sala 9",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-27",
-     "time": "16:40",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003902/81003",
-     "room": "Sala 11",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-28",
-     "time": "14:15",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003902/81030",
-     "room": "Sala 8",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-28",
-     "time": "16:35",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003902/81031",
-     "room": "Sala 8",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-28",
-     "time": "18:55",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003902/81032",
-     "room": "Sala 8",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-29",
-     "time": "14:10",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003902/81077",
-     "room": "Sala 10",
-     "tags": [],
-     "soldOut": false
-    },
-    {
-     "cinema": "space",
-     "date": "2026-11-29",
-     "time": "16:05",
-     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003902/81081",
-     "room": "Sala 11",
      "tags": [],
      "soldOut": false
     }
@@ -1978,6 +1352,60 @@
    ]
   },
   {
+   "title": "FJORD",
+   "originalTitle": "Fjord",
+   "director": [
+    "Cristian Mungiu"
+   ],
+   "cast": [
+    "Sebastian Stan",
+    "Renate Reinsve",
+    "Lisa Carlehed",
+    "Ellen Dorrit Petersen",
+    "Lisa Loven Kongsli"
+   ],
+   "runtime": 146,
+   "genres": [
+    "Dramma"
+   ],
+   "poster": "https://www.thespacecinema.it/-/media/the-space-cinema/schede-film/dnp/fjord/locandina_fjord_dnp.jpg?rev=fae2a74fdaa34bfd8cfbfa6a577c9d8d",
+   "plot": "I Gheorghiu, una devota coppia rumeno-norvegese, si trasferiscono in un villaggio situato in un fiordo remoto, dove stringono amicizia con i vicini, gli Halberg. I loro figli si avvicinano nonostante le diverse educazioni ricevute. Quando l’adolescente Elia Gheorghiu si presenta a scuola con alcuni lividi sul corpo, la comunità si chiede se l’educazione tradizionale che i figli Gheorghiu ricevono dai genitori possa avere qualcosa a che fare con la cosa.",
+   "year": null,
+   "release": "2026-11-19",
+   "rating": "6",
+   "trailer": null,
+   "page": "https://www.thespacecinema.it/film/fjord",
+   "shows": [
+    {
+     "cinema": "space",
+     "date": "2026-11-27",
+     "time": "15:10",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004009/80959",
+     "room": "Sala 3",
+     "tags": [],
+     "soldOut": false
+    },
+    {
+     "cinema": "space",
+     "date": "2026-11-28",
+     "time": "14:40",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004009/81026",
+     "room": "Sala 7",
+     "tags": [],
+     "soldOut": false
+    },
+    {
+     "cinema": "space",
+     "date": "2026-11-29",
+     "time": "21:55",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004009/81072",
+     "room": "Sala 8",
+     "tags": [],
+     "soldOut": false
+    }
+   ]
+  },
+  {
    "title": "GODZILLA MINUS ZERO",
    "originalTitle": null,
    "director": [
@@ -2023,6 +1451,192 @@
      "time": "13:50",
      "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003849/81069",
      "room": "Sala 8",
+     "tags": [],
+     "soldOut": false
+    }
+   ]
+  },
+  {
+   "title": "MUSTANG",
+   "originalTitle": null,
+   "director": [
+    "Kasia Smutniak"
+   ],
+   "cast": [
+    "Kasia Smutniak",
+    "Pietro Taricone",
+    "Sophie Taricone",
+    "Chime Youdon Gurung",
+    "Kunzum Thakuri"
+   ],
+   "runtime": 105,
+   "genres": [
+    "Documentario"
+   ],
+   "poster": "https://www.thespacecinema.it/-/media/the-space-cinema/schede-film/2026/11/mustang/locandina_mustang.jpg?rev=1407821da9d041eca607f216938764bb",
+   "plot": "Presentato in Concorso alla 21ª edizione della Festa del Cinema di Roma, arriva al cinema a novembre Mustang, il nuovo film documentario diretto da Kasia Smutniak. Dopo il successo di Mur, la regista torna dietro la macchina da presa per regalare al pubblico un racconto intimo e inedito. L'opera nasce dal primo viaggio compiuto nel 2003 nella remota regione asiatica del Mustang insieme a Pietro Taricone, attraversando oltre vent'anni di vita. ",
+   "year": null,
+   "release": "2026-11-23",
+   "rating": "t",
+   "trailer": null,
+   "page": "https://www.thespacecinema.it/film/mustang",
+   "shows": [
+    {
+     "cinema": "space",
+     "date": "2026-11-27",
+     "time": "20:50",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004016/80953",
+     "room": "Sala 2",
+     "tags": [],
+     "soldOut": false
+    },
+    {
+     "cinema": "space",
+     "date": "2026-11-28",
+     "time": "20:50",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004016/81022",
+     "room": "Sala 5",
+     "tags": [],
+     "soldOut": false
+    },
+    {
+     "cinema": "space",
+     "date": "2026-11-29",
+     "time": "18:30",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00004016/81082",
+     "room": "Sala 11",
+     "tags": [],
+     "soldOut": false
+    }
+   ]
+  },
+  {
+   "title": "UN TRANQUILLO FUNERALE DI FAMIGLIA",
+   "originalTitle": null,
+   "director": [
+    "Massimiliano Bruno"
+   ],
+   "cast": [
+    "Claudia Pandolfi",
+    "Pietro Sermonti",
+    "Diego Abatantuono",
+    "Stefania Sandrelli",
+    "Stefano Fresi",
+    "Beatrice Arnera",
+    "Edoardo Ferrario",
+    "Alessandro Mauthe"
+   ],
+   "runtime": 98,
+   "genres": [
+    "Commedia"
+   ],
+   "poster": "https://www.thespacecinema.it/-/media/the-space-cinema/schede-film/2026/10/un-tranquillo-funerale-di-famiglia/locandina_untranquillofuneraledifamiglia.jpg?rev=ae5c9e27d2384e3583c4149bd6e33fb4",
+   "plot": "Nel giorno del funerale del patriarca della famiglia Mancuso, i due figli Daria e Riccardo, interpretati da Claudia Pandolfi e Pietro Sermonti, si ritrovano a fare i conti con rancori mai sopiti e segreti inconfessati. ",
+   "year": null,
+   "release": "2026-10-29",
+   "rating": "6",
+   "trailer": null,
+   "page": "https://www.thespacecinema.it/film/un-tranquillo-funerale-di-famiglia",
+   "shows": [
+    {
+     "cinema": "space",
+     "date": "2026-11-27",
+     "time": "14:00",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003650/80968",
+     "room": "Sala 5",
+     "tags": [],
+     "soldOut": false
+    },
+    {
+     "cinema": "space",
+     "date": "2026-11-29",
+     "time": "11:20",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003650/81068",
+     "room": "Sala 8",
+     "tags": [],
+     "soldOut": false
+    }
+   ]
+  },
+  {
+   "title": "UN WEEKEND ARTIFICIALE",
+   "originalTitle": null,
+   "director": [
+    "Leonardo Pieraccioni"
+   ],
+   "cast": [
+    "Leonardo Pieraccioni",
+    "Giulia Vecchio",
+    "Herbert Ballerina",
+    "Massimo Ceccherini",
+    "Tosca D'Aquino",
+    "Tim Daish",
+    "Giovanni Esposito",
+    "Paolo Hendel"
+   ],
+   "runtime": null,
+   "genres": [
+    "Commedia"
+   ],
+   "poster": "https://www.thespacecinema.it/-/media/the-space-cinema/schede-film/2026/11/un-weekend-artificiale/locandina_unweekendartificiale.jpg?rev=c6ea3e1832284d04bbef3c37ab6f8f6e",
+   "plot": "Diretto da Leonardo Pieraccioni, Un weekend artificiale sbarca al cinema con una nuova e irresistibile storia. Il protagonista, Leonardo, è un parrucchiere fiorentino che viene inaspettatamente invitato in una villa da sogno insieme ad altri sei sconosciuti. L'obiettivo? Partecipare a un esperimento senza precedenti e scoprire chi, all'interno del gruppo, è in realtà un umanoide creato con l'intelligenza artificiale. ",
+   "year": null,
+   "release": "2026-11-12",
+   "rating": "t",
+   "trailer": null,
+   "page": "https://www.thespacecinema.it/film/un-weekend-artificiale",
+   "shows": [
+    {
+     "cinema": "space",
+     "date": "2026-11-27",
+     "time": "16:40",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003902/81003",
+     "room": "Sala 11",
+     "tags": [],
+     "soldOut": false
+    },
+    {
+     "cinema": "space",
+     "date": "2026-11-28",
+     "time": "14:15",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003902/81030",
+     "room": "Sala 8",
+     "tags": [],
+     "soldOut": false
+    },
+    {
+     "cinema": "space",
+     "date": "2026-11-28",
+     "time": "16:35",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003902/81031",
+     "room": "Sala 8",
+     "tags": [],
+     "soldOut": false
+    },
+    {
+     "cinema": "space",
+     "date": "2026-11-28",
+     "time": "18:55",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003902/81032",
+     "room": "Sala 8",
+     "tags": [],
+     "soldOut": false
+    },
+    {
+     "cinema": "space",
+     "date": "2026-11-29",
+     "time": "14:10",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003902/81077",
+     "room": "Sala 10",
+     "tags": [],
+     "soldOut": false
+    },
+    {
+     "cinema": "space",
+     "date": "2026-11-29",
+     "time": "16:05",
+     "url": "https://www.thespacecinema.it/prenotare-il-biglietto/summary/1009/HO00003902/81081",
+     "room": "Sala 11",
      "tags": [],
      "soldOut": false
     }
