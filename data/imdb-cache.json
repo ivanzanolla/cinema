@@ -418,6 +418,64 @@
 "y": null
 }
 ],
+"q:andrew adamson": [
+{
+"id": "nm0011470",
+"l": "Andrew Adamson",
+"q": null,
+"s": "Director, Shrek 2 (2004)",
+"y": null
+},
+{
+"id": "nm15357887",
+"l": "Andrew Adamson",
+"q": null,
+"s": "Production Department, Conjuring Tapes (2025)",
+"y": null
+},
+{
+"id": "nm1752059",
+"l": "A.J. Adamson",
+"q": null,
+"s": "Actor, Millennium (1997-1999)",
+"y": null
+},
+{
+"id": "nm11339438",
+"l": "Andrew Adamson",
+"q": null,
+"s": "Director, My Masterpiece (2019)",
+"y": null
+},
+{
+"id": "nm15357403",
+"l": "Andrew Adamson",
+"q": null,
+"s": "Sound Department, Split Screen (2023)",
+"y": null
+},
+{
+"id": "nm1383112",
+"l": "Andrew 'CI' Adamson",
+"q": null,
+"s": "Camera and Electrical Department, The Stepdaughter (2000)",
+"y": null
+},
+{
+"id": "nm8290319",
+"l": "Andrew Adamson",
+"q": null,
+"s": "Actor, Somebody's Daughter (2004)",
+"y": null
+},
+{
+"id": "nm10012561",
+"l": "Andrew Adamson",
+"q": null,
+"s": null,
+"y": null
+}
+],
 "q:andrew patterson": [
 {
 "id": "nm9451696",
@@ -473,6 +531,43 @@
 "l": "Walker Patterson",
 "q": null,
 "s": "Writer, Hugh",
+"y": null
+}
+],
+"q:angela finocchiaro": [
+{
+"id": "nm0278329",
+"l": "Angela Finocchiaro",
+"q": null,
+"s": "Actress, The Invisible Wall (1991)",
+"y": null
+},
+{
+"id": "nm1006993",
+"l": "Donatella Finocchiaro",
+"q": null,
+"s": "Actress, Angela (2002)",
+"y": null
+},
+{
+"id": "nm15319938",
+"l": "Kristella Finocchiaro",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "nm15544650",
+"l": "Angelo Finocchiaro",
+"q": null,
+"s": "Actor, I fuori gioco (2022)",
+"y": null
+},
+{
+"id": "nm18249638",
+"l": "Keke Angela Finocchi",
+"q": null,
+"s": "Animation Department, Strip Law (2026)",
 "y": null
 }
 ],
@@ -1146,6 +1241,64 @@
 "y": null
 }
 ],
+"q:behemoth una vita da ricomporre": [
+{
+"id": "tt20205120",
+"l": "Una vita da sogno: L'abbaglio",
+"q": "movie",
+"s": "Andrea Simonetti, Denise Tantucci",
+"y": 2024
+},
+{
+"id": "tt0216368",
+"l": "Una vita da sballo",
+"q": "movie",
+"s": "Claudio Daniele, Tania Oggero",
+"y": 1994
+},
+{
+"id": "tt2176007",
+"l": "Una vita da sogno",
+"q": "movie",
+"s": "Alessandro Paci, Massimo Ceccherini",
+"y": 2013
+},
+{
+"id": "tt0062595",
+"l": "One Life to Live",
+"q": "tvSeries",
+"s": "Erika Slezak, Michael Storm",
+"y": 1968
+},
+{
+"id": "tt36206689",
+"l": "Atalanta. Una vita da Dea",
+"q": "movie",
+"s": "Daniele Adani, Dino Carissimi",
+"y": 2025
+},
+{
+"id": "tt0429589",
+"l": "The Ant Bully",
+"q": "movie",
+"s": "Paul Giamatti, Nicolas Cage",
+"y": 2006
+},
+{
+"id": "tt5655222",
+"l": "The Hero",
+"q": "movie",
+"s": "Sam Elliott, Laura Prepon",
+"y": 2017
+},
+{
+"id": "tt2023453",
+"l": "Diary of a Wimpy Kid: Dog Days",
+"q": "movie",
+"s": "Zachary Gordon, Robert Capron",
+"y": 2012
+}
+],
 "q:bellissima": [
 {
 "id": "tt0043332",
@@ -1612,6 +1765,64 @@
 "y": 2026
 }
 ],
+"q:buddy": [
+{
+"id": "tt37281055",
+"l": "Buddy",
+"q": "movie",
+"s": "Cristin Milioti, Delaney Quinn",
+"y": 2026
+},
+{
+"id": "nm0001171",
+"l": "Buddy Ebsen",
+"q": null,
+"s": "Actor, The Beverly Hillbillies (1962-1971)",
+"y": null
+},
+{
+"id": "nm0004983",
+"l": "Buddy Hackett",
+"q": null,
+"s": "Actor, It's a Mad, Mad, Mad, Mad World (1963)",
+"y": null
+},
+{
+"id": "nm0000664",
+"l": "Patrick Swayze",
+"q": null,
+"s": "Actor, Dirty Dancing (1987)",
+"y": null
+},
+{
+"id": "nm0000608",
+"l": "Burt Reynolds",
+"q": null,
+"s": "Actor, Boogie Nights (1997)",
+"y": null
+},
+{
+"id": "nm0293659",
+"l": "Paul Frees",
+"q": null,
+"s": "Actor, The War of the Worlds (1953)",
+"y": null
+},
+{
+"id": "nm0860690",
+"l": "Scott Thompson",
+"q": null,
+"s": "Actor, The Kids in the Hall (1988-2011)",
+"y": null
+},
+{
+"id": "nm2265758",
+"l": "Buddy",
+"q": null,
+"s": "Actor, Dope (2015)",
+"y": null
+}
+],
 "q:cal brunker": [
 {
 "id": "nm2117510",
@@ -1725,6 +1936,64 @@
 "l": "Cameron Britt",
 "q": null,
 "s": "Actor, Espionage (2017)",
+"y": null
+}
+],
+"q:cameron diaz": [
+{
+"id": "nm0000139",
+"l": "Cameron Diaz",
+"q": null,
+"s": "Actress, Charlie's Angels (2000)",
+"y": null
+},
+{
+"id": "tt0473538",
+"l": "She's No Angel: Cameron Diaz",
+"q": "video",
+"s": "Natasha Cotroneo, Cameron Diaz",
+"y": 1992
+},
+{
+"id": "tt5472732",
+"l": "There's Something About Mary: Exposing Themselves - Cameron Diaz, Matt Dillon, Ben Stiller, and Chris Elliott",
+"q": "video",
+"s": "Cameron Diaz, Matt Dillon",
+"y": 2003
+},
+{
+"id": "tt0780491",
+"l": "Cameron Diaz: Sexy Angel",
+"q": "tvMovie",
+"s": "Chip Bolcik",
+"y": 2005
+},
+{
+"id": "tt0454479",
+"l": "Introducing Cameron Diaz",
+"q": "video",
+"s": "Jim Carrey, Fern Champion",
+"y": 2005
+},
+{
+"id": "nm3539986",
+"l": "Olga M. Cameron-Diaz",
+"q": null,
+"s": "Actress, Dreams of the Dead (2007)",
+"y": null
+},
+{
+"id": "nm0234979",
+"l": "Cameron Douglas",
+"q": null,
+"s": "Production Department, Wonder Boys (2000)",
+"y": null
+},
+{
+"id": "nm0245650",
+"l": "Cameron Dye",
+"q": null,
+"s": "Actor, The Tavern (1999)",
 "y": null
 }
 ],
@@ -1899,6 +2168,64 @@
 "l": "Carmen Lorenzo",
 "q": null,
 "s": null,
+"y": null
+}
+],
+"q:casper kelly": [
+{
+"id": "nm1085757",
+"l": "Casper Kelly",
+"q": null,
+"s": "Writer, Buddy (2026)",
+"y": null
+},
+{
+"id": "nm1342727",
+"l": "Skandar Keynes",
+"q": null,
+"s": "Actor, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+"y": null
+},
+{
+"id": "nm9273278",
+"l": "Spencer Vaughn Kelly",
+"q": null,
+"s": "Actor, WordLotto (2023)",
+"y": null
+},
+{
+"id": "tt3674938",
+"l": "Kellys Campers",
+"q": "movie",
+"s": "Hana Giraldo, Natalia Borowsky",
+"y": null
+},
+{
+"id": "nm15475847",
+"l": "Spencer Maurice",
+"q": null,
+"s": "Actor, Him and Her (2025)",
+"y": null
+},
+{
+"id": "nm1756717",
+"l": "Kellie Cooper",
+"q": null,
+"s": "Actress, Cafe Artist (2019)",
+"y": null
+},
+{
+"id": "nm12816503",
+"l": "Jude Cooper-Kelly",
+"q": null,
+"s": "Actor, The Witcher (2025)",
+"y": null
+},
+{
+"id": "nm8518157",
+"l": "Casper Gaston Kehlet",
+"q": null,
+"s": "Editorial Department, Arne Goes to Space (2026)",
 "y": null
 }
 ],
@@ -2275,6 +2602,50 @@
 "y": null
 }
 ],
+"q:cristin milioti": [
+{
+"id": "nm2129662",
+"l": "Cristin Milioti",
+"q": null,
+"s": "Actress, Palm Springs (2020)",
+"y": null
+},
+{
+"id": "tt5796062",
+"l": "Untitled Cristin Milioti/Nina Pedrad Project",
+"q": "tvMovie",
+"s": "Cristin Milioti, Megan Ferguson",
+"y": 2016
+},
+{
+"id": "nm2863650",
+"l": "Christian Millau",
+"q": null,
+"s": "Writer, Dining in France (1986)",
+"y": null
+},
+{
+"id": "tt21214600",
+"l": "Hristina Miliou: Roda",
+"q": "musicVideo",
+"s": "Christina Miliou",
+"y": 2022
+},
+{
+"id": "tt26683812",
+"l": "Hristina Miliou: Afta ekei pou xereis",
+"q": "musicVideo",
+"s": "Christina Miliou, Hristos Douvas",
+"y": 2023
+},
+{
+"id": "tt21276472",
+"l": "Thanos Petrelis feat. Hristina Miliou: Pes mou",
+"q": "musicVideo",
+"s": "Thanos Petrelis, Christina Miliou",
+"y": 2014
+}
+],
 "q:daisy ridley": [
 {
 "id": "nm5397459",
@@ -2479,6 +2850,64 @@
 "y": null
 }
 ],
+"q:david harbour": [
+{
+"id": "nm1092086",
+"l": "David Harbour",
+"q": null,
+"s": "Actor, Hellboy (2019)",
+"y": null
+},
+{
+"id": "tt43622266",
+"l": "Untitled Millie Bobby Brown David Harbour Netflix Spy Series",
+"q": "tvSeries",
+"s": "David Harbour, Millie Bobby Brown",
+"y": null
+},
+{
+"id": "nm3004596",
+"l": "David Harbour",
+"q": null,
+"s": "Actor, Return to Shadow Valley (2026)",
+"y": null
+},
+{
+"id": "nm2461473",
+"l": "David Chandler",
+"q": null,
+"s": "Actor, FDR: American Badass! (2012)",
+"y": null
+},
+{
+"id": "nm13669663",
+"l": "Magician David Harbour",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "nm5886541",
+"l": "David Harbold",
+"q": null,
+"s": "Actor, Color (2013)",
+"y": null
+},
+{
+"id": "nm1697442",
+"l": "David Barbour",
+"q": null,
+"s": "Producer, The Block (2003-2015)",
+"y": null
+},
+{
+"id": "nm0361988",
+"l": "David Harcourt",
+"q": null,
+"s": "Stunts, Alien vs. Predator (2004)",
+"y": null
+}
+],
 "q:david leitch": [
 {
 "id": "nm0500610",
@@ -2595,6 +3024,43 @@
 "y": null
 }
 ],
+"q:delaney quinn": [
+{
+"id": "nm10334528",
+"l": "Delaney Quinn",
+"q": null,
+"s": "Actress, Buddy (2026)",
+"y": null
+},
+{
+"id": "nm16896437",
+"l": "Quinn Delaney Maston",
+"q": null,
+"s": "Actress, Voyeur (2026)",
+"y": null
+},
+{
+"id": "nm12022725",
+"l": "Quinn Delaney",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "nm2814748",
+"l": "Quinn Delany-Veldhuis",
+"q": null,
+"s": "Set Decorator, Foe (2023)",
+"y": null
+},
+{
+"id": "nm13116937",
+"l": "Melanie Honey Quiño",
+"q": null,
+"s": "Producer, Nelia (2021)",
+"y": null
+}
+],
 "q:denis villeneuve": [
 {
 "id": "nm0898288",
@@ -2650,6 +3116,15 @@
 "l": "Louis Villeneuve",
 "q": null,
 "s": "Actor, L'homme perché (1996)",
+"y": null
+}
+],
+"q:destin daniel cretton": [
+{
+"id": "nm2308774",
+"l": "Destin Daniel Cretton",
+"q": null,
+"s": "Writer, Shang-Chi and the Legend of the Ten Rings (2021)",
 "y": null
 }
 ],
@@ -3026,6 +3501,64 @@
 "y": null
 }
 ],
+"q:eddie murphy": [
+{
+"id": "/family-entertainment-guide/",
+"l": "Holiday Watch Guide",
+"q": null,
+"s": "Movies and shows to celebrate the holiday season",
+"y": null
+},
+{
+"id": "nm0000552",
+"l": "Eddie Murphy",
+"q": null,
+"s": "Actor, Harlem Nights (1989)",
+"y": null
+},
+{
+"id": "tt0092948",
+"l": "Eddie Murphy: Raw",
+"q": "movie",
+"s": "Eddie Murphy, Tatyana Ali",
+"y": 1987
+},
+{
+"id": "tt0085474",
+"l": "Eddie Murphy: Delirious",
+"q": "tvSpecial",
+"s": "Eddie Murphy, James Argiro",
+"y": 1983
+},
+{
+"id": "nm1219950",
+"l": "Eddie Murphy",
+"q": null,
+"s": "Art Department, Kingsman: The Secret Service (2014)",
+"y": null
+},
+{
+"id": "nm0807743",
+"l": "Clint Smith",
+"q": null,
+"s": "Actor, Coming to America (1988)",
+"y": null
+},
+{
+"id": "tt8545110",
+"l": "Eddie Murphy Feat. Michael Jackson: Whatzupwitu",
+"q": "musicVideo",
+"s": "Eddie Murphy, Michael Jackson",
+"y": 1993
+},
+{
+"id": "tt36955686",
+"l": "Eddie Murphy: Singers",
+"q": "musicVideo",
+"s": "Eddie Murphy",
+"y": 1983
+}
+],
 "q:edoardo bove": [
 {
 "id": "nm13512515",
@@ -3143,6 +3676,64 @@
 }
 ],
 "q:egidio de zaiacomo": [],
+"q:elena lietti": [
+{
+"id": "nm4663718",
+"l": "Elena Lietti",
+"q": null,
+"s": "Actress, Like Crazy (2016)",
+"y": null
+},
+{
+"id": "nm11018446",
+"l": "Elena Luchetti",
+"q": null,
+"s": "Editor, La Milano degli imperi (2019)",
+"y": null
+},
+{
+"id": "nm14799662",
+"l": "Elena Ciletti",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "nm13300613",
+"l": "Elena Giulietti",
+"q": null,
+"s": "Visual Effects, There's Still Tomorrow (2023)",
+"y": null
+},
+{
+"id": "nm14710430",
+"l": "Elena Bretti",
+"q": null,
+"s": "Actress, L'Impero Colpisce Ancora (2022)",
+"y": null
+},
+{
+"id": "nm0846594",
+"l": "Emanuele Taglietti",
+"q": null,
+"s": "Art Department, The Vatican Affair (1968)",
+"y": null
+},
+{
+"id": "nm6891304",
+"l": "Elena Leotti",
+"q": null,
+"s": "Actress, The Legend of the Silent Accordion (2014)",
+"y": null
+},
+{
+"id": "nm13113784",
+"l": "Jamie Williams",
+"q": null,
+"s": "Self, The Oprah Winfrey Show (1997)",
+"y": null
+}
+],
 "q:eli roth": [
 {
 "id": "nm0744834",
@@ -3569,6 +4160,64 @@
 "q": null,
 "s": "Actor, The Smile (2007)",
 "y": null
+}
+],
+"q:eva victor": [
+{
+"id": "nm6872447",
+"l": "Eva Victor",
+"q": null,
+"s": "Director, Sorry, Baby (2025)",
+"y": null
+},
+{
+"id": "tt11342822",
+"l": "Victor and Sally Ganz: Discovering Eva Hesse",
+"q": "short",
+"s": "Sally Ganz, Victor Ganz",
+"y": 1999
+},
+{
+"id": "nm5447338",
+"l": "Eva Verpe",
+"q": null,
+"s": "Actor, I'll See You in Disneyland (2022)",
+"y": null
+},
+{
+"id": "nm15115683",
+"l": "Eva Victoria Bigotti",
+"q": null,
+"s": "Property Department, 52nd State",
+"y": null
+},
+{
+"id": "tt29152827",
+"l": "Ena: Queen Victoria Eugenia",
+"q": "tvSeries",
+"s": "Kimberley Tell, Joan Amargós",
+"y": 2024
+},
+{
+"id": "nm18907459",
+"l": "María Eva Victoria Palottini",
+"q": null,
+"s": "Actor, Se trata de nosotros (2015)",
+"y": null
+},
+{
+"id": "nm0128128",
+"l": "Ava Cadell",
+"q": null,
+"s": "Actress, Gigi Does It (2015)",
+"y": null
+},
+{
+"id": "tt32792555",
+"l": "Forensic Factor: A New Era",
+"q": "tvSeries",
+"s": "Sophie-Thérèse Stone-Richards, Kenneth Martin",
+"y": 2023
 }
 ],
 "q:fabrizio ferracane": [
@@ -4980,6 +5629,64 @@
 "y": null
 }
 ],
+"q:hayao miyazaki": [
+{
+"id": "nm0594503",
+"l": "Hayao Miyazaki",
+"q": null,
+"s": "Writer, Spirited Away (2001)",
+"y": null
+},
+{
+"id": "tt32408421",
+"l": "Hayao Miyazaki and the Heron",
+"q": "movie",
+"s": "Hayao Miyazaki, Toshio Suzuki",
+"y": 2024
+},
+{
+"id": "nm1396121",
+"l": "Makoto Shinkai",
+"q": null,
+"s": "Writer, Suzume (2022)",
+"y": null
+},
+{
+"id": "tt36348878",
+"l": "Untitled Hayao Miyazaki Movie",
+"q": "movie",
+"s": "",
+"y": null
+},
+{
+"id": "tt6848624",
+"l": "Never-Ending Man: Hayao Miyazaki",
+"q": "tvMovie",
+"s": "Hayao Miyazaki, Toshio Suzuki",
+"y": 2016
+},
+{
+"id": "tt12221602",
+"l": "10 Years with Hayao Miyazaki",
+"q": "tvMiniSeries",
+"s": "Hayao Miyazaki, Toshio Suzuki",
+"y": 2019
+},
+{
+"id": "tt33164965",
+"l": "How Ponyo Was Born",
+"q": "movie",
+"s": "Toshio Suzuki, Michiyo Yasuda",
+"y": 2009
+},
+{
+"id": "tt41328661",
+"l": "Tokyo-Aubusson, le voyage en tapisserie de Hayao Miyazaki",
+"q": "movie",
+"s": "",
+"y": 2025
+}
+],
 "q:herbert ballerina": [
 {
 "id": "nm4253709",
@@ -5124,6 +5831,15 @@
 "q": "short",
 "s": "Cetine Dale, Alessandro Nori",
 "y": 2017
+}
+],
+"q:hippolyte girardot": [
+{
+"id": "nm0320762",
+"l": "Hippolyte Girardot",
+"q": null,
+"s": "Actor, Manon of the Spring (1986)",
+"y": null
 }
 ],
 "q:hirokazu kore eda": [
@@ -5506,6 +6222,15 @@
 "y": 1969
 }
 ],
+"q:il re dei re la piu grande storia mai raccontata": [
+{
+"id": "tt0059245",
+"l": "The Greatest Story Ever Told",
+"q": "movie",
+"s": "Max von Sydow, Dorothy McGuire",
+"y": 1965
+}
+],
 "q:il rumore delle cose nuove": [
 {
 "id": "tt38281377",
@@ -5730,6 +6455,29 @@
 "l": "Isabelle Hubert",
 "q": null,
 "s": "Actress, La chute de la maison Usher (1992)",
+"y": null
+}
+],
+"q:jacob batalon": [
+{
+"id": "nm8188622",
+"l": "Jacob Batalon",
+"q": null,
+"s": "Actor, Spider-Man: Homecoming (2017)",
+"y": null
+},
+{
+"id": "nm1279758",
+"l": "Vlad Iacob",
+"q": null,
+"s": "Stunts, The Protégé (2021)",
+"y": null
+},
+{
+"id": "nm10574918",
+"l": "Alice Batten-Jacobs",
+"q": null,
+"s": "Special Effects, Jurassic World: Dominion (2022)",
 "y": null
 }
 ],
@@ -6023,6 +6771,64 @@
 "y": null
 }
 ],
+"q:jasmine trinca": [
+{
+"id": "nm0872910",
+"l": "Jasmine Trinca",
+"q": null,
+"s": "Actress, The Gunman (2015)",
+"y": null
+},
+{
+"id": "nm1754270",
+"l": "Brina Palencia",
+"q": null,
+"s": "Actress, Borderlands 2 (2012)",
+"y": null
+},
+{
+"id": "nm1065454",
+"l": "Tricia Helfer",
+"q": null,
+"s": "Actress, Battlestar Galactica (2004-2009)",
+"y": null
+},
+{
+"id": "nm0002239",
+"l": "Prince",
+"q": null,
+"s": "Composer, Purple Rain (1984)",
+"y": null
+},
+{
+"id": "nm1876281",
+"l": "Erica Mena",
+"q": null,
+"s": "Actress, The Stepmother 3 (2023)",
+"y": null
+},
+{
+"id": "nm3058908",
+"l": "C.J. Vranca",
+"q": null,
+"s": "Legal, Nothing But the Truth (2008)",
+"y": null
+},
+{
+"id": "nm6799941",
+"l": "Jasmine Tridevil",
+"q": null,
+"s": "Self, Inside Edition (2014)",
+"y": null
+},
+{
+"id": "nm1632928",
+"l": "Jasmine Trias",
+"q": null,
+"s": "Soundtrack, American Idol (2004-2005)",
+"y": null
+}
+],
 "q:jason hand": [
 {
 "id": "nm2911364",
@@ -6197,6 +7003,64 @@
 "y": null
 }
 ],
+"q:joe pantoliano": [
+{
+"id": "nm0001592",
+"l": "Joe Pantoliano",
+"q": null,
+"s": "Actor, Memento (2000)",
+"y": null
+},
+{
+"id": "tt4550410",
+"l": "Hail Ceasar with Joe Pantoliano",
+"q": "video",
+"s": "Joe Pantoliano",
+"y": 2014
+},
+{
+"id": "tt5949578",
+"l": "Moscone Bail Bonds: An Interview with Actor Joe Pantoliano",
+"q": "video",
+"s": "Joe Pantoliano",
+"y": 2016
+},
+{
+"id": "nm1137607",
+"l": "Michelle Rinaldi",
+"q": null,
+"s": "Self, Naked News (2004-2007)",
+"y": null
+},
+{
+"id": "nm4406652",
+"l": "Marco Pantoliano",
+"q": null,
+"s": "Camera and Electrical Department, No Kidding! Me 2!! (2009)",
+"y": null
+},
+{
+"id": "nm1221470",
+"l": "Melody Pantoliano",
+"q": null,
+"s": "Actress, Second Best (2004)",
+"y": null
+},
+{
+"id": "nm2674072",
+"l": "Ella Christopher",
+"q": null,
+"s": "Actress, Boston Legal (2007)",
+"y": null
+},
+{
+"id": "nm3181702",
+"l": "Isabella Pantoliano",
+"q": null,
+"s": "Actress, The Bronx Balletomane (2008)",
+"y": null
+}
+],
 "q:john c reilly": [
 {
 "id": "nm0000604",
@@ -6311,6 +7175,64 @@
 "q": null,
 "s": "Self, John Neumeier: Dona Nobis Pacem (2024)",
 "y": null
+}
+],
+"q:john lithgow": [
+{
+"id": "nm0001475",
+"l": "John Lithgow",
+"q": null,
+"s": "Actor, The World According to Garp (1982)",
+"y": null
+},
+{
+"id": "tt33829464",
+"l": "The Old Man - First Look at Season 2 with Jeff Bridges & John Lithgow",
+"q": "video",
+"s": "",
+"y": 2024
+},
+{
+"id": "tt24768948",
+"l": "Art Happens Here with John Lithgow",
+"q": "tvSpecial",
+"s": "John Lithgow",
+"y": 2024
+},
+{
+"id": "tt4674858",
+"l": "Lord John: An Interview with John Lithgow",
+"q": "video",
+"s": "John Lithgow",
+"y": 2015
+},
+{
+"id": "nm3019905",
+"l": "John Lithgow",
+"q": null,
+"s": "Production Department, The Weather Underground (2002)",
+"y": null
+},
+{
+"id": "tt6171024",
+"l": "Hickory Dickory Doc: John Lithgow on 'Raising Cain'",
+"q": "video",
+"s": "John Lithgow",
+"y": 2017
+},
+{
+"id": "tt32524520",
+"l": "Art Happens Here with John Lithgow",
+"q": "tvMovie",
+"s": "",
+"y": 2024
+},
+{
+"id": "tt6061280",
+"l": "Not One to Hold a Grudge: An Interview with John Lithgow",
+"q": "video",
+"s": "John Lithgow, Steven Bauer",
+"y": 2016
 }
 ],
 "q:john malkovich": [
@@ -6485,6 +7407,64 @@
 "q": null,
 "s": "Actor, Lindsay's Private Party (2009)",
 "y": null
+}
+],
+"q:jon bernthal": [
+{
+"id": "nm1256532",
+"l": "Jon Bernthal",
+"q": null,
+"s": "Actor, The Wolf of Wall Street (2013)",
+"y": null
+},
+{
+"id": "tt21822272",
+"l": "Real Ones with Jon Bernthal",
+"q": "podcastSeries",
+"s": "Jon Bernthal, Elan Sobel",
+"y": 2022
+},
+{
+"id": "nm2993580",
+"l": "John Benthal",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "nm13067528",
+"l": "Addie Bernthal",
+"q": null,
+"s": "Actress, Small Engine Repair (2021)",
+"y": null
+},
+{
+"id": "nm5503395",
+"l": "John Bernal",
+"q": null,
+"s": "Actor, Joe Vampire (2012)",
+"y": null
+},
+{
+"id": "nm1415022",
+"l": "Mark S. Bernthal",
+"q": null,
+"s": "Writer, Barney & Friends (1992-2004)",
+"y": null
+},
+{
+"id": "nm11138092",
+"l": "John Benthal",
+"q": null,
+"s": "Music Department, West Side Story (2021)",
+"y": null
+},
+{
+"id": "tt0415902",
+"l": "John W. Wilson and Bertha Waring",
+"q": "short",
+"s": "Bertha Waring, John W. Wilson",
+"y": 1894
 }
 ],
 "q:joseph zada": [
@@ -7171,6 +8151,64 @@
 "y": 2004
 }
 ],
+"q:kenneth branagh": [
+{
+"id": "nm0000110",
+"l": "Kenneth Branagh",
+"q": null,
+"s": "Actor, Much Ado About Nothing (1993)",
+"y": null
+},
+{
+"id": "tt0116477",
+"l": "Hamlet",
+"q": "movie",
+"s": "Kenneth Branagh, Julie Christie",
+"y": 1996
+},
+{
+"id": "tt1663341",
+"l": "Kenneth Branagh Films 'The Magic Flute'",
+"q": "video",
+"s": "Kenneth Branagh, Louise Callinan",
+"y": 2008
+},
+{
+"id": "tt5226844",
+"l": "Branagh Theatre Live: The Winter's Tale",
+"q": "movie",
+"s": "Miranda Raison, Pierre Atri",
+"y": 2015
+},
+{
+"id": "tt5943392",
+"l": "Branagh Theatre Live: Romeo and Juliet",
+"q": "movie",
+"s": "Richard Madden, Lily James",
+"y": 2016
+},
+{
+"id": "tt0475331",
+"l": "The Magic Flute",
+"q": "movie",
+"s": "Joseph Kaiser, Amy Carson",
+"y": 2006
+},
+{
+"id": "tt5299172",
+"l": "Sir Kenneth Branagh: The Tsar of Shadow Recruit",
+"q": "video",
+"s": "Kenneth Branagh, Kevin Costner",
+"y": 2014
+},
+{
+"id": "nm4670176",
+"l": "Kenneth Branam Jr.",
+"q": null,
+"s": "Stunts, The Amazing Race (2006)",
+"y": null
+}
+],
 "q:kieran culkin": [
 {
 "id": "nm0001085",
@@ -7206,6 +8244,22 @@
 "q": null,
 "s": "Additional Crew, Granada Reports (2019)",
 "y": null
+}
+],
+"q:kiki consegne a domicilio": [
+{
+"id": "tt0097814",
+"l": "Kiki's Delivery Service",
+"q": "movie",
+"s": "Minami Takayama, Rei Sakuma",
+"y": 1989
+},
+{
+"id": "tt0071373",
+"l": "Cry Rape",
+"q": "tvMovie",
+"s": "Andrea Marcovicci, Peter Coffield",
+"y": 1973
 }
 ],
 "q:koreeda hirokazu": [
@@ -7887,6 +8941,64 @@
 "y": 2015
 }
 ],
+"q:louis garrel": [
+{
+"id": "nm0308039",
+"l": "Louis Garrel",
+"q": null,
+"s": "Actor, The Dreamers (2003)",
+"y": null
+},
+{
+"id": "nm0300743",
+"l": "Louise Gaffney",
+"q": null,
+"s": "Script and Continuity Department, Abigail (2024)",
+"y": null
+},
+{
+"id": "nm0040013",
+"l": "Christine Astin",
+"q": null,
+"s": "Producer, Kangaroo Court (1994)",
+"y": null
+},
+{
+"id": "nm0306627",
+"l": "Louis Gardel",
+"q": null,
+"s": "Writer, Indochine (1992)",
+"y": null
+},
+{
+"id": "nm0218840",
+"l": "Jacques Demy",
+"q": null,
+"s": "Director, The Umbrellas of Cherbourg (1964)",
+"y": null
+},
+{
+"id": "nm6829280",
+"l": "Jean-Louis Garçon",
+"q": null,
+"s": "Actor, Astrid (2020-2025)",
+"y": null
+},
+{
+"id": "nm0023813",
+"l": "Luis César Amadori",
+"q": null,
+"s": "Writer, Honeysuckle (1938)",
+"y": null
+},
+{
+"id": "nm0053115",
+"l": "Luisa Baratto",
+"q": null,
+"s": "Actress, Bloody Pit of Horror (1965)",
+"y": null
+}
+],
 "q:luchino visconti": [
 {
 "id": "nm0899581",
@@ -7958,6 +9070,15 @@
 "l": "Jamie Williams",
 "q": null,
 "s": "Self, The Oprah Winfrey Show (1997)",
+"y": null
+}
+],
+"q:maggie nicole robertson": [
+{
+"id": "nm15757860",
+"l": "Maggie Nicole Robertson",
+"q": null,
+"s": "Actress, Violent Night 2 (2026)",
 "y": null
 }
 ],
@@ -8085,6 +9206,64 @@
 "q": null,
 "s": "Cinematographer, St. Jacques (2010)",
 "y": null
+}
+],
+"q:mark hamill": [
+{
+"id": "nm0000434",
+"l": "Mark Hamill",
+"q": null,
+"s": "Actor, Star Wars: Episode IV - A New Hope (1977)",
+"y": null
+},
+{
+"id": "nm3786566",
+"l": "Ivo Zubaty",
+"q": null,
+"s": "Stunts, Snowpiercer (2013)",
+"y": null
+},
+{
+"id": "nm0303991",
+"l": "Tom Gammill",
+"q": null,
+"s": "Producer, It's Garry Shandling's Show. (1987-1990)",
+"y": null
+},
+{
+"id": "tt0176820",
+"l": "To the Galaxy and Beyond with Mark Hamill",
+"q": "tvMovie",
+"s": "Forrest J. Ackerman, Mark Hamill",
+"y": 1997
+},
+{
+"id": "tt5775214",
+"l": "Mark Hamill's Pop Culture Quest",
+"q": "tvSeries",
+"s": "Mark Hamill, Dan Milano",
+"y": 2016
+},
+{
+"id": "nm3994057",
+"l": "Mark Hamill",
+"q": null,
+"s": "Additional Crew, Attack of the Movies 3-D (2010)",
+"y": null
+},
+{
+"id": "tt5255138",
+"l": "Mark Hamill Goes Undercover as a Stormtrooper",
+"q": "video",
+"s": "Michael Bender, Mark Hamill",
+"y": 2015
+},
+{
+"id": "tt13410292",
+"l": "Star Wars Screen Test - Mark Hamill",
+"q": "video",
+"s": "Mark Hamill",
+"y": 1977
 }
 ],
 "q:marta zoboli": [
@@ -8871,6 +10050,64 @@
 "y": null
 }
 ],
+"q:melina akerman": [
+{
+"id": "nm11656825",
+"l": "Melina Åkerman Kvie",
+"q": null,
+"s": "Actress, Heder (2022)",
+"y": null
+},
+{
+"id": "nm5779265",
+"l": "Melina Akerman",
+"q": null,
+"s": "Costume Designer, Adorável Psicose (2010-2014)",
+"y": null
+},
+{
+"id": "nm7353971",
+"l": "Melina Åkerman",
+"q": null,
+"s": "Sound Department, Giorgio Moroder feat. Sia: Déjà vu (2015)",
+"y": null
+},
+{
+"id": "nm5321268",
+"l": "Mel Akerman",
+"q": null,
+"s": "Costume Designer, The Endless Night (2023)",
+"y": null
+},
+{
+"id": "nm6282447",
+"l": "Melina Akerman",
+"q": null,
+"s": "Costume Designer, Birizon (2010)",
+"y": null
+},
+{
+"id": "nm0676248",
+"l": "Fred Olen Ray",
+"q": null,
+"s": "Director, Hatfields and McCoys: Bad Blood (2012)",
+"y": null
+},
+{
+"id": "nm0432835",
+"l": "Sergio Jurado",
+"q": null,
+"s": "Music Department, Pasión (2007-2008)",
+"y": null
+},
+{
+"id": "nm5978848",
+"l": "Megan Waterman",
+"q": null,
+"s": null,
+"y": null
+}
+],
 "q:michael fassbender": [
 {
 "id": "nm1055413",
@@ -9028,6 +10265,64 @@
 "l": "Michael Bunker",
 "q": null,
 "s": "Actor, Get Some In! (1976-1977)",
+"y": null
+}
+],
+"q:mike myers": [
+{
+"id": "nm0000196",
+"l": "Mike Myers",
+"q": null,
+"s": "Actor, Austin Powers in Goldmember (2002)",
+"y": null
+},
+{
+"id": "nm4380769",
+"l": "Mike Myers",
+"q": null,
+"s": "Special Effects, The First Purge (2018)",
+"y": null
+},
+{
+"id": "tt0500163",
+"l": "Saturday Night Live: The Best of Mike Myers",
+"q": "video",
+"s": "Mike Myers, Alec Baldwin",
+"y": 1998
+},
+{
+"id": "tt27550714",
+"l": "Halloween: Mike Myers",
+"q": "short",
+"s": "Dane Bowling",
+"y": 2018
+},
+{
+"id": "nm17675629",
+"l": "Mike Myers",
+"q": null,
+"s": "Camera and Electrical Department, Starting 5 (2025)",
+"y": null
+},
+{
+"id": "tt0811138",
+"l": "The Love Guru",
+"q": "movie",
+"s": "Mike Myers, Jessica Alba",
+"y": 2008
+},
+{
+"id": "nm2163846",
+"l": "Mike Myers",
+"q": null,
+"s": "Visual Effects, Star Trek: The Motion Picture (1979)",
+"y": null
+},
+{
+"id": "nm2544987",
+"l": "Mike Myers",
+"q": null,
+"s": "Camera and Electrical Department, Muppets Tonight (1996)",
 "y": null
 }
 ],
@@ -9256,6 +10551,64 @@
 "q": "movie",
 "s": "Jong-Il Kim",
 "y": 2000
+}
+],
+"q:nanni moretti": [
+{
+"id": "nm0604335",
+"l": "Nanni Moretti",
+"q": null,
+"s": "Producer, The Son's Room (2001)",
+"y": null
+},
+{
+"id": "tt19355486",
+"l": "La politique de Nanni Moretti",
+"q": "movie",
+"s": "Nanni Moretti",
+"y": 2021
+},
+{
+"id": "tt3877784",
+"l": "Risposte senza domande: Nanni Moretti",
+"q": "short",
+"s": "Nanni Moretti",
+"y": 1998
+},
+{
+"id": "tt10598598",
+"l": "Riso in bianco: Nanni Moretti atleta di se stesso",
+"q": "tvMovie",
+"s": "Nanni Moretti, Gianni Di Gregorio",
+"y": 1984
+},
+{
+"id": "tt6819736",
+"l": "WorldEnd: What Do You Do at the End of the World? Are You Busy? Will You Save Us?",
+"q": "tvSeries",
+"s": "Ryôhei Arai, Azusa Tadokoro",
+"y": 2017
+},
+{
+"id": "nm0604318",
+"l": "Giovanni Moretti",
+"q": null,
+"s": "Actor, Gamma (1975)",
+"y": null
+},
+{
+"id": "nm1052831",
+"l": "Anny Loretto",
+"q": null,
+"s": "Costume and Wardrobe Department, The Devil Strikes at Night (1957)",
+"y": null
+},
+{
+"id": "nm1238411",
+"l": "Claudia Gamberini Moretti",
+"q": null,
+"s": "Actress, Ciao America (2002)",
+"y": null
 }
 ],
 "q:naomi ackie": [
@@ -9706,6 +11059,122 @@
 "l": "Wayne Hodges",
 "q": null,
 "s": "Actor, I Am Not a Bartender (2024)",
+"y": null
+}
+],
+"q:olivia wilde": [
+{
+"id": "nm1312575",
+"l": "Olivia Wilde",
+"q": null,
+"s": "Actress, Don't Worry Darling (2022)",
+"y": null
+},
+{
+"id": "nm12148599",
+"l": "Olivia Wilde",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "tt10681730",
+"l": "Untitled Olivia Wilde/Katie Silberman/Universal Project",
+"q": "movie",
+"s": "",
+"y": null
+},
+{
+"id": "nm14717354",
+"l": "Olivia Wilde",
+"q": null,
+"s": "Actress, Meeting Magdalene (1995)",
+"y": null
+},
+{
+"id": "nm14950305",
+"l": "Olivia Wilde",
+"q": null,
+"s": "Writer, Long Play (2023)",
+"y": null
+},
+{
+"id": "tt2111375",
+"l": "Olivia Wilde and Tao Ruspoli at the 2008 Vail Film Festival",
+"q": "video",
+"s": "Scott Cross, Tao Ruspoli",
+"y": 2008
+},
+{
+"id": "tt6145920",
+"l": "Inside Zaatari Refugee Camp with Olivia Wilde in 360º",
+"q": "video",
+"s": "",
+"y": 2016
+},
+{
+"id": "tt4209352",
+"l": "Bono, Richard Branson, and Olivia Wilde Join Matt Damon's Strike",
+"q": "video",
+"s": "Bono, Richard Branson",
+"y": 2013
+}
+],
+"q:oscar isaac": [
+{
+"id": "nm1209966",
+"l": "Oscar Isaac",
+"q": null,
+"s": "Actor, Ex Machina (2014)",
+"y": null
+},
+{
+"id": "tt29567683",
+"l": "Kidnapping Oscar Isaac",
+"q": "short",
+"s": "Reed C. Campbell, Ryan Duncan",
+"y": 2023
+},
+{
+"id": "nm2025316",
+"l": "Óscar Isach",
+"q": null,
+"s": "Camera and Electrical Department, Perfume: The Story of a Murderer (2006)",
+"y": null
+},
+{
+"id": "nm11373345",
+"l": "Oscar Isaac",
+"q": null,
+"s": "Actor, The SAS (2025)",
+"y": null
+},
+{
+"id": "tt4662782",
+"l": "Untitled Oscar Isaac Project",
+"q": "movie",
+"s": "",
+"y": null
+},
+{
+"id": "nm3820085",
+"l": "Oscar Golden",
+"q": null,
+"s": "Soundtrack, El Culebro: La historia de mi papá (2017)",
+"y": null
+},
+{
+"id": "nm0000985",
+"l": "James L. Brooks",
+"q": null,
+"s": "Writer, Broadcast News (1987)",
+"y": null
+},
+{
+"id": "nm9035033",
+"l": "Mike Oscar Osemede",
+"q": null,
+"s": "Actor, Mark of the Gods (2018)",
 "y": null
 }
 ],
@@ -10183,6 +11652,64 @@
 "y": null
 }
 ],
+"q:pedro pascal": [
+{
+"id": "nm0050959",
+"l": "Pedro Pascal",
+"q": null,
+"s": "Actor, The Last of Us (2023-2025)",
+"y": null
+},
+{
+"id": "nm17868804",
+"l": "Pedro Pascal",
+"q": null,
+"s": "Self, Lost Worlds (2000)",
+"y": null
+},
+{
+"id": "tt37617692",
+"l": "WHY MARVEL KEEPS LOSING! Fantastic 4's Pedro Pascal Talks About Being A Daddy. The MCU Is COOKED!",
+"q": "video",
+"s": "Derek Anderson, Pedro Pascal",
+"y": 2025
+},
+{
+"id": "tt29078561",
+"l": "Pedro Almodóvar, l'insolent de la Mancha",
+"q": "tvMovie",
+"s": "José Luis Alcaine, Olivia Ruiz",
+"y": 2023
+},
+{
+"id": "nm19134366",
+"l": "Pedro Pardal",
+"q": null,
+"s": "Music Department, Guarding Stars (2026)",
+"y": null
+},
+{
+"id": "nm1483376",
+"l": "Pedro Pascual",
+"q": null,
+"s": "Actor, The Three Wise Kings vs. Santa (2022)",
+"y": null
+},
+{
+"id": "nm10300372",
+"l": "Carlos Abascal Peiro",
+"q": null,
+"s": "Director, Jupiter! (2018)",
+"y": null
+},
+{
+"id": "tt27218860",
+"l": "The Haunting of Prince Dom Pedro de Alcântara Francisco António João Carlos Xavier de Paula Miguel Rafael Joaquim José Gonzaga Pascoal Cipriano Serafim",
+"q": "movie",
+"s": "Joe Fishel, Allen Enlow",
+"y": 2025
+}
+],
 "q:per silenzio e vento": [
 {
 "id": "tt40471989",
@@ -10292,6 +11819,64 @@
 "q": null,
 "s": "Director, Inner Compass Signals (2023)",
 "y": null
+}
+],
+"q:pierce brosnan": [
+{
+"id": "nm0000112",
+"l": "Pierce Brosnan",
+"q": null,
+"s": "Actor, The World Is Not Enough (1999)",
+"y": null
+},
+{
+"id": "tt12014880",
+"l": "Diet Coke Pierce Brosnan James Bond Style Television Commercial",
+"q": "video",
+"s": "Pierce Brosnan, Joely Richardson",
+"y": 1988
+},
+{
+"id": "tt1778746",
+"l": "Untitled Pierce Brosnan Project",
+"q": "tvSeries",
+"s": "",
+"y": null
+},
+{
+"id": "tt18393692",
+"l": "History's Greatest Heists",
+"q": "tvSeries",
+"s": "Pierce Brosnan, William \"Will\" Daubert",
+"y": 2023
+},
+{
+"id": "tt12014954",
+"l": "Diet Coke Pierce Brosnan James Bond Style Television Commercial",
+"q": "video",
+"s": "Pierce Brosnan",
+"y": 1987
+},
+{
+"id": "tt10948298",
+"l": "Tomorrow Never Dies: Pierce Brosnan 007 Special",
+"q": "tvMovie",
+"s": "Peter Luck",
+"y": 1997
+},
+{
+"id": "tt1778932",
+"l": "Untitled Pierce Brosnan/Jack Orman Project",
+"q": "tvMovie",
+"s": "",
+"y": null
+},
+{
+"id": "tt12003714",
+"l": "Kia Pierce Brosnan James Bond Style Television Commercial",
+"q": "video",
+"s": "Pierce Brosnan",
+"y": 2015
 }
 ],
 "q:pierfrancesco favino": [
@@ -11112,6 +12697,15 @@
 "y": 2016
 }
 ],
+"q:roman griffin davis": [
+{
+"id": "nm9877392",
+"l": "Roman Griffin Davis",
+"q": null,
+"s": "Actor, Jojo Rabbit (2019)",
+"y": null
+}
+],
 "q:rupert grint": [
 {
 "id": "nm0342488",
@@ -11342,6 +12936,64 @@
 "q": null,
 "s": "Production Department, The Gorge (2025)",
 "y": null
+}
+],
+"q:sadie sink": [
+{
+"id": "nm5584750",
+"l": "Sadie Sink",
+"q": null,
+"s": "Actress, Stranger Things (2017-2025)",
+"y": null
+},
+{
+"id": "tt6684884",
+"l": "Ladies in Black",
+"q": "movie",
+"s": "Julia Ormond, Angourie Rice",
+"y": 2018
+},
+{
+"id": "tt0377084",
+"l": "Ladies in Lavender",
+"q": "movie",
+"s": "Judi Dench, Maggie Smith",
+"y": 2004
+},
+{
+"id": "tt29291626",
+"l": "Ladies in Black",
+"q": "tvSeries",
+"s": "Debi Mazar, Miranda Otto",
+"y": 2024
+},
+{
+"id": "tt29650530",
+"l": "Mercy for None",
+"q": "tvSeries",
+"s": "So Ji-sub, Huh Joon-ho",
+"y": 2025
+},
+{
+"id": "tt0033802",
+"l": "Ladies in Retirement",
+"q": "movie",
+"s": "Ida Lupino, Louis Hayward",
+"y": 1941
+},
+{
+"id": "nm10548497",
+"l": "Sadie Kennedy",
+"q": null,
+"s": "Actress, The Prince",
+"y": null
+},
+{
+"id": "tt0027860",
+"l": "Ladies in Love",
+"q": "movie",
+"s": "Janet Gaynor, Loretta Young",
+"y": 1936
 }
 ],
 "q:sai pallavi": [
@@ -11861,6 +13513,64 @@
 "y": null
 }
 ],
+"q:seong ho jang": [
+{
+"id": "nm3529416",
+"l": "Seong-ho Jang",
+"q": null,
+"s": "Editor, The King of Kings (2025)",
+"y": null
+},
+{
+"id": "nm16983740",
+"l": "Seong-Ho Jang",
+"q": null,
+"s": "Art Department, The King of Kings (2025)",
+"y": null
+},
+{
+"id": "nm15585554",
+"l": "Jang Seong-Ho",
+"q": null,
+"s": "Visual Effects, A Werewolf Boy (2012)",
+"y": null
+},
+{
+"id": "nm5359467",
+"l": "'Jay' Seong Ho Jang",
+"q": null,
+"s": "Visual Effects, Last Knights (2015)",
+"y": null
+},
+{
+"id": "nm9475707",
+"l": "Hoyeon",
+"q": null,
+"s": "Actress, Hope (2026)",
+"y": null
+},
+{
+"id": "nm0814280",
+"l": "Song Kang-ho",
+"q": null,
+"s": "Actor, Memories of Murder (2003)",
+"y": null
+},
+{
+"id": "nm10773699",
+"l": "Jang Seong Ho",
+"q": null,
+"s": "Visual Effects, Disaster: Day of Crisis (2008)",
+"y": null
+},
+{
+"id": "nm15386373",
+"l": "Kang Seung-ho",
+"q": null,
+"s": "Actor, House of the Seasons (2023)",
+"y": null
+}
+],
 "q:sergio ceglie": [
 {
 "id": "nm19085865",
@@ -11944,6 +13654,7 @@
 "y": 2026
 }
 ],
+"q:shrek 25mo anniversario": [],
 "q:silvio orlando": [
 {
 "id": "nm0650024",
@@ -12141,6 +13852,64 @@
 "q": null,
 "s": "Actress, Angels on Earth New School Year (2020)",
 "y": null
+}
+],
+"q:spider man brand new day": [
+{
+"id": "tt22084616",
+"l": "Spider-Man: Brand New Day",
+"q": "movie",
+"s": "Tom Holland, Zendaya",
+"y": 2026
+},
+{
+"id": "tt43633533",
+"l": "Spider-Man Brand New Day: Messi Super Fan",
+"q": "short",
+"s": "Tom Holland, Lionel Messi",
+"y": 2026
+},
+{
+"id": "tt0290983",
+"l": "Spider-Man: The New Animated Series",
+"q": "tvSeries",
+"s": "Neil Patrick Harris, Lisa Loeb",
+"y": 2003
+},
+{
+"id": "tt4633694",
+"l": "Spider-Man: Into the Spider-Verse",
+"q": "movie",
+"s": "Shameik Moore, Jake Johnson",
+"y": 2018
+},
+{
+"id": "tt37475755",
+"l": "Stephen OYoung Talks Mister Negative, Spider-Man: Brand New Day & Mission Impossible Role",
+"q": "video",
+"s": "Carson Kelly, Stephen Oyoung",
+"y": 2025
+},
+{
+"id": "tt12590502",
+"l": "Spider-Man: Cake Day",
+"q": "short",
+"s": "Josh Borja, Matt Zone",
+"y": 2018
+},
+{
+"id": "tt11597720",
+"l": "Sting: Brand New Day",
+"q": "musicVideo",
+"s": "Sting",
+"y": 1999
+},
+{
+"id": "tt7089882",
+"l": "Sound! Euphonium the Movie - Our Promise: A Brand New Day",
+"q": "movie",
+"s": "Tomoyo Kurosawa, Chika Anzai",
+"y": 2019
 }
 ],
 "q:stanley kubrick": [
@@ -12525,6 +14294,15 @@
 "l": "Uchronia",
 "q": "movie",
 "s": "Kristof Lamp, Flomaria Papadaki",
+"y": 2026
+}
+],
+"q:succedera questa notte": [
+{
+"id": "tt37341481",
+"l": "It Will Happen Tonight",
+"q": "movie",
+"s": "Louis Garrel, Jasmine Trinca",
 "y": 2026
 }
 ],
@@ -13355,6 +15133,64 @@
 "y": null
 }
 ],
+"q:tom holland": [
+{
+"id": "nm4043618",
+"l": "Tom Holland",
+"q": null,
+"s": "Actor, Spider-Man: Homecoming (2017)",
+"y": null
+},
+{
+"id": "nm0390903",
+"l": "Tom Hollander",
+"q": null,
+"s": "Actor, Pride & Prejudice (2005)",
+"y": null
+},
+{
+"id": "nm0276169",
+"l": "Tom Holland",
+"q": null,
+"s": "Writer, Fright Night (1985)",
+"y": null
+},
+{
+"id": "tt3607814",
+"l": "Tom Holland's Twisted Tales",
+"q": "movie",
+"s": "AJ Bowen, Bonnie Piesse",
+"y": 2014
+},
+{
+"id": "tt50276236",
+"l": "Tom Holland: Rise of a Superstar",
+"q": "movie",
+"s": "Isabella Amara, Robert Downey Jr.",
+"y": 2026
+},
+{
+"id": "nm2286597",
+"l": "Tom Holland",
+"q": null,
+"s": "Additional Crew, Timewatch (2005)",
+"y": null
+},
+{
+"id": "nm0390847",
+"l": "Tom Holland",
+"q": null,
+"s": "Actor, Tijuana Toads (1969-1972)",
+"y": null
+},
+{
+"id": "nm4718969",
+"l": "Tom Holland",
+"q": null,
+"s": "Actor, Hawaii Five-0 (2011)",
+"y": null
+}
+],
 "q:tom waits": [
 {
 "id": "nm0001823",
@@ -13433,6 +15269,131 @@
 "l": "Tomás Allione",
 "q": null,
 "s": null,
+"y": null
+}
+],
+"q:tommy wirkola": [
+{
+"id": "nm2482088",
+"l": "Tommy Wirkola",
+"q": null,
+"s": "Writer, Dead Snow 2: Red vs. Dead (2014)",
+"y": null
+}
+],
+"q:tony gilroy": [
+{
+"id": "nm0006904",
+"l": "Tony Gilroy",
+"q": null,
+"s": "Writer, Michael Clayton (2007)",
+"y": null
+},
+{
+"id": "nm0319681",
+"l": "Tony Gilroy",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "tt5210598",
+"l": "The Bourne Identity: Access Granted - Co-Writer Tony Gilroy",
+"q": "video",
+"s": "Tony Gilroy, Franka Potente",
+"y": 2004
+},
+{
+"id": "nm0577713",
+"l": "Antonio Meliande",
+"q": null,
+"s": "Cinematographer, Doramundo (1978)",
+"y": null
+},
+{
+"id": "nm0319672",
+"l": "Jenny Gilroy",
+"q": null,
+"s": "Editorial Department, Dark City (1998)",
+"y": null
+},
+{
+"id": "nm3063253",
+"l": "Liloy Fornoles",
+"q": null,
+"s": "Camera and Electrical Department, Sa dibdib ng Sierra Madre (1985)",
+"y": null
+},
+{
+"id": "tt0926143",
+"l": "Shattered Glory: The Tonya Harding and Nancy Kerrigan Story",
+"q": "tvMovie",
+"s": "Leeza Gibbons",
+"y": 1994
+},
+{
+"id": "nm17693425",
+"l": "Tony Gilbody",
+"q": null,
+"s": "Self, Inside the Factory (2018)",
+"y": null
+}
+],
+"q:topher grace": [
+{
+"id": "nm0333410",
+"l": "Topher Grace",
+"q": null,
+"s": "Actor, In Good Company (2004)",
+"y": null
+},
+{
+"id": "tt32639914",
+"l": "Spider-Man 3: Audio Commentary with Director Sam Raimi and Actors Tobey Maguire, Kirsten Dunst, James Franco, Thomas Haden Church, Topher Grace & Bryce Dallas Howard",
+"q": "video",
+"s": "Thomas Haden Church, Kirsten Dunst",
+"y": 2007
+},
+{
+"id": "nm4200085",
+"l": "Christopher Gray",
+"q": null,
+"s": "Visual Effects, Mission: Impossible - The Final Reckoning (2025)",
+"y": null
+},
+{
+"id": "nm0342241",
+"l": "Scott Grimes",
+"q": null,
+"s": "Actor, Critters (1986)",
+"y": null
+},
+{
+"id": "nm12986761",
+"l": "Christopher Stracey",
+"q": null,
+"s": "Composer, Anyone But You (2023)",
+"y": null
+},
+{
+"id": "tt8110642",
+"l": "Grace Hopper",
+"q": "movie",
+"s": "",
+"y": null
+},
+{
+"id": "nm18964330",
+"l": "Christopher Gray",
+"q": null,
+"s": "Stunts, Verity (2026)",
+"y": null
+},
+{
+"id": "nm0160541",
+"l": "Bojesse Christopher",
+"q": null,
+"s": "Actor, True Detective (2019)",
 "y": null
 }
 ],
@@ -13553,6 +15514,64 @@
 "y": null
 }
 ],
+"q:uma thurman": [
+{
+"id": "nm0000235",
+"l": "Uma Thurman",
+"q": null,
+"s": "Actress, Kill Bill: Vol. 1 (2003)",
+"y": null
+},
+{
+"id": "nm14143167",
+"l": "Uma Thurman",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "tt33266028",
+"l": "Uma Thurman: Die stille Kämpferin Hollywoods",
+"q": "tvMovie",
+"s": "Quinn Askew, Clint Eastwood",
+"y": 2024
+},
+{
+"id": "tt6705980",
+"l": "Fall Out Boy: Uma Thurman",
+"q": "musicVideo",
+"s": "Action Bronson, Big Data",
+"y": 2015
+},
+{
+"id": "nm1638321",
+"l": "Maya Hawke",
+"q": null,
+"s": "Actress, Do Revenge (2022)",
+"y": null
+},
+{
+"id": "nm0558950",
+"l": "Cameron Mathison",
+"q": null,
+"s": "Actor, All My Children (1998-2011)",
+"y": null
+},
+{
+"id": "nm0862200",
+"l": "Nena Thurman",
+"q": null,
+"s": "Actress, Julian Po (1997)",
+"y": null
+},
+{
+"id": "nm0558612",
+"l": "Arthur Mathews",
+"q": null,
+"s": "Writer, Father Ted (1995-1998)",
+"y": null
+}
+],
 "q:un tranquillo funerale di famiglia": [
 {
 "id": "tt41973396",
@@ -13617,6 +15636,22 @@
 "l": "Un weekend artificiale",
 "q": "movie",
 "s": "Leonardo Pieraccioni, Giulia Vecchio",
+"y": 2026
+}
+],
+"q:unaltra notte violenta e silenziosa": [
+{
+"id": "tt12003946",
+"l": "Violent Night",
+"q": "movie",
+"s": "David Harbour, John Leguizamo",
+"y": 2022
+},
+{
+"id": "tt32432428",
+"l": "Violent Night 2",
+"q": "movie",
+"s": "Kristen Bell, David Harbour",
 "y": 2026
 }
 ],
@@ -13692,6 +15727,64 @@
 "q": "short",
 "s": "Vanessa Redgrave",
 "y": 2018
+}
+],
+"q:vicky jenson": [
+{
+"id": "nm0421776",
+"l": "Vicky Jenson",
+"q": null,
+"s": "Director, Shrek (2001)",
+"y": null
+},
+{
+"id": "nm6421971",
+"l": "Vicky Jenson",
+"q": null,
+"s": null,
+"y": null
+},
+{
+"id": "nm0378237",
+"l": "Nicky Henson",
+"q": null,
+"s": "Actor, Syriana (2005)",
+"y": null
+},
+{
+"id": "nm2351920",
+"l": "Vicky Jewson",
+"q": null,
+"s": "Director, Close (2019)",
+"y": null
+},
+{
+"id": "nm1222508",
+"l": "Rikki Hanson",
+"q": null,
+"s": "Sound Department, Jurassic World: Fallen Kingdom (2018)",
+"y": null
+},
+{
+"id": "nm2663924",
+"l": "Ricky Jensen",
+"q": null,
+"s": "Actor, Hotel Erotica Cabo (2006)",
+"y": null
+},
+{
+"id": "nm1365203",
+"l": "Vicki Berlin",
+"q": null,
+"s": "Actress, Triangle of Sadness (2022)",
+"y": null
+},
+{
+"id": "nm0426399",
+"l": "Victoria Johnson",
+"q": null,
+"s": "Actress, Grizzly (1976)",
+"y": null
 }
 ],
 "q:vincent cassel": [
@@ -14155,6 +16248,64 @@
 "q": "movie",
 "s": "Peyton Elizabeth Lee, Jacob Tremblay",
 "y": 2026
+}
+],
+"q:will arnett": [
+{
+"id": "nm0004715",
+"l": "Will Arnett",
+"q": null,
+"s": "Actor, The Lego Batman Movie (2017)",
+"y": null
+},
+{
+"id": "tt7504488",
+"l": "Lego Batman: Me and My Minifig - Will Arnett",
+"q": "short",
+"s": "Will Arnett",
+"y": 2017
+},
+{
+"id": "tt27998383",
+"l": "The Grandstand with Daniel Ricciardo and Will Arnett",
+"q": "tvSeries",
+"s": "Will Arnett, Daniel Ricciardo",
+"y": 2023
+},
+{
+"id": "tt1087886",
+"l": "Arnett & Poehler: A Family Affair",
+"q": "video",
+"s": "Will Arnett, Amy Poehler",
+"y": 2007
+},
+{
+"id": "tt6877502",
+"l": "Bill Arnett Won't Shut Up",
+"q": "movie",
+"s": "",
+"y": null
+},
+{
+"id": "tt0478471",
+"l": "Playboy Video Centerfold: Sherry Arnett",
+"q": "video",
+"s": "Sherry Arnett",
+"y": 1986
+},
+{
+"id": "tt6217926",
+"l": "Annette",
+"q": "movie",
+"s": "Adam Driver, Marion Cotillard",
+"y": 2021
+},
+{
+"id": "tt1674773",
+"l": "Hannah Arendt",
+"q": "movie",
+"s": "Barbara Sukowa, Axel Milberg",
+"y": 2012
 }
 ],
 "q:william sylvester": [
